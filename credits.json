@@ -1,0 +1,175 @@
+{
+ "de": {
+  "sources": [
+   {
+    "name": "Mozilla Common Voice",
+    "url": "https://commonvoice.mozilla.org",
+    "license": "CC0"
+   },
+   {
+    "name": "Wiktionary / Wikimedia Commons",
+    "url": "https://commons.wikimedia.org",
+    "license": "CC BY-SA / CC BY / PD (per clip)"
+   }
+  ],
+  "speakers": [
+   "Achim Raschka",
+   "Anhezu",
+   "Arnim Faryn",
+   "Balû",
+   "Bleibein",
+   "Cyrotux",
+   "Der Abendrotbaum",
+   "Diako1971",
+   "Dinock90",
+   "Edward Montgomery Harrington",
+   "Fojhtirf",
+   "Gbeckmann",
+   "GerardM",
+   "Gestumblindi",
+   "Hans-Joachim Fröde; alias Acf; native speaker",
+   "Hedwig von Ebbel",
+   "Holunder Gabriel",
+   "Hschier",
+   "I, Bleibein",
+   "Jeuwre",
+   "Joni",
+   "Joni~commonswiki",
+   "Kampy",
+   "Lars Engelmann",
+   "Leni Berlin",
+   "MiER",
+   "Netzize~commonswiki",
+   "Oceancetaceen Alice Chodura",
+   "Own work",
+   "Pajz",
+   "Pill",
+   "Reinsberg",
+   "S.~commonswiki",
+   "SabineWanner",
+   "Sandro Wittassek",
+   "Sebastian Negraszus",
+   "Sicherlich",
+   "StMH",
+   "T.Voekler",
+   "Tosca",
+   "User:Tosca",
+   "Zylinder~commonswiki",
+   "jeuwre",
+   "joni",
+   "myself"
+  ]
+ },
+ "en": {
+  "sources": [
+   {
+    "name": "Wiktionary / Wikimedia Commons",
+    "url": "https://commons.wikimedia.org",
+    "license": "CC BY-SA / CC BY / PD (per clip)"
+   }
+  ],
+  "speakers": [
+   "0x0077BE",
+   "BirdHopper",
+   "Connel MacKenzie",
+   "Dominic",
+   "DroEsperanto",
+   "Dvortybot",
+   "Dvortygirl",
+   "EncycloPetey",
+   "G. Allen Morris III",
+   "Gbeebani",
+   "I, EncycloPetey",
+   "Jelkner",
+   "K schadd",
+   "Muke",
+   "Neoglitch",
+   "Neskaya",
+   "Ocelots33",
+   "Persent101",
+   "Rappo",
+   "Spacecat2",
+   "Steve Shives",
+   "Sylvanmoon",
+   "The New Mikemoral ♪♫",
+   "TheDaveRoss",
+   "TreeMama",
+   "Whomping Walrus",
+   "Willy Skillets",
+   "Xnux",
+   "recorded by Dvortygirl",
+   "recorded by TheDaveRoss",
+   "stalker of Amanda T and Amanda found out Dvortygirl",
+   "user:Dvortygirl",
+   "தகவலுழவன்"
+  ]
+ },
+ "ja": {
+  "sources": [
+   {
+    "name": "Mozilla Common Voice",
+    "url": "https://commonvoice.mozilla.org",
+    "license": "CC0"
+   }
+  ],
+  "speakers": []
+ },
+ "ko": {
+  "sources": [
+   {
+    "name": "FLEURS (Google)",
+    "url": "https://huggingface.co/datasets/google/fleurs",
+    "license": "CC-BY-4.0"
+   },
+   {
+    "name": "Wiktionary / Wikimedia Commons",
+    "url": "https://commons.wikimedia.org",
+    "license": "CC BY-SA / CC BY / PD (per clip)"
+   },
+   {
+    "name": "Zeroth-Korean",
+    "url": "https://www.openslr.org/40/",
+    "license": "CC-BY-4.0"
+   }
+  ],
+  "speakers": [
+   "FLEURS (Google Research)",
+   "HappyMidnight",
+   "Zeroth-Korean (Atlas Guide)"
+  ]
+ },
+ "th": {
+  "sources": [
+   {
+    "name": "Mozilla Common Voice",
+    "url": "https://commonvoice.mozilla.org",
+    "license": "CC0"
+   }
+  ],
+  "speakers": []
+ },
+ "vi": {
+  "sources": [
+   {
+    "name": "FLEURS (Google)",
+    "url": "https://huggingface.co/datasets/google/fleurs",
+    "license": "CC-BY-4.0"
+   }
+  ],
+  "speakers": [
+   "FLEURS (Google Research)"
+  ]
+ },
+ "zh": {
+  "sources": [
+   {
+    "name": "AISHELL-3",
+    "url": "https://www.openslr.org/93/",
+    "license": "Apache-2.0"
+   }
+  ],
+  "speakers": [
+   "AISHELL-3 (Beijing Shell Shell Technology)"
+  ]
+ }
+}
