@@ -10,6 +10,21 @@
     "name": "Wiktionary / Wikimedia Commons",
     "url": "https://commons.wikimedia.org",
     "license": "CC BY-SA / CC BY / PD (per clip)"
+   },
+   {
+    "name": "English Wiktionary via kaikki.org (German lemmas, IPA, gender, plural, glosses)",
+    "url": "https://kaikki.org/dictionary/German/",
+    "license": "CC-BY-SA-4.0"
+   },
+   {
+    "name": "Leipzig Corpora Collection (word frequencies only)",
+    "url": "https://wortschatz.uni-leipzig.de/en/download/German",
+    "license": "CC-BY-4.0"
+   },
+   {
+    "name": "wordfreq (word frequencies)",
+    "url": "https://github.com/rspeer/wordfreq",
+    "license": "MIT"
    }
   ],
   "speakers": [
@@ -66,6 +81,21 @@
     "name": "Wiktionary / Wikimedia Commons",
     "url": "https://commons.wikimedia.org",
     "license": "CC BY-SA / CC BY / PD (per clip)"
+   },
+   {
+    "name": "NGSL project word lists – NGSL 1.2, NGSL-Spoken, NAWL, SFI frequency list (Browne, Culligan & Phillips)",
+    "url": "https://www.newgeneralservicelist.com",
+    "license": "CC-BY-SA-4.0"
+   },
+   {
+    "name": "English Wiktionary via kaikki.org (part of speech, IPA, glosses, translations)",
+    "url": "https://kaikki.org/dictionary/English/",
+    "license": "CC-BY-SA-4.0"
+   },
+   {
+    "name": "wordfreq (word frequencies)",
+    "url": "https://github.com/rspeer/wordfreq",
+    "license": "MIT"
    }
   ],
   "speakers": [
@@ -110,6 +140,26 @@
     "name": "Mozilla Common Voice",
     "url": "https://commonvoice.mozilla.org",
     "license": "CC0"
+   },
+   {
+    "name": "JLPT vocabulary lists by Jonathan Waller (tanos.co.uk)",
+    "url": "https://www.tanos.co.uk/jlpt/",
+    "license": "CC-BY-4.0"
+   },
+   {
+    "name": "JMdict (EDRDG) – readings, part of speech, glosses",
+    "url": "https://www.edrdg.org/jmdict/j_jmdict.html",
+    "license": "CC-BY-SA-4.0"
+   },
+   {
+    "name": "wordfreq (word frequencies)",
+    "url": "https://github.com/rspeer/wordfreq",
+    "license": "MIT"
+   },
+   {
+    "name": "KanjiVG by Ulrich Apel (kana and kanji stroke order)",
+    "url": "https://github.com/KanjiVG/kanjivg",
+    "license": "CC-BY-SA-3.0"
    }
   ],
   "speakers": []
@@ -130,6 +180,26 @@
     "name": "Zeroth-Korean",
     "url": "https://www.openslr.org/40/",
     "license": "CC-BY-4.0"
+   },
+   {
+    "name": "NIKL 한국어 학습용 어휘 목록 / TOPIK 어휘 목록 (word list)",
+    "url": "https://github.com/julienshim/combined_korean_vocabulary_list",
+    "license": "KOGL-1"
+   },
+   {
+    "name": "English Wiktionary via kaikki.org (Korean glosses, counters)",
+    "url": "https://kaikki.org/dictionary/Korean/",
+    "license": "CC-BY-SA-4.0"
+   },
+   {
+    "name": "Kengdic (fallback glosses)",
+    "url": "https://github.com/garfieldnate/kengdic",
+    "license": "MPL-2.0"
+   },
+   {
+    "name": "wordfreq (word frequencies)",
+    "url": "https://github.com/rspeer/wordfreq",
+    "license": "MIT"
    }
   ],
   "speakers": [
@@ -154,6 +224,21 @@
     "name": "FLEURS (Google)",
     "url": "https://huggingface.co/datasets/google/fleurs",
     "license": "CC-BY-4.0"
+   },
+   {
+    "name": "English Wiktionary via kaikki.org (Vietnamese head words, glosses, classifiers)",
+    "url": "https://kaikki.org/dictionary/Vietnamese/",
+    "license": "CC-BY-SA-3.0"
+   },
+   {
+    "name": "Leipzig Corpora Collection (word frequencies only)",
+    "url": "https://wortschatz.uni-leipzig.de/en/download/Vietnamese",
+    "license": "CC-BY-4.0"
+   },
+   {
+    "name": "wordfreq (syllable frequencies)",
+    "url": "https://github.com/rspeer/wordfreq",
+    "license": "MIT"
    }
   ],
   "speakers": [
@@ -166,6 +251,26 @@
     "name": "AISHELL-3",
     "url": "https://www.openslr.org/93/",
     "license": "Apache-2.0"
+   },
+   {
+    "name": "CC-CEDICT (pinyin, English glosses)",
+    "url": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
+    "license": "CC-BY-SA-4.0"
+   },
+   {
+    "name": "wordfreq (word frequencies)",
+    "url": "https://github.com/rspeer/wordfreq",
+    "license": "MIT"
+   },
+   {
+    "name": "Make Me a Hanzi (stroke graphics)",
+    "url": "https://github.com/skishore/makemeahanzi",
+    "license": "Arphic Public License"
+   },
+   {
+    "name": "Make Me a Hanzi (character dictionary)",
+    "url": "https://github.com/skishore/makemeahanzi",
+    "license": "LGPL-3.0"
    }
   ],
   "speakers": [
