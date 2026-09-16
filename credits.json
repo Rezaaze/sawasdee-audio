@@ -214,9 +214,17 @@
     "name": "Mozilla Common Voice",
     "url": "https://commonvoice.mozilla.org",
     "license": "CC0"
+   },
+   {
+    "name": "Qwen3-TTS (Alibaba Qwen team)",
+    "license": "Apache-2.0",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt -- fuer Thai kein natives Preset, Hoertest 15.09. positiv"
    }
   ],
-  "speakers": []
+  "speakers": [
+   "Qwen3-TTS (synthetic, built-in voice, no cloning)"
+  ]
  },
  "vi": {
   "sources": [
@@ -253,6 +261,12 @@
     "license": "Apache-2.0"
    },
    {
+    "name": "Qwen3-TTS (Alibaba Qwen team)",
+    "license": "Apache-2.0",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt"
+   },
+   {
     "name": "CC-CEDICT (pinyin, English glosses)",
     "url": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
     "license": "CC-BY-SA-4.0"
@@ -274,7 +288,8 @@
    }
   ],
   "speakers": [
-   "AISHELL-3 (Beijing Shell Shell Technology)"
+   "AISHELL-3 (Beijing Shell Shell Technology)",
+   "Qwen3-TTS (synthetic, built-in voice, no cloning)"
   ]
  }
 }
