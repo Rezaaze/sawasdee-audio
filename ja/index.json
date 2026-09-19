@@ -37,13 +37,9 @@
     },
     "3": {
       "text": "国",
-      "src": "common_voice_ja_41712493.mp3",
-      "start": 0.897,
-      "end": 1.349,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.617
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4": {
       "text": "銀行",
@@ -117,13 +113,9 @@
     },
     "13": {
       "text": "牛",
-      "src": "common_voice_ja_39897487.mp3",
-      "start": 1.268,
-      "end": 1.77,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.633
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "15": {
       "text": "バスケットボール",
@@ -176,14 +168,10 @@
       "score": 0.597
     },
     "21": {
-      "text": "創造する",
-      "src": "common_voice_ja_30688377.mp3",
-      "start": 0.911,
-      "end": 1.522,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.741
+      "text": "創造",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "23": {
       "text": "トイレ",
@@ -197,13 +185,9 @@
     },
     "24": {
       "text": "呼ぶ",
-      "src": "common_voice_ja_36357975.mp3",
-      "start": 2.143,
-      "end": 2.535,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.69
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "25": {
       "text": "文化",
@@ -217,13 +201,9 @@
     },
     "26": {
       "text": "行動",
-      "src": "common_voice_ja_36369892.mp3",
-      "start": 2.07,
-      "end": 2.492,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.669
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "28": {
       "text": "カメラ",
@@ -267,13 +247,9 @@
     },
     "32": {
       "text": "できる",
-      "src": "common_voice_ja_36294605.mp3",
-      "start": 3.456,
-      "end": 3.897,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.999
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "33": {
       "text": "顧客",
@@ -297,13 +273,9 @@
     },
     "35": {
       "text": "美しい",
-      "src": "common_voice_ja_36361400.mp3",
-      "start": 2.015,
-      "end": 2.686,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.735
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "37": {
       "text": "切る",
@@ -367,23 +339,15 @@
     },
     "43": {
       "text": "なる",
-      "src": "common_voice_ja_39779673.mp3",
-      "start": 1.895,
-      "end": 2.257,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.999
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "44": {
       "text": "車",
-      "src": "common_voice_ja_41777805.mp3",
-      "start": 1.585,
-      "end": 1.837,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.697
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "45": {
       "text": "踊る",
@@ -397,13 +361,9 @@
     },
     "46": {
       "text": "住所",
-      "src": "common_voice_ja_20838308.mp3",
-      "start": 2.403,
-      "end": 2.845,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.591
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "47": {
       "text": "ベッド",
@@ -437,13 +397,9 @@
     },
     "50": {
       "text": "大人",
-      "src": "common_voice_ja_39200498.mp3",
-      "start": 2.788,
-      "end": 3.179,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.508
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "51": {
       "text": "寝室",
@@ -477,13 +433,9 @@
     },
     "54": {
       "text": "アドバイス",
-      "src": "common_voice_ja_36353775.mp3",
-      "start": 1.048,
-      "end": 1.371,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.433
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "55": {
       "text": "ビール",
@@ -516,14 +468,10 @@
       "score": 0.829
     },
     "59": {
-      "text": "前に",
-      "src": "common_voice_ja_20413432.mp3",
-      "start": 1.107,
-      "end": 1.388,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.818
+      "text": "先",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "60": {
       "text": "運ぶ",
@@ -606,14 +554,10 @@
       "score": 0.82
     },
     "69": {
-      "text": "娘",
-      "src": "common_voice_ja_26236578.mp3",
-      "start": 2.565,
-      "end": 2.846,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.433
+      "text": "嬢",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "70": {
       "text": "再び",
@@ -626,14 +570,10 @@
       "score": 0.66
     },
     "71": {
-      "text": "後ろに",
-      "src": "common_voice_ja_26144890.mp3",
-      "start": 3.592,
-      "end": 4.013,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.755
+      "text": "後ろ",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "72": {
       "text": "セント",
@@ -657,13 +597,9 @@
     },
     "74": {
       "text": "年齢",
-      "src": "common_voice_ja_38920890.mp3",
-      "start": 2.995,
-      "end": 3.375,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.807
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "75": {
       "text": "信じる",
@@ -787,13 +723,9 @@
     },
     "92": {
       "text": "安い",
-      "src": "common_voice_ja_36366286.mp3",
-      "start": 1.77,
-      "end": 2.252,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.767
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "94": {
       "text": "全て",
@@ -816,14 +748,10 @@
       "score": 0.67
     },
     "96": {
-      "text": "確認する",
-      "src": "common_voice_ja_38905952.mp3",
-      "start": 3.576,
-      "end": 4.307,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.918
+      "text": "確認",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "97": {
       "text": "説明",
@@ -1007,13 +935,9 @@
     },
     "116": {
       "text": "選ぶ",
-      "src": "common_voice_ja_36335096.mp3",
-      "start": 1.874,
-      "end": 2.276,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.682
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "117": {
       "text": "辞書",
@@ -1196,14 +1120,10 @@
       "score": 0.797
     },
     "135": {
-      "text": "登る",
-      "src": "common_voice_ja_26014072.mp3",
-      "start": 1.649,
-      "end": 1.94,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.657
+      "text": "上る",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "136": {
       "text": "難しい",
@@ -1317,13 +1237,9 @@
     },
     "147": {
       "text": "服",
-      "src": "common_voice_ja_41946840.mp3",
-      "start": 1.347,
-      "end": 1.548,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.874
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "148": {
       "text": "議論する",
@@ -1477,13 +1393,9 @@
     },
     "166": {
       "text": "大学",
-      "src": "common_voice_ja_39029569.mp3",
-      "start": 1.083,
-      "end": 1.685,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.634
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "167": {
       "text": "ドル",
@@ -1607,13 +1519,9 @@
     },
     "180": {
       "text": "として",
-      "src": "common_voice_ja_27660951.mp3",
-      "start": 3.589,
-      "end": 4.07,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.978
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "181": {
       "text": "パン",
@@ -1667,13 +1575,9 @@
     },
     "187": {
       "text": "ドレス",
-      "src": "common_voice_ja_25897611.mp3",
-      "start": 2.89,
-      "end": 3.241,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.872
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "189": {
       "text": "朝食",
@@ -1707,13 +1611,9 @@
     },
     "193": {
       "text": "持ってくる",
-      "src": "common_voice_ja_26008888.mp3",
-      "start": 2.211,
-      "end": 2.603,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.516
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "194": {
       "text": "コンピューター",
@@ -1726,14 +1626,10 @@
       "score": 0.88
     },
     "195": {
-      "text": "運転する",
-      "src": "common_voice_ja_39729647.mp3",
-      "start": 1.143,
-      "end": 1.865,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.588
+      "text": "運転",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "196": {
       "text": "叔母",
@@ -1767,13 +1663,9 @@
     },
     "199": {
       "text": "運転手",
-      "src": "common_voice_ja_20464944.mp3",
-      "start": 3.816,
-      "end": 4.277,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.68
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "201": {
       "text": "茶色",
@@ -1887,13 +1779,9 @@
     },
     "215": {
       "text": "悪い",
-      "src": "common_voice_ja_28231687.mp3",
-      "start": 2.195,
-      "end": 2.505,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.923
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "216": {
       "text": "ビジネス",
@@ -1917,13 +1805,9 @@
     },
     "218": {
       "text": "早い",
-      "src": "common_voice_ja_36341578.mp3",
-      "start": 2.882,
-      "end": 3.354,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.577
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "219": {
       "text": "かばん",
@@ -1937,13 +1821,9 @@
     },
     "220": {
       "text": "忙しい",
-      "src": "common_voice_ja_41732905.mp3",
-      "start": 1.114,
-      "end": 1.707,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.703
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "221": {
       "text": "費用",
@@ -2017,13 +1897,9 @@
     },
     "229": {
       "text": "忘れる",
-      "src": "common_voice_ja_36473190.mp3",
-      "start": 3.254,
-      "end": 3.877,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.811
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "230": {
       "text": "熱い",
@@ -2037,13 +1913,9 @@
     },
     "231": {
       "text": "住む",
-      "src": "common_voice_ja_26102961.mp3",
-      "start": 1.298,
-      "end": 1.58,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.736
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "232": {
       "text": "卵",
@@ -2117,13 +1989,9 @@
     },
     "243": {
       "text": "見る",
-      "src": "common_voice_ja_36338758.mp3",
-      "start": 2.405,
-      "end": 2.776,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.729
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "246": {
       "text": "どのように",
@@ -2147,13 +2015,9 @@
     },
     "248": {
       "text": "象",
-      "src": "common_voice_ja_26096654.mp3",
-      "start": 4.065,
-      "end": 4.275,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.582
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "250": {
       "text": "しかしながら",
@@ -2387,13 +2251,9 @@
     },
     "280": {
       "text": "さえ",
-      "src": "common_voice_ja_36369725.mp3",
-      "start": 1.409,
-      "end": 1.751,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.679
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "282": {
       "text": "もし",
@@ -2457,13 +2317,9 @@
     },
     "288": {
       "text": "面白い",
-      "src": "common_voice_ja_36334059.mp3",
-      "start": 0.884,
-      "end": 1.266,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.568
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "289": {
       "text": "重要な",
@@ -2607,13 +2463,9 @@
     },
     "308": {
       "text": "得る",
-      "src": "common_voice_ja_41791066.mp3",
-      "start": 1.401,
-      "end": 1.773,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.816
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "309": {
       "text": "興味",
@@ -2657,13 +2509,9 @@
     },
     "315": {
       "text": "例",
-      "src": "common_voice_ja_26048907.mp3",
-      "start": 1.444,
-      "end": 1.614,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.87
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "317": {
       "text": "興味深い",
@@ -2687,13 +2535,9 @@
     },
     "320": {
       "text": "与える",
-      "src": "common_voice_ja_39620665.mp3",
-      "start": 3.592,
-      "end": 4.153,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.739
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "321": {
       "text": "インターネット",
@@ -2757,13 +2601,9 @@
     },
     "328": {
       "text": "行く",
-      "src": "common_voice_ja_41719036.mp3",
-      "start": 1.214,
-      "end": 1.625,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.69
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "331": {
       "text": "高価な",
@@ -2897,13 +2737,9 @@
     },
     "346": {
       "text": "顔",
-      "src": "common_voice_ja_41742711.mp3",
-      "start": 1.173,
-      "end": 1.536,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.539
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "348": {
       "text": "ジャケット",
@@ -2927,13 +2763,9 @@
     },
     "350": {
       "text": "事実",
-      "src": "common_voice_ja_26130701.mp3",
-      "start": 0.722,
-      "end": 0.972,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.73
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "351": {
       "text": "灰色",
@@ -2957,23 +2789,15 @@
     },
     "354": {
       "text": "落ちる",
-      "src": "common_voice_ja_41723697.mp3",
-      "start": 1.831,
-      "end": 2.293,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.667
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "356": {
       "text": "ジーンズ",
-      "src": "common_voice_ja_26003568.mp3",
-      "start": 1.351,
-      "end": 1.842,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.821
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "357": {
       "text": "メートル",
@@ -3047,13 +2871,9 @@
     },
     "365": {
       "text": "マイル",
-      "src": "common_voice_ja_26048908.mp3",
-      "start": 0.744,
-      "end": 1.196,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.889
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "366": {
       "text": "有名な",
@@ -3087,13 +2907,9 @@
     },
     "369": {
       "text": "牛乳",
-      "src": "common_voice_ja_22732854.mp3",
-      "start": 1.184,
-      "end": 1.575,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.576
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "371": {
       "text": "推測する",
@@ -3147,13 +2963,9 @@
     },
     "379": {
       "text": "ジム",
-      "src": "common_voice_ja_29406770.mp3",
-      "start": 1.585,
-      "end": 1.846,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.798
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "380": {
       "text": "ちょうど",
@@ -3207,13 +3019,9 @@
     },
     "387": {
       "text": "鍵",
-      "src": "common_voice_ja_36355411.mp3",
-      "start": 0.895,
-      "end": 1.055,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.546
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "388": {
       "text": "モデル",
@@ -3277,13 +3085,9 @@
     },
     "394": {
       "text": "起こる",
-      "src": "common_voice_ja_41779042.mp3",
-      "start": 2.002,
-      "end": 2.494,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.66
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "395": {
       "text": "台所",
@@ -3307,13 +3111,9 @@
     },
     "397": {
       "text": "お気に入り",
-      "src": "common_voice_ja_36359882.mp3",
-      "start": 1.606,
-      "end": 2.087,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.688
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "398": {
       "text": "幸せな",
@@ -3377,13 +3177,9 @@
     },
     "406": {
       "text": "帽子",
-      "src": "common_voice_ja_41745363.mp3",
-      "start": 1.127,
-      "end": 1.419,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.647
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "407": {
       "text": "言語",
@@ -3457,23 +3253,15 @@
     },
     "419": {
       "text": "遅い",
-      "src": "common_voice_ja_42138531.mp3",
-      "start": 1.304,
-      "end": 1.575,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.573
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "420": {
       "text": "朝",
-      "src": "common_voice_ja_20425602.mp3",
-      "start": 1.506,
-      "end": 1.707,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.563
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "422": {
       "text": "彼",
@@ -3507,13 +3295,9 @@
     },
     "427": {
       "text": "笑う",
-      "src": "common_voice_ja_38958496.mp3",
-      "start": 4.217,
-      "end": 4.618,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.539
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "428": {
       "text": "母親",
@@ -3537,23 +3321,15 @@
     },
     "431": {
       "text": "学ぶ",
-      "src": "common_voice_ja_41758121.mp3",
-      "start": 1.354,
-      "end": 1.905,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.628
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "432": {
       "text": "山",
-      "src": "common_voice_ja_39095153.mp3",
-      "start": 2.876,
-      "end": 3.247,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.798
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "433": {
       "text": "満たす",
@@ -3697,13 +3473,9 @@
     },
     "448": {
       "text": "終える",
-      "src": "common_voice_ja_39868565.mp3",
-      "start": 1.178,
-      "end": 1.63,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.726
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "449": {
       "text": "彼女の",
@@ -3787,13 +3559,9 @@
     },
     "457": {
       "text": "ねえ",
-      "src": "common_voice_ja_36478528.mp3",
-      "start": 2.384,
-      "end": 2.655,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.782
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "458": {
       "text": "図書館",
@@ -3837,13 +3605,9 @@
     },
     "462": {
       "text": "横になる",
-      "src": "common_voice_ja_36346576.mp3",
-      "start": 2.48,
-      "end": 2.942,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.728
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "465": {
       "text": "高い",
@@ -3857,13 +3621,9 @@
     },
     "466": {
       "text": "人生",
-      "src": "common_voice_ja_39912635.mp3",
-      "start": 1.253,
-      "end": 1.835,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.744
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "468": {
       "text": "飛行",
@@ -3887,13 +3647,9 @@
     },
     "471": {
       "text": "床",
-      "src": "common_voice_ja_39000545.mp3",
-      "start": 6.564,
-      "end": 6.864,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.533
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "472": {
       "text": "彼の",
@@ -3917,13 +3673,9 @@
     },
     "474": {
       "text": "花",
-      "src": "common_voice_ja_39061512.mp3",
-      "start": 1.723,
-      "end": 2.034,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.716
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "475": {
       "text": "歴史",
@@ -4017,13 +3769,9 @@
     },
     "486": {
       "text": "食べ物",
-      "src": "common_voice_ja_41764540.mp3",
-      "start": 1.054,
-      "end": 1.636,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.667
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "487": {
       "text": "宿題",
@@ -4057,23 +3805,15 @@
     },
     "491": {
       "text": "望む",
-      "src": "common_voice_ja_41773671.mp3",
-      "start": 1.674,
-      "end": 2.055,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.529
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "492": {
       "text": "リスト",
-      "src": "common_voice_ja_25990515.mp3",
-      "start": 1.174,
-      "end": 1.525,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.923
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "493": {
       "text": "近所",
@@ -4137,13 +3877,9 @@
     },
     "502": {
       "text": "期間",
-      "src": "common_voice_ja_26189664.mp3",
-      "start": 1.847,
-      "end": 2.208,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.734
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "503": {
       "text": "川",
@@ -4327,13 +4063,9 @@
     },
     "523": {
       "text": "走る",
-      "src": "common_voice_ja_26189616.mp3",
-      "start": 1.223,
-      "end": 1.694,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.651
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "527": {
       "text": "悲しい",
@@ -4497,23 +4229,15 @@
     },
     "550": {
       "text": "場所",
-      "src": "common_voice_ja_39006549.mp3",
-      "start": 3.735,
-      "end": 4.116,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.702
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "551": {
       "text": "言う",
-      "src": "common_voice_ja_38963596.mp3",
-      "start": 4.23,
-      "end": 4.491,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.558
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "552": {
       "text": "駅",
@@ -4667,13 +4391,9 @@
     },
     "570": {
       "text": "物語",
-      "src": "common_voice_ja_36354211.mp3",
-      "start": 0.895,
-      "end": 1.317,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.488
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "571": {
       "text": "今",
@@ -4807,13 +4527,9 @@
     },
     "585": {
       "text": "売る",
-      "src": "common_voice_ja_36354177.mp3",
-      "start": 1.808,
-      "end": 2.149,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.606
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "586": {
       "text": "勉強する",
@@ -4847,13 +4563,9 @@
     },
     "589": {
       "text": "送る",
-      "src": "common_voice_ja_39870855.mp3",
-      "start": 1.51,
-      "end": 2.093,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.647
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "590": {
       "text": "スタイル",
@@ -4867,13 +4579,9 @@
     },
     "591": {
       "text": "時",
-      "src": "common_voice_ja_41727950.mp3",
-      "start": 1.215,
-      "end": 1.566,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.588
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "592": {
       "text": "貧しい",
@@ -4917,13 +4625,9 @@
     },
     "599": {
       "text": "の",
-      "src": "common_voice_ja_39069416.mp3",
-      "start": 1.87,
-      "end": 2.131,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.997
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "600": {
       "text": "肯定的な",
@@ -4947,13 +4651,9 @@
     },
     "603": {
       "text": "オフ",
-      "src": "common_voice_ja_39909128.mp3",
-      "start": 4.195,
-      "end": 4.426,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.723
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "604": {
       "text": "可能な",
@@ -4977,13 +4677,9 @@
     },
     "607": {
       "text": "事務所",
-      "src": "common_voice_ja_26000981.mp3",
-      "start": 1.323,
-      "end": 1.664,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.601
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "608": {
       "text": "郵便",
@@ -5136,14 +4832,10 @@
       "score": 0.704
     },
     "626": {
-      "text": "上に",
-      "src": "common_voice_ja_36318551.mp3",
-      "start": 2.199,
-      "end": 2.5,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.707
+      "text": "上",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "628": {
       "text": "靴",
@@ -5457,13 +5149,9 @@
     },
     "664": {
       "text": "歌う",
-      "src": "common_voice_ja_39513956.mp3",
-      "start": 1.544,
-      "end": 1.955,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.545
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "665": {
       "text": "教師",
@@ -5487,13 +5175,9 @@
     },
     "667": {
       "text": "置く",
-      "src": "common_voice_ja_39897192.mp3",
-      "start": 2.266,
-      "end": 2.698,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.629
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "668": {
       "text": "歌手",
@@ -5586,14 +5270,10 @@
       "score": 0.983
     },
     "681": {
-      "text": "速く",
-      "src": "common_voice_ja_26051038.mp3",
-      "start": 2.04,
-      "end": 2.312,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.676
+      "text": "早く",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "683": {
       "text": "伝える",
@@ -5757,13 +5437,9 @@
     },
     "704": {
       "text": "読者",
-      "src": "common_voice_ja_39909119.mp3",
-      "start": 1.393,
-      "end": 1.824,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.649
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "706": {
       "text": "より",
@@ -5787,13 +5463,9 @@
     },
     "708": {
       "text": "読書",
-      "src": "common_voice_ja_41715320.mp3",
-      "start": 1.264,
-      "end": 1.595,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.687
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "709": {
       "text": "小さい",
@@ -6107,13 +5779,9 @@
     },
     "750": {
       "text": "支払う",
-      "src": "common_voice_ja_26141855.mp3",
-      "start": 4.159,
-      "end": 4.73,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.574
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "751": {
       "text": "結果",
@@ -6157,13 +5825,9 @@
     },
     "755": {
       "text": "戻る",
-      "src": "common_voice_ja_26038004.mp3",
-      "start": 2.866,
-      "end": 3.247,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.744
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "756": {
       "text": "すぐに",
@@ -6237,13 +5901,9 @@
     },
     "767": {
       "text": "乗る",
-      "src": "common_voice_ja_36354663.mp3",
-      "start": 3.082,
-      "end": 3.453,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.6
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "768": {
       "text": "スープ",
@@ -6477,13 +6137,9 @@
     },
     "800": {
       "text": "量",
-      "src": "common_voice_ja_36355208.mp3",
-      "start": 1.58,
-      "end": 1.801,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.765
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "801": {
       "text": "明るい",
@@ -6577,13 +6233,9 @@
     },
     "814": {
       "text": "燃やす",
-      "src": "common_voice_ja_41763449.mp3",
-      "start": 2.185,
-      "end": 2.766,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.676
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "815": {
       "text": "トマト",
@@ -6757,13 +6409,9 @@
     },
     "836": {
       "text": "ワイン",
-      "src": "common_voice_ja_39019855.mp3",
-      "start": 0.862,
-      "end": 1.233,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.792
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "837": {
       "text": "現れる",
@@ -6947,13 +6595,9 @@
     },
     "862": {
       "text": "漫画",
-      "src": "common_voice_ja_41731424.mp3",
-      "start": 1.734,
-      "end": 2.185,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.722
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "864": {
       "text": "働く",
@@ -7007,13 +6651,9 @@
     },
     "869": {
       "text": "手配",
-      "src": "common_voice_ja_38980074.mp3",
-      "start": 6.551,
-      "end": 6.861,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.464
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "870": {
       "text": "現金",
@@ -7067,23 +6707,15 @@
     },
     "879": {
       "text": "書く",
-      "src": "common_voice_ja_20492409.mp3",
-      "start": 1.024,
-      "end": 1.426,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.607
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "881": {
       "text": "祝う",
-      "src": "common_voice_ja_41954462.mp3",
-      "start": 1.366,
-      "end": 1.807,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.546
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "882": {
       "text": "火曜日",
@@ -7107,33 +6739,21 @@
     },
     "884": {
       "text": "助手",
-      "src": "common_voice_ja_38882522.mp3",
-      "start": 4.526,
-      "end": 4.806,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.606
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "885": {
       "text": "有名人",
-      "src": "common_voice_ja_39067713.mp3",
-      "start": 5.141,
-      "end": 5.743,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.829
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "886": {
       "text": "曲がる",
-      "src": "common_voice_ja_20919676.mp3",
-      "start": 2.721,
-      "end": 3.142,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.713
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "889": {
       "text": "細胞",
@@ -7206,14 +6826,10 @@
       "score": 0.909
     },
     "904": {
-      "text": "魅力的な",
-      "src": "common_voice_ja_26130952.mp3",
-      "start": 0.714,
-      "end": 1.287,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.848
+      "text": "魅力的",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "905": {
       "text": "機会",
@@ -7227,13 +6843,9 @@
     },
     "907": {
       "text": "黄色",
-      "src": "common_voice_ja_39044993.mp3",
-      "start": 1.625,
-      "end": 2.427,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.472
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "908": {
       "text": "観客",
@@ -7487,13 +7099,9 @@
     },
     "941": {
       "text": "基づく",
-      "src": "common_voice_ja_37385920.mp3",
-      "start": 6.624,
-      "end": 7.115,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.684
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "942": {
       "text": "円",
@@ -7527,13 +7135,9 @@
     },
     "945": {
       "text": "豆",
-      "src": "common_voice_ja_39102565.mp3",
-      "start": 0.838,
-      "end": 1.25,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.446
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "946": {
       "text": "古典的な",
@@ -7577,13 +7181,9 @@
     },
     "951": {
       "text": "受け入れる",
-      "src": "common_voice_ja_39067908.mp3",
-      "start": 3.963,
-      "end": 4.555,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.599
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "952": {
       "text": "通常",
@@ -7737,13 +7337,9 @@
     },
     "974": {
       "text": "訪問者",
-      "src": "common_voice_ja_26031435.mp3",
-      "start": 1.713,
-      "end": 2.244,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.757
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "975": {
       "text": "実際に",
@@ -7787,13 +7383,9 @@
     },
     "980": {
       "text": "雲",
-      "src": "common_voice_ja_39512487.mp3",
-      "start": 2.27,
-      "end": 2.551,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.597
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "982": {
       "text": "利点",
@@ -7947,13 +7539,9 @@
     },
     "999": {
       "text": "暖かい",
-      "src": "common_voice_ja_41776828.mp3",
-      "start": 1.695,
-      "end": 2.366,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.631
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1000": {
       "text": "誕生",
@@ -7977,13 +7565,9 @@
     },
     "1002": {
       "text": "洗う",
-      "src": "common_voice_ja_27696747.mp3",
-      "start": 2.726,
-      "end": 3.077,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.537
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1003": {
       "text": "少し",
@@ -8037,13 +7621,9 @@
     },
     "1011": {
       "text": "ブロック",
-      "src": "common_voice_ja_26240909.mp3",
-      "start": 0.953,
-      "end": 1.404,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.892
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1012": {
       "text": "コメント",
@@ -8077,13 +7657,9 @@
     },
     "1019": {
       "text": "吹く",
-      "src": "common_voice_ja_39117969.mp3",
-      "start": 1.974,
-      "end": 2.335,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.547
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1020": {
       "text": "コミュニティ",
@@ -8226,14 +7802,10 @@
       "score": 0.578
     },
     "1042": {
-      "text": "接続する",
-      "src": "common_voice_ja_25938432.mp3",
-      "start": 1.313,
-      "end": 2.015,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.724
+      "text": "接続",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1043": {
       "text": "夢",
@@ -8287,13 +7859,9 @@
     },
     "1051": {
       "text": "落とす",
-      "src": "common_voice_ja_27697595.mp3",
-      "start": 3.371,
-      "end": 3.952,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.696
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1053": {
       "text": "文脈",
@@ -8307,13 +7875,9 @@
     },
     "1054": {
       "text": "薬物",
-      "src": "common_voice_ja_39607497.mp3",
-      "start": 3.124,
-      "end": 3.554,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.594
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1055": {
       "text": "巨大な",
@@ -8347,13 +7911,9 @@
     },
     "1058": {
       "text": "釣り",
-      "src": "common_voice_ja_24058734.mp3",
-      "start": 5.265,
-      "end": 5.635,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.507
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1059": {
       "text": "人間",
@@ -8387,13 +7947,9 @@
     },
     "1062": {
       "text": "合う",
-      "src": "common_voice_ja_39190636.mp3",
-      "start": 3.823,
-      "end": 4.134,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.601
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1063": {
       "text": "傷つける",
@@ -8407,13 +7963,9 @@
     },
     "1065": {
       "text": "地球",
-      "src": "common_voice_ja_41719033.mp3",
-      "start": 1.613,
-      "end": 2.094,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.666
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1067": {
       "text": "理想的な",
@@ -8426,14 +7978,10 @@
       "score": 0.839
     },
     "1069": {
-      "text": "平らな",
-      "src": "common_voice_ja_37917557.mp3",
-      "start": 4.304,
-      "end": 4.655,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.75
+      "text": "平ら",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1070": {
       "text": "特定する",
@@ -8587,23 +8135,15 @@
     },
     "1093": {
       "text": "含まれる",
-      "src": "common_voice_ja_26066796.mp3",
-      "start": 3.256,
-      "end": 3.867,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.836
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1094": {
       "text": "覆う",
-      "src": "common_voice_ja_22751172.mp3",
-      "start": 2.675,
-      "end": 3.396,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.529
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1095": {
       "text": "電子の",
@@ -8656,14 +8196,10 @@
       "score": 0.756
     },
     "1102": {
-      "text": "創造的な",
-      "src": "common_voice_ja_36328237.mp3",
-      "start": 2.205,
-      "end": 2.957,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.791
+      "text": "創造的",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1103": {
       "text": "雇用",
@@ -8937,23 +8473,15 @@
     },
     "1137": {
       "text": "入る",
-      "src": "common_voice_ja_41759151.mp3",
-      "start": 2.52,
-      "end": 3.011,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.742
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1138": {
       "text": "指示",
-      "src": "common_voice_ja_26027278.mp3",
-      "start": 1.986,
-      "end": 2.267,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.724
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1139": {
       "text": "毎日の",
@@ -8977,23 +8505,15 @@
     },
     "1141": {
       "text": "美術館",
-      "src": "common_voice_ja_26015481.mp3",
-      "start": 0.992,
-      "end": 1.392,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.695
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1142": {
       "text": "指導者",
-      "src": "common_voice_ja_26228281.mp3",
-      "start": 2.397,
-      "end": 2.868,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.806
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1144": {
       "text": "設備",
@@ -9027,13 +8547,9 @@
     },
     "1147": {
       "text": "誤り",
-      "src": "common_voice_ja_39877536.mp3",
-      "start": 1.277,
-      "end": 1.638,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.653
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1148": {
       "text": "ゴミ",
@@ -9067,13 +8583,9 @@
     },
     "1152": {
       "text": "ガス",
-      "src": "common_voice_ja_39071624.mp3",
-      "start": 0.769,
-      "end": 1.001,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.835
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1153": {
       "text": "国際的な",
@@ -9086,24 +8598,16 @@
       "score": 0.875
     },
     "1156": {
-      "text": "門",
-      "src": "common_voice_ja_39033097.mp3",
-      "start": 1.38,
-      "end": 1.601,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.826
+      "text": "戸",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1158": {
       "text": "扱う",
-      "src": "common_voice_ja_41716856.mp3",
-      "start": 1.971,
-      "end": 2.493,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.585
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1161": {
       "text": "発明",
@@ -9127,13 +8631,9 @@
     },
     "1164": {
       "text": "贈り物",
-      "src": "common_voice_ja_26189625.mp3",
-      "start": 1.466,
-      "end": 1.978,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.551
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1166": {
       "text": "決定",
@@ -9227,13 +8727,9 @@
     },
     "1178": {
       "text": "学位",
-      "src": "common_voice_ja_25903661.mp3",
-      "start": 3.918,
-      "end": 4.349,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.541
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1179": {
       "text": "優れた",
@@ -9316,14 +8812,10 @@
       "score": 0.762
     },
     "1189": {
-      "text": "依存する",
-      "src": "common_voice_ja_26048871.mp3",
-      "start": 2.665,
-      "end": 3.306,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.847
+      "text": "依存",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1190": {
       "text": "期待する",
@@ -9557,13 +9049,9 @@
     },
     "1219": {
       "text": "男",
-      "src": "common_voice_ja_25986207.mp3",
-      "start": 1.763,
-      "end": 2.195,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.508
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1220": {
       "text": "キロメートル",
@@ -9607,13 +9095,9 @@
     },
     "1226": {
       "text": "要因",
-      "src": "common_voice_ja_25897708.mp3",
-      "start": 1.849,
-      "end": 2.25,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.83
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1227": {
       "text": "半分",
@@ -9787,13 +9271,9 @@
     },
     "1251": {
       "text": "湖",
-      "src": "common_voice_ja_26058747.mp3",
-      "start": 0.924,
-      "end": 1.124,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.623
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1252": {
       "text": "災害",
@@ -9817,33 +9297,21 @@
     },
     "1254": {
       "text": "重い",
-      "src": "common_voice_ja_41760119.mp3",
-      "start": 1.525,
-      "end": 1.925,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.565
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1255": {
       "text": "ランプ",
-      "src": "common_voice_ja_38843627.mp3",
-      "start": 2.747,
-      "end": 3.088,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.808
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1256": {
-      "text": "発見する",
-      "src": "common_voice_ja_38881839.mp3",
-      "start": 5.415,
-      "end": 6.045,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.836
+      "text": "発見",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1257": {
       "text": "高さ",
@@ -9867,13 +9335,9 @@
     },
     "1260": {
       "text": "役立つ",
-      "src": "common_voice_ja_26066969.mp3",
-      "start": 5.576,
-      "end": 5.976,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.557
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1261": {
       "text": "ノートパソコン",
@@ -9957,13 +9421,9 @@
     },
     "1275": {
       "text": "隠す",
-      "src": "common_voice_ja_25906841.mp3",
-      "start": 1.132,
-      "end": 1.523,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.617
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1276": {
       "text": "笑い",
@@ -10027,13 +9487,9 @@
     },
     "1282": {
       "text": "丘",
-      "src": "common_voice_ja_38996503.mp3",
-      "start": 1.485,
-      "end": 1.726,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.419
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1283": {
       "text": "弁護士",
@@ -10127,13 +9583,9 @@
     },
     "1296": {
       "text": "防ぐ",
-      "src": "common_voice_ja_30009575.mp3",
-      "start": 5.684,
-      "end": 6.135,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.579
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1297": {
       "text": "役割",
@@ -10157,13 +9609,9 @@
     },
     "1300": {
       "text": "印刷",
-      "src": "common_voice_ja_26236629.mp3",
-      "start": 4.965,
-      "end": 5.306,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.635
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1301": {
       "text": "屋根",
@@ -10307,23 +9755,15 @@
     },
     "1321": {
       "text": "ナッツ",
-      "src": "common_voice_ja_41734111.mp3",
-      "start": 0.956,
-      "end": 1.549,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.845
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1324": {
       "text": "持ち上げる",
-      "src": "common_voice_ja_26130637.mp3",
-      "start": 1.503,
-      "end": 2.137,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.61
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1325": {
       "text": "提供する",
@@ -10387,13 +9827,9 @@
     },
     "1334": {
       "text": "進歩",
-      "src": "common_voice_ja_36364980.mp3",
-      "start": 0.842,
-      "end": 1.163,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.667
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1338": {
       "text": "約束",
@@ -10527,13 +9963,9 @@
     },
     "1361": {
       "text": "引く",
-      "src": "common_voice_ja_38935837.mp3",
-      "start": 1.762,
-      "end": 2.042,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.588
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1362": {
       "text": "怖い",
@@ -10547,13 +9979,9 @@
     },
     "1363": {
       "text": "うるさい",
-      "src": "common_voice_ja_38973113.mp3",
-      "start": 2.882,
-      "end": 3.374,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.891
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1365": {
       "text": "目的",
@@ -10567,13 +9995,9 @@
     },
     "1366": {
       "text": "場面",
-      "src": "common_voice_ja_25922084.mp3",
-      "start": 1.632,
-      "end": 2.032,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.684
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1367": {
       "text": "大声で",
@@ -10597,13 +10021,9 @@
     },
     "1369": {
       "text": "予定",
-      "src": "common_voice_ja_41733899.mp3",
-      "start": 1.016,
-      "end": 1.257,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.658
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1370": {
       "text": "低い",
@@ -10617,13 +10037,9 @@
     },
     "1372": {
       "text": "質",
-      "src": "common_voice_ja_28479920.mp3",
-      "start": 1.758,
-      "end": 1.99,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.712
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1373": {
       "text": "得点",
@@ -10666,14 +10082,10 @@
       "score": 0.787
     },
     "1379": {
-      "text": "所有する",
-      "src": "common_voice_ja_26080530.mp3",
-      "start": 2.309,
-      "end": 2.801,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.785
+      "text": "所有",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1380": {
       "text": "女王",
@@ -10697,23 +10109,15 @@
     },
     "1384": {
       "text": "探す",
-      "src": "common_voice_ja_27816543.mp3",
-      "start": 2.09,
-      "end": 2.592,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.714
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1386": {
       "text": "詰める",
-      "src": "common_voice_ja_36339219.mp3",
-      "start": 1.963,
-      "end": 2.496,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.749
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1387": {
       "text": "静かに",
@@ -10767,13 +10171,9 @@
     },
     "1394": {
       "text": "画家",
-      "src": "common_voice_ja_26255713.mp3",
-      "start": 1.215,
-      "end": 1.646,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.552
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1395": {
       "text": "鉄道",
@@ -10807,13 +10207,9 @@
     },
     "1399": {
       "text": "上げる",
-      "src": "common_voice_ja_37812725.mp3",
-      "start": 8.026,
-      "end": 8.327,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.717
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1400": {
       "text": "秘密",
@@ -10887,13 +10283,9 @@
     },
     "1414": {
       "text": "乗客",
-      "src": "common_voice_ja_26236589.mp3",
-      "start": 2.745,
-      "end": 3.145,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.713
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1415": {
       "text": "反応",
@@ -10947,13 +10339,9 @@
     },
     "1422": {
       "text": "受け取る",
-      "src": "common_voice_ja_26141844.mp3",
-      "start": 1.645,
-      "end": 2.137,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.628
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1423": {
       "text": "深刻な",
@@ -11067,13 +10455,9 @@
     },
     "1441": {
       "text": "薬",
-      "src": "common_voice_ja_26080536.mp3",
-      "start": 1.433,
-      "end": 1.633,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.613
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1443": {
       "text": "シート",
@@ -11127,13 +10511,9 @@
     },
     "1450": {
       "text": "録音",
-      "src": "common_voice_ja_36338995.mp3",
-      "start": 1.727,
-      "end": 2.109,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.716
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1451": {
       "text": "肩",
@@ -11167,33 +10547,21 @@
     },
     "1458": {
       "text": "減らす",
-      "src": "common_voice_ja_26240898.mp3",
-      "start": 1.262,
-      "end": 1.652,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.635
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1459": {
       "text": "閉める",
-      "src": "common_voice_ja_27224465.mp3",
-      "start": 2.665,
-      "end": 3.146,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.861
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1460": {
       "text": "真ん中",
-      "src": "common_voice_ja_35335936.mp3",
-      "start": 2.172,
-      "end": 2.563,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.479
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1461": {
       "text": "ペット",
@@ -11247,23 +10615,15 @@
     },
     "1466": {
       "text": "標識",
-      "src": "common_voice_ja_26253334.mp3",
-      "start": 1.45,
-      "end": 1.742,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.852
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1467": {
       "text": "心",
-      "src": "common_voice_ja_39352588.mp3",
-      "start": 1.292,
-      "end": 1.635,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.899
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1468": {
       "text": "物理的な",
@@ -11317,13 +10677,9 @@
     },
     "1477": {
       "text": "以来",
-      "src": "common_voice_ja_26206473.mp3",
-      "start": 0.982,
-      "end": 1.412,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.848
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1479": {
       "text": "パイロット",
@@ -11357,43 +10713,27 @@
     },
     "1483": {
       "text": "惑星",
-      "src": "common_voice_ja_41754856.mp3",
-      "start": 1.344,
-      "end": 1.965,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.605
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1484": {
       "text": "取り除く",
-      "src": "common_voice_ja_26176361.mp3",
-      "start": 1.322,
-      "end": 1.872,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.51
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1488": {
       "text": "卿",
-      "src": "common_voice_ja_26206159.mp3",
-      "start": 1.376,
-      "end": 1.627,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.604
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1489": {
       "text": "主に",
-      "src": "common_voice_ja_26031475.mp3",
-      "start": 0.965,
-      "end": 1.358,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.669
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1490": {
       "text": "プラスチック",
@@ -11416,14 +10756,10 @@
       "score": 0.734
     },
     "1495": {
-      "text": "返事する",
-      "src": "common_voice_ja_36347774.mp3",
-      "start": 2.086,
-      "end": 2.598,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.68
+      "text": "返事",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1496": {
       "text": "大きさ",
@@ -11477,23 +10813,15 @@
     },
     "1504": {
       "text": "喜んで",
-      "src": "common_voice_ja_36462825.mp3",
-      "start": 1.202,
-      "end": 1.723,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.813
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1505": {
       "text": "依頼",
-      "src": "common_voice_ja_26015603.mp3",
-      "start": 3.001,
-      "end": 3.322,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.725
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1506": {
       "text": "皮膚",
@@ -11547,13 +10875,9 @@
     },
     "1512": {
       "text": "礼儀正しい",
-      "src": "common_voice_ja_38940918.mp3",
-      "start": 1.854,
-      "end": 2.396,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.359
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1513": {
       "text": "研究者",
@@ -11617,13 +10941,9 @@
     },
     "1523": {
       "text": "人口",
-      "src": "common_voice_ja_26127110.mp3",
-      "start": 1.004,
-      "end": 1.476,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.679
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1524": {
       "text": "残り",
@@ -11657,13 +10977,9 @@
     },
     "1527": {
       "text": "位置",
-      "src": "common_voice_ja_41730147.mp3",
-      "start": 2.331,
-      "end": 2.542,
-      "license": "CC0",
-      "by": null,
-      "gender": "do",
-      "score": 0.546
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1528": {
       "text": "休息",
@@ -11677,13 +10993,9 @@
     },
     "1529": {
       "text": "笑顔",
-      "src": "common_voice_ja_39060804.mp3",
-      "start": 0.864,
-      "end": 1.446,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.597
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1530": {
       "text": "首",
@@ -11707,13 +11019,9 @@
     },
     "1534": {
       "text": "可能性",
-      "src": "common_voice_ja_25903770.mp3",
-      "start": 2.84,
-      "end": 3.361,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.775
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1536": {
       "text": "ポスター",
@@ -11786,24 +11094,16 @@
       "score": 0.82
     },
     "1544": {
-      "text": "予測する",
-      "src": "common_voice_ja_25917306.mp3",
-      "start": 4.245,
-      "end": 4.825,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.747
+      "text": "予測",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1545": {
       "text": "上がる",
-      "src": "common_voice_ja_32667054.mp3",
-      "start": 2.679,
-      "end": 3.131,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.712
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1547": {
       "text": "騒音",
@@ -11817,13 +11117,9 @@
     },
     "1548": {
       "text": "岩",
-      "src": "common_voice_ja_25884984.mp3",
-      "start": 1.936,
-      "end": 2.147,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.781
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1549": {
       "text": "社会的な",
@@ -11867,23 +11163,15 @@
     },
     "1554": {
       "text": "靴下",
-      "src": "common_voice_ja_20184324.mp3",
-      "start": 1.174,
-      "end": 1.696,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.643
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1555": {
       "text": "投げる",
-      "src": "common_voice_ja_26253315.mp3",
-      "start": 3.332,
-      "end": 3.793,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.742
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1557": {
       "text": "戦い",
@@ -11907,13 +11195,9 @@
     },
     "1559": {
       "text": "結ぶ",
-      "src": "common_voice_ja_39029305.mp3",
-      "start": 1.657,
-      "end": 1.959,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.599
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1561": {
       "text": "美しさ",
@@ -12047,13 +11331,9 @@
     },
     "1578": {
       "text": "源",
-      "src": "common_voice_ja_26050997.mp3",
-      "start": 4.198,
-      "end": 4.369,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.815
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1579": {
       "text": "観光",
@@ -12147,23 +11427,15 @@
     },
     "1592": {
       "text": "おもちゃ",
-      "src": "common_voice_ja_26008828.mp3",
-      "start": 0.783,
-      "end": 1.064,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.576
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1593": {
       "text": "爆弾",
-      "src": "common_voice_ja_25897579.mp3",
-      "start": 2.283,
-      "end": 2.703,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.791
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1597": {
       "text": "国境",
@@ -12217,13 +11489,9 @@
     },
     "1604": {
       "text": "枝",
-      "src": "common_voice_ja_22951330.mp3",
-      "start": 4.37,
-      "end": 4.56,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.384
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1606": {
       "text": "舞台",
@@ -12297,13 +11565,9 @@
     },
     "1615": {
       "text": "息",
-      "src": "common_voice_ja_38858352.mp3",
-      "start": 8.014,
-      "end": 8.184,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.616
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1616": {
       "text": "ごみ",
@@ -12357,13 +11621,9 @@
     },
     "1623": {
       "text": "州",
-      "src": "common_voice_ja_38965647.mp3",
-      "start": 0.683,
-      "end": 0.884,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.758
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1625": {
       "text": "花嫁",
@@ -12397,13 +11657,9 @@
     },
     "1629": {
       "text": "盗む",
-      "src": "common_voice_ja_25962173.mp3",
-      "start": 5.506,
-      "end": 5.886,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.583
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1630": {
       "text": "典型的な",
@@ -12417,33 +11673,21 @@
     },
     "1631": {
       "text": "埋める",
-      "src": "common_voice_ja_38986426.mp3",
-      "start": 1.276,
-      "end": 1.637,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.672
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1632": {
       "text": "代理人",
-      "src": "common_voice_ja_26014025.mp3",
-      "start": 2.669,
-      "end": 3.151,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.747
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1633": {
       "text": "一歩",
-      "src": "common_voice_ja_39104217.mp3",
-      "start": 0.987,
-      "end": 1.288,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.458
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1634": {
       "text": "地下の",
@@ -12577,13 +11821,9 @@
     },
     "1653": {
       "text": "単位",
-      "src": "common_voice_ja_25905109.mp3",
-      "start": 1.724,
-      "end": 2.195,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.663
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1655": {
       "text": "奇妙な",
@@ -12777,13 +12017,9 @@
     },
     "1688": {
       "text": "乗り物",
-      "src": "common_voice_ja_39069525.mp3",
-      "start": 3.286,
-      "end": 3.626,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.496
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1689": {
       "text": "挑戦",
@@ -12837,13 +12073,9 @@
     },
     "1698": {
       "text": "謝る",
-      "src": "common_voice_ja_28543101.mp3",
-      "start": 1.607,
-      "end": 1.958,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.506
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1699": {
       "text": "スーツ",
@@ -12857,13 +12089,9 @@
     },
     "1700": {
       "text": "ウイルス",
-      "src": "common_voice_ja_41733187.mp3",
-      "start": 1.383,
-      "end": 1.764,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.645
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1701": {
       "text": "章",
@@ -12917,13 +12145,9 @@
     },
     "1706": {
       "text": "予約",
-      "src": "common_voice_ja_36094844.mp3",
-      "start": 0.805,
-      "end": 1.086,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.698
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1708": {
       "text": "戦争",
@@ -12936,14 +12160,10 @@
       "score": 0.67
     },
     "1710": {
-      "text": "だます",
-      "src": "common_voice_ja_36329371.mp3",
-      "start": 0.694,
-      "end": 1.076,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.945
+      "text": "騙す",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1711": {
       "text": "およそ",
@@ -13087,13 +12307,9 @@
     },
     "1730": {
       "text": "雰囲気",
-      "src": "common_voice_ja_39767371.mp3",
-      "start": 1.82,
-      "end": 2.343,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.61
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1731": {
       "text": "象徴",
@@ -13127,23 +12343,15 @@
     },
     "1735": {
       "text": "システム",
-      "src": "common_voice_ja_39394386.mp3",
-      "start": 0.925,
-      "end": 1.367,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.928
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1736": {
       "text": "重さ",
-      "src": "common_voice_ja_36356218.mp3",
-      "start": 0.962,
-      "end": 1.492,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.63
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1737": {
       "text": "態度",
@@ -13177,13 +12385,9 @@
     },
     "1743": {
       "text": "魅力",
-      "src": "common_voice_ja_26130952.mp3",
-      "start": 0.714,
-      "end": 0.995,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.616
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1745": {
       "text": "車輪",
@@ -13197,13 +12401,9 @@
     },
     "1747": {
       "text": "タスク",
-      "src": "common_voice_ja_26171025.mp3",
-      "start": 1.402,
-      "end": 1.733,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.769
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1748": {
       "text": "一方で",
@@ -13227,13 +12427,9 @@
     },
     "1751": {
       "text": "味",
-      "src": "common_voice_ja_40415436.mp3",
-      "start": 2.233,
-      "end": 2.594,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.576
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1752": {
       "text": "全体",
@@ -13286,24 +12482,16 @@
       "score": 0.625
     },
     "1760": {
-      "text": "野生の",
-      "src": "common_voice_ja_25986321.mp3",
-      "start": 1.065,
-      "end": 1.507,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.841
+      "text": "野生",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1762": {
       "text": "温度",
-      "src": "common_voice_ja_38993776.mp3",
-      "start": 3.669,
-      "end": 3.909,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.682
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1763": {
       "text": "風",
@@ -13327,23 +12515,15 @@
     },
     "1766": {
       "text": "用語",
-      "src": "common_voice_ja_26039306.mp3",
-      "start": 1.803,
-      "end": 2.044,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.699
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1767": {
       "text": "勝者",
-      "src": "common_voice_ja_26095378.mp3",
-      "start": 1.834,
-      "end": 2.184,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.703
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1768": {
       "text": "硬貨",
@@ -13357,23 +12537,15 @@
     },
     "1769": {
       "text": "焼く",
-      "src": "common_voice_ja_36371428.mp3",
-      "start": 1.246,
-      "end": 1.598,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.595
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1770": {
       "text": "願い",
-      "src": "common_voice_ja_39061593.mp3",
-      "start": 1.096,
-      "end": 1.358,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.554
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1771": {
       "text": "コレクション",
@@ -13467,13 +12639,9 @@
     },
     "1785": {
       "text": "基礎",
-      "src": "common_voice_ja_25973810.mp3",
-      "start": 3.457,
-      "end": 3.828,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.534
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1787": {
       "text": "基本的な",
@@ -13487,13 +12655,9 @@
     },
     "1788": {
       "text": "思考",
-      "src": "common_voice_ja_36318632.mp3",
-      "start": 0.906,
-      "end": 1.208,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.742
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1793": {
       "text": "コミュニケーション",
@@ -13557,13 +12721,9 @@
     },
     "1803": {
       "text": "ドキュメンタリー",
-      "src": "common_voice_ja_26031466.mp3",
-      "start": 1.883,
-      "end": 2.584,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.803
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1804": {
       "text": "好意",
@@ -13607,13 +12767,9 @@
     },
     "1808": {
       "text": "ホスト",
-      "src": "common_voice_ja_26063986.mp3",
-      "start": 1.704,
-      "end": 2.064,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.863
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1809": {
       "text": "複雑な",
@@ -13647,13 +12803,9 @@
     },
     "1812": {
       "text": "疑い",
-      "src": "common_voice_ja_25272896.mp3",
-      "start": 1.164,
-      "end": 1.585,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.509
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1813": {
       "text": "連邦の",
@@ -13687,13 +12839,9 @@
     },
     "1818": {
       "text": "急ぐ",
-      "src": "common_voice_ja_20640572.mp3",
-      "start": 6.909,
-      "end": 7.33,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.661
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1819": {
       "text": "結論",
@@ -13817,13 +12965,9 @@
     },
     "1841": {
       "text": "移民",
-      "src": "common_voice_ja_26063969.mp3",
-      "start": 2.53,
-      "end": 2.902,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.846
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1843": {
       "text": "地震",
@@ -13887,13 +13031,9 @@
     },
     "1849": {
       "text": "輸入",
-      "src": "common_voice_ja_22739705.mp3",
-      "start": 4.224,
-      "end": 4.574,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.546
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1850": {
       "text": "消費する",
@@ -13917,13 +13057,9 @@
     },
     "1852": {
       "text": "流れ",
-      "src": "common_voice_ja_41737782.mp3",
-      "start": 0.889,
-      "end": 1.393,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.637
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1853": {
       "text": "重要性",
@@ -13957,13 +13093,9 @@
     },
     "1856": {
       "text": "折る",
-      "src": "common_voice_ja_39080765.mp3",
-      "start": 1.19,
-      "end": 1.552,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.587
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1857": {
       "text": "印象",
@@ -14046,14 +13178,10 @@
       "score": 0.703
     },
     "1874": {
-      "text": "教育的な",
-      "src": "common_voice_ja_26014191.mp3",
-      "start": 1.646,
-      "end": 2.128,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.753
+      "text": "教育的",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1876": {
       "text": "示す",
@@ -14086,14 +13214,10 @@
       "score": 0.8
     },
     "1881": {
-      "text": "説得する",
-      "src": "common_voice_ja_39029415.mp3",
-      "start": 2.349,
-      "end": 2.942,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.711
+      "text": "説得",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1883": {
       "text": "頻繁に",
@@ -14117,13 +13241,9 @@
     },
     "1886": {
       "text": "友情",
-      "src": "common_voice_ja_26236637.mp3",
-      "start": 1.692,
-      "end": 2.143,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.723
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1889": {
       "text": "選挙",
@@ -14137,33 +13257,21 @@
     },
     "1892": {
       "text": "衣装",
-      "src": "common_voice_ja_26031335.mp3",
-      "start": 2.678,
-      "end": 2.978,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.64
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1893": {
       "text": "要素",
-      "src": "common_voice_ja_25906861.mp3",
-      "start": 1.143,
-      "end": 1.534,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.666
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1896": {
       "text": "綿",
-      "src": "common_voice_ja_25990427.mp3",
-      "start": 2.931,
-      "end": 3.091,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.949
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1897": {
       "text": "恥ずかしい",
@@ -14227,23 +13335,15 @@
     },
     "1910": {
       "text": "知能",
-      "src": "common_voice_ja_41954414.mp3",
-      "start": 1.133,
-      "end": 1.484,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.681
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1912": {
       "text": "機能",
-      "src": "common_voice_ja_26026141.mp3",
-      "start": 3.428,
-      "end": 3.709,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.752
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1913": {
       "text": "意図",
@@ -14346,14 +13446,10 @@
       "score": 0.445
     },
     "1938": {
-      "text": "入口",
-      "src": "common_voice_ja_25152491.mp3",
-      "start": 1.197,
-      "end": 1.528,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.528
+      "text": "入り口",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1939": {
       "text": "優しい",
@@ -14407,13 +13503,9 @@
     },
     "1947": {
       "text": "幽霊",
-      "src": "common_voice_ja_38868430.mp3",
-      "start": 1.123,
-      "end": 1.444,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.658
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1948": {
       "text": "裁判官",
@@ -14447,13 +13539,9 @@
     },
     "1953": {
       "text": "嬉しい",
-      "src": "common_voice_ja_42070907.mp3",
-      "start": 2.134,
-      "end": 2.758,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.789
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1954": {
       "text": "キーボード",
@@ -14587,13 +13675,9 @@
     },
     "1972": {
       "text": "ラベル",
-      "src": "common_voice_ja_26051113.mp3",
-      "start": 2.465,
-      "end": 2.946,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.931
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1974": {
       "text": "交換",
@@ -14687,13 +13771,9 @@
     },
     "1991": {
       "text": "層",
-      "src": "common_voice_ja_25892249.mp3",
-      "start": 1.494,
-      "end": 1.764,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.592
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1992": {
       "text": "目的地",
@@ -14747,13 +13827,9 @@
     },
     "2003": {
       "text": "革",
-      "src": "common_voice_ja_38958782.mp3",
-      "start": 1.963,
-      "end": 2.133,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.375
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2005": {
       "text": "爆発",
@@ -14777,13 +13853,9 @@
     },
     "2009": {
       "text": "見出し",
-      "src": "common_voice_ja_39028550.mp3",
-      "start": 3.562,
-      "end": 3.923,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.554
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2011": {
       "text": "困難",
@@ -14807,23 +13879,15 @@
     },
     "2014": {
       "text": "長さ",
-      "src": "common_voice_ja_38966497.mp3",
-      "start": 1.752,
-      "end": 2.162,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.716
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2015": {
       "text": "輸出",
-      "src": "common_voice_ja_26240963.mp3",
-      "start": 2.263,
-      "end": 2.634,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.544
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2018": {
       "text": "ヘリコプター",
@@ -14987,13 +14051,9 @@
     },
     "2042": {
       "text": "痛い",
-      "src": "common_voice_ja_36348657.mp3",
-      "start": 3.019,
-      "end": 3.37,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.58
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2043": {
       "text": "適切に",
@@ -15107,13 +14167,9 @@
     },
     "2063": {
       "text": "情熱",
-      "src": "common_voice_ja_39159928.mp3",
-      "start": 2.369,
-      "end": 2.71,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.564
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2065": {
       "text": "彫刻",
@@ -15147,13 +14203,9 @@
     },
     "2071": {
       "text": "支払い",
-      "src": "common_voice_ja_25938436.mp3",
-      "start": 6.414,
-      "end": 6.935,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.68
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2073": {
       "text": "魔法",
@@ -15227,13 +14279,9 @@
     },
     "2089": {
       "text": "引用",
-      "src": "common_voice_ja_36338987.mp3",
-      "start": 1.383,
-      "end": 1.764,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.732
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2095": {
       "text": "その間に",
@@ -15257,13 +14305,9 @@
     },
     "2097": {
       "text": "人種",
-      "src": "common_voice_ja_26058765.mp3",
-      "start": 1.786,
-      "end": 2.117,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.671
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2098": {
       "text": "セット",
@@ -15287,13 +14331,9 @@
     },
     "2101": {
       "text": "レーシング",
-      "src": "common_voice_ja_26027438.mp3",
-      "start": 4.007,
-      "end": 4.448,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.688
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2102": {
       "text": "設定",
@@ -15357,33 +14397,21 @@
     },
     "2117": {
       "text": "鋭い",
-      "src": "common_voice_ja_25986268.mp3",
-      "start": 3.54,
-      "end": 3.861,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.797
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2118": {
       "text": "鉱山",
-      "src": "common_voice_ja_26001073.mp3",
-      "start": 0.822,
-      "end": 1.194,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.666
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2119": {
       "text": "喜び",
-      "src": "common_voice_ja_22342394.mp3",
-      "start": 0.903,
-      "end": 1.283,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.645
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2120": {
       "text": "現実",
@@ -15497,13 +14525,9 @@
     },
     "2140": {
       "text": "撃つ",
-      "src": "common_voice_ja_26067750.mp3",
-      "start": 2.626,
-      "end": 2.867,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.454
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2141": {
       "text": "殺人",
@@ -15827,13 +14851,9 @@
     },
     "2192": {
       "text": "ネット",
-      "src": "common_voice_ja_41746688.mp3",
-      "start": 1.273,
-      "end": 1.685,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.805
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2194": {
       "text": "家賃",
@@ -15867,23 +14887,15 @@
     },
     "2199": {
       "text": "土壌",
-      "src": "common_voice_ja_25962813.mp3",
-      "start": 5.496,
-      "end": 5.826,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.708
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2200": {
       "text": "祈る",
-      "src": "common_voice_ja_26051367.mp3",
-      "start": 1.302,
-      "end": 1.563,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.789
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2202": {
       "text": "固体",
@@ -15926,14 +14938,10 @@
       "score": 0.912
     },
     "2211": {
-      "text": "核の",
-      "src": "common_voice_ja_26014181.mp3",
-      "start": 2.054,
-      "end": 2.374,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.821
+      "text": "核",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2214": {
       "text": "支出",
@@ -16016,24 +15024,16 @@
       "score": 0.727
     },
     "2232": {
-      "text": "以前に",
-      "src": "common_voice_ja_25989411.mp3",
-      "start": 1.493,
-      "end": 2.104,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.85
+      "text": "以前",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2233": {
       "text": "広がる",
-      "src": "common_voice_ja_36319163.mp3",
-      "start": 2.025,
-      "end": 2.506,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.647
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2234": {
       "text": "公式の",
@@ -16277,13 +15277,9 @@
     },
     "2286": {
       "text": "もの",
-      "src": "common_voice_ja_39104453.mp3",
-      "start": 1.224,
-      "end": 1.464,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.851
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2290": {
       "text": "物質",
@@ -16337,13 +15333,9 @@
     },
     "2301": {
       "text": "議長",
-      "src": "common_voice_ja_36308892.mp3",
-      "start": 1.095,
-      "end": 1.437,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.817
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2303": {
       "text": "変更する",
@@ -16367,23 +15359,15 @@
     },
     "2307": {
       "text": "要約",
-      "src": "common_voice_ja_36324451.mp3",
-      "start": 3.817,
-      "end": 4.268,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.683
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2309": {
       "text": "怒り",
-      "src": "common_voice_ja_38841865.mp3",
-      "start": 4.62,
-      "end": 4.85,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.643
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2311": {
       "text": "貴重な",
@@ -16417,13 +15401,9 @@
     },
     "2314": {
       "text": "供給",
-      "src": "common_voice_ja_41757089.mp3",
-      "start": 0.984,
-      "end": 1.547,
-      "license": "CC0",
-      "by": null,
-      "gender": null,
-      "score": 0.491
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2315": {
       "text": "価値",
@@ -16497,13 +15477,9 @@
     },
     "2326": {
       "text": "表面",
-      "src": "common_voice_ja_25990458.mp3",
-      "start": 1.084,
-      "end": 1.405,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.871
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2327": {
       "text": "犠牲者",
@@ -16537,13 +15513,9 @@
     },
     "2334": {
       "text": "訴える",
-      "src": "common_voice_ja_36363533.mp3",
-      "start": 2.705,
-      "end": 3.366,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.747
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2337": {
       "text": "近づく",
@@ -16556,14 +15528,10 @@
       "score": 0.724
     },
     "2338": {
-      "text": "密接に",
-      "src": "common_voice_ja_26239848.mp3",
-      "start": 2.865,
-      "end": 3.325,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.757
+      "text": "密接",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2339": {
       "text": "症状",
@@ -16657,23 +15625,15 @@
     },
     "2352": {
       "text": "生じる",
-      "src": "common_voice_ja_26176361.mp3",
-      "start": 5.217,
-      "end": 5.787,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.773
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2353": {
       "text": "命令",
-      "src": "common_voice_ja_38989328.mp3",
-      "start": 5.116,
-      "end": 5.416,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.765
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2354": {
       "text": "テープ",
@@ -16746,14 +15706,10 @@
       "score": 0.867
     },
     "2373": {
-      "text": "脇に",
-      "src": "common_voice_ja_39066352.mp3",
-      "start": 1.165,
-      "end": 1.646,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.712
+      "text": "脇",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2375": {
       "text": "西洋の",
@@ -16786,14 +15742,10 @@
       "score": 0.642
     },
     "2379": {
-      "text": "評価する",
-      "src": "common_voice_ja_26051682.mp3",
-      "start": 4.318,
-      "end": 4.819,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.722
+      "text": "評価",
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2381": {
       "text": "テーマ",
@@ -16817,13 +15769,9 @@
     },
     "2384": {
       "text": "概念",
-      "src": "common_voice_ja_39392310.mp3",
-      "start": 1.252,
-      "end": 1.753,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.872
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2385": {
       "text": "理論",
@@ -16947,13 +15895,9 @@
     },
     "2406": {
       "text": "議会",
-      "src": "common_voice_ja_25960854.mp3",
-      "start": 1.679,
-      "end": 2.072,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.721
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2408": {
       "text": "細菌",
@@ -17037,13 +15981,9 @@
     },
     "2421": {
       "text": "トン",
-      "src": "common_voice_ja_25905107.mp3",
-      "start": 1.271,
-      "end": 1.542,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.923
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2422": {
       "text": "耐える",
@@ -17147,13 +16087,9 @@
     },
     "2439": {
       "text": "貿易",
-      "src": "common_voice_ja_25938394.mp3",
-      "start": 2.354,
-      "end": 2.744,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.609
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2441": {
       "text": "貢献する",
@@ -17197,23 +16133,15 @@
     },
     "9921": {
       "text": "米",
-      "src": "common_voice_ja_39392114.mp3",
-      "start": 1.439,
-      "end": 1.831,
-      "license": "CC0",
-      "by": null,
-      "gender": "female",
-      "score": 0.965
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "10271": {
       "text": "前",
-      "src": "common_voice_ja_20413432.mp3",
-      "start": 1.107,
-      "end": 1.278,
-      "license": "CC0",
-      "by": null,
-      "gender": "male",
-      "score": 0.717
+      "src": "qwen3-tts:Ono_Anna",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4952": {
       "text": "に",

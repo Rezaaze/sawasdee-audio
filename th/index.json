@@ -57,13 +57,9 @@
     },
     "5": {
       "text": "สบายดีไหม",
-      "src": "common_voice_th_25638665.mp3",
-      "start": 1.088,
-      "end": 1.934,
-      "gender": null,
-      "score": 0.901,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "6": {
       "text": "กิน",
@@ -177,13 +173,9 @@
     },
     "17": {
       "text": "ร้อน",
-      "src": "common_voice_th_31939313.mp3",
-      "start": 0.993,
-      "end": 1.274,
-      "gender": "female",
-      "score": 0.985,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "18": {
       "text": "หนาว",
@@ -337,13 +329,9 @@
     },
     "34": {
       "text": "นิดหน่อย",
-      "src": "common_voice_th_27396066.mp3",
-      "start": 1.689,
-      "end": 2.292,
-      "gender": "male",
-      "score": 0.804,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "36": {
       "text": "เมือง",
@@ -537,13 +525,9 @@
     },
     "55": {
       "text": "นาฬิกา",
-      "src": "common_voice_th_26556750.mp3",
-      "start": 2.319,
-      "end": 2.971,
-      "gender": "male",
-      "score": 0.931,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "56": {
       "text": "นาที",
@@ -577,13 +561,9 @@
     },
     "59": {
       "text": "เดือน",
-      "src": "common_voice_th_31940278.mp3",
-      "start": 1.269,
-      "end": 1.732,
-      "gender": "female",
-      "score": 0.878,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "60": {
       "text": "ปี",
@@ -627,13 +607,9 @@
     },
     "65": {
       "text": "น้องชาย",
-      "src": "common_voice_th_28538426.mp3",
-      "start": 0.852,
-      "end": 1.213,
-      "gender": "male",
-      "score": 0.955,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "66": {
       "text": "พี่สาว",
@@ -687,13 +663,9 @@
     },
     "71": {
       "text": "เงิน",
-      "src": "common_voice_th_26443688.mp3",
-      "start": 2.095,
-      "end": 2.526,
-      "gender": "female",
-      "score": 0.879,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "72": {
       "text": "เซ็นต์",
@@ -727,23 +699,15 @@
     },
     "76": {
       "text": "ห้องน้ำ",
-      "src": "common_voice_th_26475210.mp3",
-      "start": 2.399,
-      "end": 3.091,
-      "gender": null,
-      "score": 0.893,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "77": {
       "text": "ที่รัก",
-      "src": "common_voice_th_26915614.mp3",
-      "start": 2.25,
-      "end": 2.792,
-      "gender": "male",
-      "score": 0.912,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "78": {
       "text": "ที่แล้ว",
@@ -797,13 +761,9 @@
     },
     "83": {
       "text": "รถ",
-      "src": "common_voice_th_26016922.mp3",
-      "start": 1.915,
-      "end": 2.266,
-      "gender": "female",
-      "score": 0.819,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "84": {
       "text": "เครื่องบิน",
@@ -997,13 +957,9 @@
     },
     "104": {
       "text": "เขียว",
-      "src": "common_voice_th_28538297.mp3",
-      "start": 1.731,
-      "end": 2.193,
-      "gender": "male",
-      "score": 0.707,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "105": {
       "text": "เหลือง",
@@ -1057,13 +1013,9 @@
     },
     "110": {
       "text": "ม่วง",
-      "src": "common_voice_th_26297074.mp3",
-      "start": 0.976,
-      "end": 1.368,
-      "gender": "male",
-      "score": 0.725,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "111": {
       "text": "สัตว์",
@@ -1137,13 +1089,9 @@
     },
     "118": {
       "text": "หมู",
-      "src": "common_voice_th_28978489.mp3",
-      "start": 1.225,
-      "end": 1.525,
-      "gender": "male",
-      "score": 0.986,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "119": {
       "text": "วัว",
@@ -1567,13 +1515,9 @@
     },
     "163": {
       "text": "ยาว",
-      "src": "common_voice_th_31940145.mp3",
-      "start": 2.185,
-      "end": 2.346,
-      "gender": "female",
-      "score": 0.8,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "164": {
       "text": "สั้น",
@@ -1607,13 +1551,9 @@
     },
     "167": {
       "text": "ดอลลาร์",
-      "src": "common_voice_th_27612686.mp3",
-      "start": 2.175,
-      "end": 2.806,
-      "gender": "male",
-      "score": 0.936,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "168": {
       "text": "ศิลปะ",
@@ -1667,23 +1607,15 @@
     },
     "174": {
       "text": "มา",
-      "src": "common_voice_th_25718661.mp3",
-      "start": 1.71,
-      "end": 2.071,
-      "gender": null,
-      "score": 1.0,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "175": {
       "text": "ลง",
-      "src": "common_voice_th_36673887.mp3",
-      "start": 1.245,
-      "end": 1.516,
-      "gender": "male",
-      "score": 0.987,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "176": {
       "text": "ศิลปิน",
@@ -1767,23 +1699,15 @@
     },
     "184": {
       "text": "แว่นตา",
-      "src": "common_voice_th_27716571.mp3",
-      "start": 2.502,
-      "end": 3.165,
-      "gender": "male",
-      "score": 0.934,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "185": {
       "text": "พัก",
-      "src": "common_voice_th_27104653.mp3",
-      "start": 1.608,
-      "end": 1.969,
-      "gender": "male",
-      "score": 0.847,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "186": {
       "text": "คอมพิวเตอร์",
@@ -1877,13 +1801,9 @@
     },
     "197": {
       "text": "ครับ",
-      "src": "common_voice_th_31939387.mp3",
-      "start": 2.591,
-      "end": 3.013,
-      "gender": "female",
-      "score": 0.758,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "198": {
       "text": "ค่ะ",
@@ -1927,13 +1847,9 @@
     },
     "202": {
       "text": "หรอก",
-      "src": "common_voice_th_26016762.mp3",
-      "start": 3.354,
-      "end": 3.735,
-      "gender": "female",
-      "score": 0.851,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "203": {
       "text": "ละ",
@@ -2057,23 +1973,15 @@
     },
     "216": {
       "text": "วันจันทร์",
-      "src": "common_voice_th_26295259.mp3",
-      "start": 3.142,
-      "end": 3.854,
-      "gender": "female",
-      "score": 0.881,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "217": {
       "text": "วันอังคาร",
-      "src": "common_voice_th_28440762.mp3",
-      "start": 1.98,
-      "end": 2.714,
-      "gender": "male",
-      "score": 0.91,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "218": {
       "text": "วันพุธ",
@@ -2107,23 +2015,15 @@
     },
     "221": {
       "text": "วันเสาร์",
-      "src": "common_voice_th_26153547.mp3",
-      "start": 2.976,
-      "end": 3.647,
-      "gender": null,
-      "score": 0.885,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "222": {
       "text": "วันอาทิตย์",
-      "src": "common_voice_th_25817771.mp3",
-      "start": 2.901,
-      "end": 3.533,
-      "gender": "female",
-      "score": 0.85,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "223": {
       "text": "มกราคม",
@@ -2337,13 +2237,9 @@
     },
     "245": {
       "text": "แม่น้ำ",
-      "src": "common_voice_th_25650787.mp3",
-      "start": 1.446,
-      "end": 2.169,
-      "gender": "male",
-      "score": 0.899,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "246": {
       "text": "ส้มตำ",
@@ -2357,13 +2253,9 @@
     },
     "247": {
       "text": "ต้มยำกุ้ง",
-      "src": "common_voice_th_27392655.mp3",
-      "start": 1.947,
-      "end": 2.51,
-      "gender": "male",
-      "score": 0.888,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "248": {
       "text": "ผัดไทย",
@@ -2427,13 +2319,9 @@
     },
     "254": {
       "text": "นม",
-      "src": "common_voice_th_26062118.mp3",
-      "start": 2.621,
-      "end": 3.012,
-      "gender": "female",
-      "score": 0.998,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "255": {
       "text": "เบียร์",
@@ -2467,13 +2355,9 @@
     },
     "258": {
       "text": "น้ำผลไม้",
-      "src": "common_voice_th_26315941.mp3",
-      "start": 3.425,
-      "end": 4.406,
-      "gender": "male",
-      "score": 0.766,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "259": {
       "text": "ไข่",
@@ -2497,13 +2381,9 @@
     },
     "261": {
       "text": "เนย",
-      "src": "common_voice_th_25768561.mp3",
-      "start": 2.115,
-      "end": 2.486,
-      "gender": null,
-      "score": 0.674,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "262": {
       "text": "เกลือ",
@@ -2557,13 +2437,9 @@
     },
     "267": {
       "text": "หมึก",
-      "src": "common_voice_th_26853936.mp3",
-      "start": 1.421,
-      "end": 1.683,
-      "gender": "female",
-      "score": 0.908,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "268": {
       "text": "เนื้อ",
@@ -2597,13 +2473,9 @@
     },
     "271": {
       "text": "หิวน้ำ",
-      "src": "common_voice_th_25661259.mp3",
-      "start": 1.778,
-      "end": 2.321,
-      "gender": null,
-      "score": 0.756,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "272": {
       "text": "อิ่ม",
@@ -2897,23 +2769,15 @@
     },
     "307": {
       "text": "ทุกสิ่ง",
-      "src": "common_voice_th_26743007.mp3",
-      "start": 2.265,
-      "end": 2.907,
-      "gender": null,
-      "score": 0.903,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "308": {
       "text": "ยกเลิก",
-      "src": "common_voice_th_27300429.mp3",
-      "start": 1.87,
-      "end": 2.452,
-      "gender": "male",
-      "score": 0.916,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "309": {
       "text": "เปลี่ยน",
@@ -2927,13 +2791,9 @@
     },
     "310": {
       "text": "กระเป๋าเดินทาง",
-      "src": "common_voice_th_26701820.mp3",
-      "start": 1.866,
-      "end": 3.03,
-      "gender": "female",
-      "score": 0.819,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "311": {
       "text": "พาสปอร์ต",
@@ -2947,13 +2807,9 @@
     },
     "312": {
       "text": "วีซ่า",
-      "src": "common_voice_th_25712185.mp3",
-      "start": 1.083,
-      "end": 1.745,
-      "gender": null,
-      "score": 0.955,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "314": {
       "text": "เที่ยวบิน",
@@ -2977,13 +2833,9 @@
     },
     "318": {
       "text": "ลิฟต์",
-      "src": "common_voice_th_25670507.mp3",
-      "start": 0.562,
-      "end": 0.763,
-      "gender": null,
-      "score": 0.749,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "319": {
       "text": "ชั้น",
@@ -3017,13 +2869,9 @@
     },
     "322": {
       "text": "อาหารเช้า",
-      "src": "common_voice_th_26247357.mp3",
-      "start": 2.244,
-      "end": 2.985,
-      "gender": null,
-      "score": 0.862,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "323": {
       "text": "อาหารกลางวัน",
@@ -3067,13 +2915,9 @@
     },
     "328": {
       "text": "ไม่เผ็ด",
-      "src": "common_voice_th_26428557.mp3",
-      "start": 1.164,
-      "end": 1.786,
-      "gender": null,
-      "score": 0.858,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "329": {
       "text": "มังสวิรัติ",
@@ -3187,13 +3031,9 @@
     },
     "342": {
       "text": "หลอด",
-      "src": "common_voice_th_27665162.mp3",
-      "start": 3.056,
-      "end": 3.337,
-      "gender": "male",
-      "score": 0.77,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "343": {
       "text": "ทิชชู่",
@@ -3277,13 +3117,9 @@
     },
     "351": {
       "text": "รั้ว",
-      "src": "common_voice_th_26489407.mp3",
-      "start": 1.225,
-      "end": 1.667,
-      "gender": "female",
-      "score": 0.723,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "352": {
       "text": "หลังคา",
@@ -3327,13 +3163,9 @@
     },
     "356": {
       "text": "บันได",
-      "src": "common_voice_th_26161192.mp3",
-      "start": 1.316,
-      "end": 1.807,
-      "gender": "female",
-      "score": 0.955,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "357": {
       "text": "หลอดไฟ",
@@ -3567,13 +3399,9 @@
     },
     "383": {
       "text": "ให้อาหาร",
-      "src": "common_voice_th_26509257.mp3",
-      "start": 2.511,
-      "end": 3.455,
-      "gender": "female",
-      "score": 0.924,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "384": {
       "text": "อาบน้ำ",
@@ -3647,13 +3475,9 @@
     },
     "392": {
       "text": "นอนหลับ",
-      "src": "common_voice_th_26413309.mp3",
-      "start": 1.184,
-      "end": 1.635,
-      "gender": "male",
-      "score": 0.857,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "393": {
       "text": "ฝันดี",
@@ -3977,33 +3801,21 @@
     },
     "427": {
       "text": "หัวเราะ",
-      "src": "common_voice_th_26066290.mp3",
-      "start": 2.926,
-      "end": 3.418,
-      "gender": "female",
-      "score": 0.799,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "428": {
       "text": "ว่างเปล่า",
-      "src": "common_voice_th_25654576.mp3",
-      "start": 1.976,
-      "end": 2.848,
-      "gender": null,
-      "score": 0.952,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "429": {
       "text": "เงียบ",
-      "src": "common_voice_th_26328246.mp3",
-      "start": 2.137,
-      "end": 2.539,
-      "gender": "male",
-      "score": 0.784,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "430": {
       "text": "สุขภาพ",
@@ -4267,13 +4079,9 @@
     },
     "457": {
       "text": "สิ่งแวดล้อม",
-      "src": "common_voice_th_26293440.mp3",
-      "start": 2.495,
-      "end": 3.426,
-      "gender": "male",
-      "score": 0.904,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "458": {
       "text": "พลังงาน",
@@ -4297,23 +4105,15 @@
     },
     "460": {
       "text": "วิทยาศาสตร์",
-      "src": "common_voice_th_26293203.mp3",
-      "start": 2.45,
-      "end": 3.273,
-      "gender": "male",
-      "score": 0.889,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "461": {
       "text": "ประวัติศาสตร์",
-      "src": "common_voice_th_25994899.mp3",
-      "start": 1.383,
-      "end": 2.326,
-      "gender": "male",
-      "score": 0.891,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "463": {
       "text": "ดนตรี",
@@ -4487,13 +4287,9 @@
     },
     "482": {
       "text": "อดีต",
-      "src": "common_voice_th_25912699.mp3",
-      "start": 2.491,
-      "end": 2.932,
-      "gender": "female",
-      "score": 0.868,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "483": {
       "text": "ปัจจุบัน",
@@ -4537,23 +4333,15 @@
     },
     "487": {
       "text": "บ่าย",
-      "src": "common_voice_th_28657562.mp3",
-      "start": 1.344,
-      "end": 1.676,
-      "gender": "male",
-      "score": 0.792,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "488": {
       "text": "เย็น",
-      "src": "common_voice_th_26398525.mp3",
-      "start": 1.57,
-      "end": 1.992,
-      "gender": "female",
-      "score": 0.992,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "489": {
       "text": "กลางคืน",
@@ -4717,13 +4505,9 @@
     },
     "508": {
       "text": "โซเชียลมีเดีย",
-      "src": "common_voice_th_25912162.mp3",
-      "start": 2.164,
-      "end": 3.365,
-      "gender": "male",
-      "score": 0.862,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "509": {
       "text": "ข้อความ",
@@ -4767,13 +4551,9 @@
     },
     "515": {
       "text": "งานเลี้ยง",
-      "src": "common_voice_th_25888626.mp3",
-      "start": 2.003,
-      "end": 2.576,
-      "gender": "male",
-      "score": 0.921,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "516": {
       "text": "วันเกิด",
@@ -4907,13 +4687,9 @@
     },
     "549": {
       "text": "สิ่งของ",
-      "src": "common_voice_th_26133599.mp3",
-      "start": 3.075,
-      "end": 3.717,
-      "gender": null,
-      "score": 0.92,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "550": {
       "text": "วัสดุ",
@@ -5227,13 +5003,9 @@
     },
     "599": {
       "text": "มลพิษ",
-      "src": "common_voice_th_26443543.mp3",
-      "start": 1.165,
-      "end": 1.787,
-      "gender": "female",
-      "score": 0.719,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "601": {
       "text": "ป่าไม้",
@@ -5517,13 +5289,9 @@
     },
     "670": {
       "text": "แร่ธาตุ",
-      "src": "common_voice_th_25745568.mp3",
-      "start": 2.578,
-      "end": 3.1,
-      "gender": null,
-      "score": 0.662,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "673": {
       "text": "ไขมัน",
@@ -5537,13 +5305,9 @@
     },
     "680": {
       "text": "วัคซีน",
-      "src": "common_voice_th_26399100.mp3",
-      "start": 0.967,
-      "end": 1.732,
-      "gender": "female",
-      "score": 0.964,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "682": {
       "text": "เชื้อโรค",
@@ -5647,13 +5411,9 @@
     },
     "702": {
       "text": "ธัญพืช",
-      "src": "common_voice_th_26157046.mp3",
-      "start": 1.024,
-      "end": 1.737,
-      "gender": "female",
-      "score": 0.786,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "710": {
       "text": "การตรวจปัสสาวะ",
@@ -5677,13 +5437,9 @@
     },
     "716": {
       "text": "เภสัชกร",
-      "src": "common_voice_th_25833527.mp3",
-      "start": 1.528,
-      "end": 2.774,
-      "gender": null,
-      "score": 0.821,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "717": {
       "text": "ทันตแพทย์",
@@ -5877,13 +5633,9 @@
     },
     "788": {
       "text": "มหาวิทยาลัย",
-      "src": "common_voice_th_28608261.mp3",
-      "start": 2.192,
-      "end": 3.217,
-      "gender": "male",
-      "score": 0.91,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "789": {
       "text": "นักเรียน",
@@ -5947,23 +5699,15 @@
     },
     "795": {
       "text": "ภาษาไทย",
-      "src": "common_voice_th_28722705.mp3",
-      "start": 1.858,
-      "end": 2.811,
-      "gender": "female",
-      "score": 0.865,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "796": {
       "text": "ภาษาอังกฤษ",
-      "src": "common_voice_th_26743205.mp3",
-      "start": 2.759,
-      "end": 3.712,
-      "gender": null,
-      "score": 0.842,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "798": {
       "text": "พลศึกษา",
@@ -6377,23 +6121,15 @@
     },
     "872": {
       "text": "เข้าใจไหม",
-      "src": "common_voice_th_23657106.mp3",
-      "start": 1.172,
-      "end": 1.893,
-      "gender": "female",
-      "score": 0.852,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "873": {
       "text": "ไม่เข้าใจ",
-      "src": "common_voice_th_25663318.mp3",
-      "start": 1.706,
-      "end": 2.729,
-      "gender": null,
-      "score": 0.893,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "875": {
       "text": "พูดอีกครั้ง",
@@ -6477,13 +6213,9 @@
     },
     "891": {
       "text": "อร่อยมาก",
-      "src": "common_voice_th_26191373.mp3",
-      "start": 1.344,
-      "end": 2.086,
-      "gender": "female",
-      "score": 0.81,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "897": {
       "text": "ร้อนมาก",
@@ -6747,13 +6479,9 @@
     },
     "935": {
       "text": "อีกอันหนึ่ง",
-      "src": "common_voice_th_26216651.mp3",
-      "start": 3.105,
-      "end": 3.778,
-      "gender": "male",
-      "score": 0.979,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "936": {
       "text": "เหมือนกัน",
@@ -6797,13 +6525,9 @@
     },
     "940": {
       "text": "ทุกวัน",
-      "src": "common_voice_th_25904551.mp3",
-      "start": 2.968,
-      "end": 3.469,
-      "gender": "male",
-      "score": 0.905,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "941": {
       "text": "บางครั้ง",
@@ -6877,13 +6601,9 @@
     },
     "949": {
       "text": "หมี",
-      "src": "common_voice_th_28714457.mp3",
-      "start": 1.023,
-      "end": 1.363,
-      "gender": "male",
-      "score": 0.871,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "950": {
       "text": "พร้อมหรือยัง",
@@ -7257,13 +6977,9 @@
     },
     "1004": {
       "text": "นี้",
-      "src": "common_voice_th_25976083.mp3",
-      "start": 1.812,
-      "end": 2.173,
-      "gender": "female",
-      "score": 1.0,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1006": {
       "text": "เป็น",
@@ -7357,13 +7073,9 @@
     },
     "1017": {
       "text": "จาก",
-      "src": "common_voice_th_28217203.mp3",
-      "start": 1.265,
-      "end": 1.766,
-      "gender": "female",
-      "score": 0.92,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1019": {
       "text": "ถึง",
@@ -7707,13 +7419,9 @@
     },
     "1061": {
       "text": "ดี",
-      "src": "common_voice_th_26651156.mp3",
-      "start": 2.18,
-      "end": 2.551,
-      "gender": "male",
-      "score": 0.999,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1069": {
       "text": "ก่อน",
@@ -7727,13 +7435,9 @@
     },
     "1070": {
       "text": "หลัง",
-      "src": "common_voice_th_28125422.mp3",
-      "start": 1.288,
-      "end": 1.73,
-      "gender": "female",
-      "score": 0.997,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1071": {
       "text": "ควร",
@@ -7787,13 +7491,9 @@
     },
     "1077": {
       "text": "รู้",
-      "src": "common_voice_th_26056573.mp3",
-      "start": 2.395,
-      "end": 2.837,
-      "gender": "female",
-      "score": 0.988,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1079": {
       "text": "อยาก",
@@ -7897,23 +7597,15 @@
     },
     "1090": {
       "text": "ยืน",
-      "src": "common_voice_th_26701592.mp3",
-      "start": 1.814,
-      "end": 2.277,
-      "gender": "female",
-      "score": 0.977,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1091": {
       "text": "เล่น",
-      "src": "common_voice_th_26103896.mp3",
-      "start": 3.321,
-      "end": 3.652,
-      "gender": "female",
-      "score": 0.995,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1092": {
       "text": "เรียน",
@@ -8487,13 +8179,9 @@
     },
     "1180": {
       "text": "ว่ายน้ำ",
-      "src": "common_voice_th_25664269.mp3",
-      "start": 1.915,
-      "end": 2.667,
-      "gender": null,
-      "score": 0.845,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1181": {
       "text": "กระโดด",
@@ -8627,13 +8315,9 @@
     },
     "1210": {
       "text": "แรก",
-      "src": "common_voice_th_27443082.mp3",
-      "start": 1.739,
-      "end": 2.191,
-      "gender": "male",
-      "score": 0.986,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1214": {
       "text": "เด็ก",
@@ -8667,13 +8351,9 @@
     },
     "1218": {
       "text": "หา",
-      "src": "common_voice_th_31939227.mp3",
-      "start": 3.595,
-      "end": 3.976,
-      "gender": "female",
-      "score": 1.0,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1219": {
       "text": "สำหรับ",
@@ -8787,13 +8467,9 @@
     },
     "1234": {
       "text": "นับ",
-      "src": "common_voice_th_28653500.mp3",
-      "start": 1.107,
-      "end": 1.369,
-      "gender": "female",
-      "score": 0.801,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1236": {
       "text": "ตอน",
@@ -9017,13 +8693,9 @@
     },
     "1275": {
       "text": "เธอ",
-      "src": "common_voice_th_26039881.mp3",
-      "start": 1.945,
-      "end": 2.296,
-      "gender": "female",
-      "score": 0.698,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1279": {
       "text": "ต้องการ",
@@ -9187,13 +8859,9 @@
     },
     "1306": {
       "text": "ติด",
-      "src": "common_voice_th_30529575.mp3",
-      "start": 1.369,
-      "end": 1.751,
-      "gender": "male",
-      "score": 0.802,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1310": {
       "text": "ผู้หญิง",
@@ -9327,13 +8995,9 @@
     },
     "1336": {
       "text": "หมด",
-      "src": "common_voice_th_31939386.mp3",
-      "start": 2.586,
-      "end": 2.906,
-      "gender": "female",
-      "score": 0.785,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1337": {
       "text": "หลังจาก",
@@ -9847,13 +9511,9 @@
     },
     "1459": {
       "text": "ถนน",
-      "src": "common_voice_th_26296479.mp3",
-      "start": 2.153,
-      "end": 2.595,
-      "gender": "male",
-      "score": 0.811,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1463": {
       "text": "เปลี่ยนแปลง",
@@ -10027,13 +9687,9 @@
     },
     "1510": {
       "text": "มองเห็น",
-      "src": "common_voice_th_26623406.mp3",
-      "start": 2.183,
-      "end": 2.776,
-      "gender": "female",
-      "score": 0.987,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1516": {
       "text": "ไหม",
@@ -10097,13 +9753,9 @@
     },
     "1538": {
       "text": "วิธีการ",
-      "src": "common_voice_th_28495193.mp3",
-      "start": 1.661,
-      "end": 2.657,
-      "gender": "female",
-      "score": 0.885,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1539": {
       "text": "นิยม",
@@ -10157,23 +9809,15 @@
     },
     "1553": {
       "text": "หาย",
-      "src": "common_voice_th_27500089.mp3",
-      "start": 3.115,
-      "end": 3.566,
-      "gender": "male",
-      "score": 0.846,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1554": {
       "text": "ชัด",
-      "src": "common_voice_th_25806053.mp3",
-      "start": 2.097,
-      "end": 2.548,
-      "gender": null,
-      "score": 0.917,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1557": {
       "text": "ปรับ",
@@ -10227,13 +9871,9 @@
     },
     "1563": {
       "text": "ลึก",
-      "src": "common_voice_th_29340206.mp3",
-      "start": 2.605,
-      "end": 2.896,
-      "gender": "male",
-      "score": 0.991,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1570": {
       "text": "รายการ",
@@ -10247,13 +9887,9 @@
     },
     "1571": {
       "text": "ดำเนินการ",
-      "src": "common_voice_th_25900602.mp3",
-      "start": 1.784,
-      "end": 2.746,
-      "gender": null,
-      "score": 0.796,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1575": {
       "text": "หัวใจ",
@@ -10597,13 +10233,9 @@
     },
     "1649": {
       "text": "ค้า",
-      "src": "common_voice_th_26702548.mp3",
-      "start": 1.571,
-      "end": 1.953,
-      "gender": "female",
-      "score": 0.835,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1652": {
       "text": "รายงาน",
@@ -10737,13 +10369,9 @@
     },
     "1677": {
       "text": "ที่ดิน",
-      "src": "common_voice_th_26663001.mp3",
-      "start": 2.444,
-      "end": 2.925,
-      "gender": "male",
-      "score": 0.913,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1679": {
       "text": "บันทึก",
@@ -10757,13 +10385,9 @@
     },
     "1682": {
       "text": "มิตร",
-      "src": "common_voice_th_27700311.mp3",
-      "start": 1.656,
-      "end": 2.079,
-      "gender": "male",
-      "score": 0.769,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1688": {
       "text": "กระบวนการ",
@@ -10817,13 +10441,9 @@
     },
     "1696": {
       "text": "อ่อน",
-      "src": "common_voice_th_26354013.mp3",
-      "start": 2.573,
-      "end": 2.853,
-      "gender": "male",
-      "score": 0.996,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1697": {
       "text": "ความหมาย",
@@ -10887,13 +10507,9 @@
     },
     "1713": {
       "text": "งดงาม",
-      "src": "common_voice_th_25682158.mp3",
-      "start": 1.775,
-      "end": 2.618,
-      "gender": null,
-      "score": 0.943,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1714": {
       "text": "เช่า",
@@ -10907,13 +10523,9 @@
     },
     "1715": {
       "text": "ความสำคัญ",
-      "src": "common_voice_th_25670086.mp3",
-      "start": 1.945,
-      "end": 3.128,
-      "gender": null,
-      "score": 0.814,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1722": {
       "text": "แนวทาง",
@@ -11127,13 +10739,9 @@
     },
     "1774": {
       "text": "ดูเหมือน",
-      "src": "common_voice_th_28440856.mp3",
-      "start": 1.325,
-      "end": 1.937,
-      "gender": "male",
-      "score": 0.98,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1784": {
       "text": "ประธาน",
@@ -11197,13 +10805,9 @@
     },
     "1816": {
       "text": "ท้องถิ่น",
-      "src": "common_voice_th_28216934.mp3",
-      "start": 3.426,
-      "end": 4.127,
-      "gender": "female",
-      "score": 0.849,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1818": {
       "text": "นิสัย",
@@ -11377,13 +10981,9 @@
     },
     "1867": {
       "text": "รบ",
-      "src": "common_voice_th_27395423.mp3",
-      "start": 1.878,
-      "end": 2.23,
-      "gender": "male",
-      "score": 0.948,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1869": {
       "text": "บิน",
@@ -11427,23 +11027,15 @@
     },
     "1873": {
       "text": "น้ำมัน",
-      "src": "common_voice_th_26287797.mp3",
-      "start": 1.876,
-      "end": 2.359,
-      "gender": "female",
-      "score": 0.847,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1874": {
       "text": "อาทิตย์",
-      "src": "common_voice_th_26594399.mp3",
-      "start": 3.897,
-      "end": 4.378,
-      "gender": "female",
-      "score": 0.837,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1875": {
       "text": "บุหรี่",
@@ -11457,13 +11049,9 @@
     },
     "1882": {
       "text": "ยิ้ม",
-      "src": "common_voice_th_26478060.mp3",
-      "start": 3.273,
-      "end": 3.654,
-      "gender": "female",
-      "score": 0.998,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1887": {
       "text": "ขน",
@@ -11607,13 +11195,9 @@
     },
     "1917": {
       "text": "รวบรวม",
-      "src": "common_voice_th_25795308.mp3",
-      "start": 1.864,
-      "end": 2.375,
-      "gender": "female",
-      "score": 0.918,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1925": {
       "text": "พวกเรา",
@@ -11647,13 +11231,9 @@
     },
     "1940": {
       "text": "สนาม",
-      "src": "common_voice_th_25916263.mp3",
-      "start": 1.615,
-      "end": 2.146,
-      "gender": "female",
-      "score": 0.826,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1942": {
       "text": "เยี่ยม",
@@ -11717,13 +11297,9 @@
     },
     "1954": {
       "text": "ไง",
-      "src": "common_voice_th_26113606.mp3",
-      "start": 2.61,
-      "end": 2.971,
-      "gender": null,
-      "score": 0.942,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1963": {
       "text": "ที่นั่ง",
@@ -11797,13 +11373,9 @@
     },
     "1979": {
       "text": "นิ้ว",
-      "src": "common_voice_th_27396343.mp3",
-      "start": 1.302,
-      "end": 1.735,
-      "gender": "male",
-      "score": 0.748,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1980": {
       "text": "ยาวนาน",
@@ -11867,13 +11439,9 @@
     },
     "1999": {
       "text": "เล็กน้อย",
-      "src": "common_voice_th_26784221.mp3",
-      "start": 1.585,
-      "end": 2.166,
-      "gender": "male",
-      "score": 0.877,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2001": {
       "text": "โปรด",
@@ -11937,13 +11505,9 @@
     },
     "2022": {
       "text": "ลับ",
-      "src": "common_voice_th_27276788.mp3",
-      "start": 1.208,
-      "end": 1.63,
-      "gender": null,
-      "score": 0.761,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2024": {
       "text": "เติม",
@@ -11957,13 +11521,9 @@
     },
     "2025": {
       "text": "ทันสมัย",
-      "src": "common_voice_th_26315659.mp3",
-      "start": 0.612,
-      "end": 1.424,
-      "gender": "male",
-      "score": 0.867,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2027": {
       "text": "พอดี",
@@ -12117,13 +11677,9 @@
     },
     "2081": {
       "text": "กลาย",
-      "src": "common_voice_th_26296396.mp3",
-      "start": 1.126,
-      "end": 1.498,
-      "gender": "male",
-      "score": 0.803,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2090": {
       "text": "คาด",
@@ -12327,13 +11883,9 @@
     },
     "2175": {
       "text": "เจ้านาย",
-      "src": "common_voice_th_25901313.mp3",
-      "start": 1.454,
-      "end": 2.146,
-      "gender": "female",
-      "score": 0.817,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2176": {
       "text": "กำแพง",
@@ -12387,13 +11939,9 @@
     },
     "2191": {
       "text": "แห้ง",
-      "src": "common_voice_th_28537457.mp3",
-      "start": 1.064,
-      "end": 1.486,
-      "gender": "male",
-      "score": 0.949,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2199": {
       "text": "สัปดาห์",
@@ -12427,13 +11975,9 @@
     },
     "2235": {
       "text": "สมัคร",
-      "src": "common_voice_th_29002299.mp3",
-      "start": 1.383,
-      "end": 1.734,
-      "gender": "male",
-      "score": 0.869,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2238": {
       "text": "ถ้าหาก",
@@ -12587,13 +12131,9 @@
     },
     "2309": {
       "text": "มติ",
-      "src": "common_voice_th_25928138.mp3",
-      "start": 1.537,
-      "end": 1.828,
-      "gender": "male",
-      "score": 0.973,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2318": {
       "text": "นับตั้งแต่",
@@ -12627,13 +12167,9 @@
     },
     "2331": {
       "text": "หมายเลข",
-      "src": "common_voice_th_25885320.mp3",
-      "start": 1.137,
-      "end": 1.53,
-      "gender": "female",
-      "score": 0.864,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2333": {
       "text": "หลักสูตร",
@@ -12727,13 +12263,9 @@
     },
     "2368": {
       "text": "รำ",
-      "src": "common_voice_th_27551681.mp3",
-      "start": 2.491,
-      "end": 2.872,
-      "gender": "male",
-      "score": 0.79,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2370": {
       "text": "หมุน",
@@ -12847,13 +12379,9 @@
     },
     "2411": {
       "text": "รู",
-      "src": "common_voice_th_26106588.mp3",
-      "start": 1.907,
-      "end": 2.288,
-      "gender": "female",
-      "score": 0.999,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2413": {
       "text": "ร้ายแรง",
@@ -12877,13 +12405,9 @@
     },
     "2451": {
       "text": "แผนก",
-      "src": "common_voice_th_25899534.mp3",
-      "start": 1.495,
-      "end": 1.947,
-      "gender": null,
-      "score": 0.834,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2455": {
       "text": "ยากจน",
@@ -12917,13 +12441,9 @@
     },
     "2464": {
       "text": "เลือกตั้ง",
-      "src": "common_voice_th_27300532.mp3",
-      "start": 2.435,
-      "end": 3.126,
-      "gender": "male",
-      "score": 0.893,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2466": {
       "text": "เคลื่อน",
@@ -12947,13 +12467,9 @@
     },
     "2480": {
       "text": "เดี่ยว",
-      "src": "common_voice_th_27647660.mp3",
-      "start": 1.585,
-      "end": 2.006,
-      "gender": "male",
-      "score": 0.784,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2482": {
       "text": "แข่ง",
@@ -13047,23 +12563,15 @@
     },
     "2534": {
       "text": "ข้าวสาร",
-      "src": "common_voice_th_26117933.mp3",
-      "start": 1.908,
-      "end": 2.631,
-      "gender": null,
-      "score": 0.792,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2536": {
       "text": "ข้อเท็จจริง",
-      "src": "common_voice_th_26057582.mp3",
-      "start": 2.62,
-      "end": 3.472,
-      "gender": "female",
-      "score": 0.834,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2553": {
       "text": "ผู้จัดการ",
@@ -13287,13 +12795,9 @@
     },
     "2664": {
       "text": "คำแนะนำ",
-      "src": "common_voice_th_28721603.mp3",
-      "start": 0.752,
-      "end": 1.785,
-      "gender": "female",
-      "score": 0.82,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2667": {
       "text": "ครอบคลุม",
@@ -13377,23 +12881,15 @@
     },
     "2707": {
       "text": "โดยทั่วไป",
-      "src": "common_voice_th_26702241.mp3",
-      "start": 3.194,
-      "end": 4.037,
-      "gender": "female",
-      "score": 0.794,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2711": {
       "text": "บรรลุ",
-      "src": "common_voice_th_25931128.mp3",
-      "start": 1.436,
-      "end": 1.778,
-      "gender": "male",
-      "score": 0.877,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2719": {
       "text": "เจ็บป่วย",
@@ -13427,13 +12923,9 @@
     },
     "2726": {
       "text": "มิให้",
-      "src": "common_voice_th_26137231.mp3",
-      "start": 2.043,
-      "end": 2.394,
-      "gender": null,
-      "score": 0.953,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2729": {
       "text": "บ่น",
@@ -13467,13 +12959,9 @@
     },
     "2747": {
       "text": "เวียน",
-      "src": "common_voice_th_27396269.mp3",
-      "start": 0.613,
-      "end": 0.884,
-      "gender": "male",
-      "score": 0.822,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2752": {
       "text": "กลม",
@@ -13557,23 +13045,15 @@
     },
     "2809": {
       "text": "นายก",
-      "src": "common_voice_th_28126902.mp3",
-      "start": 3.371,
-      "end": 4.013,
-      "gender": "female",
-      "score": 0.995,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2819": {
       "text": "รับจ้าง",
-      "src": "common_voice_th_26227041.mp3",
-      "start": 1.146,
-      "end": 1.789,
-      "gender": null,
-      "score": 0.907,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2820": {
       "text": "ปัน",
@@ -13747,13 +13227,9 @@
     },
     "2899": {
       "text": "บทเรียน",
-      "src": "common_voice_th_26167786.mp3",
-      "start": 2.285,
-      "end": 3.119,
-      "gender": "female",
-      "score": 0.896,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2902": {
       "text": "จราจร",
@@ -13987,13 +13463,9 @@
     },
     "2984": {
       "text": "แบก",
-      "src": "common_voice_th_26162450.mp3",
-      "start": 2.611,
-      "end": 2.842,
-      "gender": null,
-      "score": 0.926,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2989": {
       "text": "เลี่ยง",
@@ -14027,13 +13499,9 @@
     },
     "3016": {
       "text": "เงินทอง",
-      "src": "common_voice_th_31939488.mp3",
-      "start": 1.723,
-      "end": 2.204,
-      "gender": "female",
-      "score": 0.856,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3029": {
       "text": "แสงสว่าง",
@@ -14087,13 +13555,9 @@
     },
     "3066": {
       "text": "โลหะ",
-      "src": "common_voice_th_28719455.mp3",
-      "start": 1.931,
-      "end": 2.433,
-      "gender": "male",
-      "score": 0.933,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3067": {
       "text": "เป่า",
@@ -14117,13 +13581,9 @@
     },
     "3080": {
       "text": "ท้องฟ้า",
-      "src": "common_voice_th_25684557.mp3",
-      "start": 2.421,
-      "end": 3.114,
-      "gender": "female",
-      "score": 0.904,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3100": {
       "text": "แมลง",
@@ -14337,13 +13797,9 @@
     },
     "3215": {
       "text": "ดูถูก",
-      "src": "common_voice_th_27579974.mp3",
-      "start": 1.768,
-      "end": 2.32,
-      "gender": "male",
-      "score": 0.898,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3227": {
       "text": "วันเวลา",
@@ -14397,13 +13853,9 @@
     },
     "3295": {
       "text": "ดีงาม",
-      "src": "common_voice_th_27649288.mp3",
-      "start": 1.795,
-      "end": 2.466,
-      "gender": "male",
-      "score": 0.993,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3302": {
       "text": "ผู้กำกับ",
@@ -14437,13 +13889,9 @@
     },
     "3316": {
       "text": "เข่า",
-      "src": "common_voice_th_25689845.mp3",
-      "start": 3.115,
-      "end": 3.526,
-      "gender": "female",
-      "score": 0.857,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3329": {
       "text": "นุ่ม",
@@ -14847,23 +14295,15 @@
     },
     "3683": {
       "text": "หล่น",
-      "src": "common_voice_th_26325593.mp3",
-      "start": 1.064,
-      "end": 1.335,
-      "gender": "female",
-      "score": 0.738,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3688": {
       "text": "เท่านี้",
-      "src": "common_voice_th_25671797.mp3",
-      "start": 1.864,
-      "end": 2.425,
-      "gender": null,
-      "score": 0.891,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3695": {
       "text": "ต่างด้าว",
@@ -14897,23 +14337,15 @@
     },
     "3722": {
       "text": "ว่าย",
-      "src": "common_voice_th_25666188.mp3",
-      "start": 3.855,
-      "end": 4.135,
-      "gender": null,
-      "score": 0.874,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3725": {
       "text": "รหัส",
-      "src": "common_voice_th_26109802.mp3",
-      "start": 0.935,
-      "end": 1.366,
-      "gender": null,
-      "score": 0.913,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3741": {
       "text": "ยกมือ",
@@ -15087,13 +14519,9 @@
     },
     "3841": {
       "text": "นักแสดง",
-      "src": "common_voice_th_28875067.mp3",
-      "start": 0.812,
-      "end": 1.293,
-      "gender": "male",
-      "score": 0.898,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3862": {
       "text": "เพลิน",
@@ -15417,13 +14845,9 @@
     },
     "4191": {
       "text": "ทะเลสาบ",
-      "src": "common_voice_th_26915586.mp3",
-      "start": 2.744,
-      "end": 3.566,
-      "gender": "male",
-      "score": 0.858,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4193": {
       "text": "เงินสด",
@@ -15437,13 +14861,9 @@
     },
     "4201": {
       "text": "มือขวา",
-      "src": "common_voice_th_25662303.mp3",
-      "start": 1.758,
-      "end": 2.27,
-      "gender": "female",
-      "score": 0.953,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4204": {
       "text": "กระดาน",
@@ -15527,13 +14947,9 @@
     },
     "4298": {
       "text": "คิดมาก",
-      "src": "common_voice_th_25673916.mp3",
-      "start": 0.954,
-      "end": 1.807,
-      "gender": null,
-      "score": 0.838,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4320": {
       "text": "เฟอร์นิเจอร์",
@@ -15627,13 +15043,9 @@
     },
     "4396": {
       "text": "เมนู",
-      "src": "common_voice_th_26071331.mp3",
-      "start": 1.135,
-      "end": 1.698,
-      "gender": "female",
-      "score": 0.968,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4406": {
       "text": "ปิดบัง",
@@ -15667,13 +15079,9 @@
     },
     "4419": {
       "text": "แออัด",
-      "src": "common_voice_th_27648529.mp3",
-      "start": 1.377,
-      "end": 1.889,
-      "gender": "male",
-      "score": 0.758,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4429": {
       "text": "เค้ก",
@@ -15697,13 +15105,9 @@
     },
     "4436": {
       "text": "หันหลัง",
-      "src": "common_voice_th_25888788.mp3",
-      "start": 1.446,
-      "end": 2.119,
-      "gender": "male",
-      "score": 0.967,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4446": {
       "text": "กรีด",
@@ -15717,13 +15121,9 @@
     },
     "4476": {
       "text": "ยอดเยี่ยม",
-      "src": "common_voice_th_25887980.mp3",
-      "start": 2.815,
-      "end": 3.646,
-      "gender": "female",
-      "score": 0.885,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4480": {
       "text": "นัยน์ตา",
@@ -15837,13 +15237,9 @@
     },
     "4711": {
       "text": "อย่างง่ายดาย",
-      "src": "common_voice_th_25667075.mp3",
-      "start": 2.229,
-      "end": 3.092,
-      "gender": "male",
-      "score": 0.929,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4723": {
       "text": "ด้านหลัง",
@@ -15867,13 +15263,9 @@
     },
     "4854": {
       "text": "ตื่นเต้นมาก",
-      "src": "common_voice_th_25666094.mp3",
-      "start": 1.142,
-      "end": 1.933,
-      "gender": "female",
-      "score": 0.934,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4867": {
       "text": "หายไป",
@@ -16037,13 +15429,9 @@
     },
     "552": {
       "text": "เหล็ก",
-      "src": "common_voice_th_26579016.mp3",
-      "start": 2.044,
-      "end": 2.285,
-      "gender": "female",
-      "score": 0.818,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "557": {
       "text": "หิน",
@@ -16277,13 +15665,9 @@
     },
     "675": {
       "text": "น้ำหนักตัว",
-      "src": "common_voice_th_25933494.mp3",
-      "start": 2.709,
-      "end": 3.471,
-      "gender": "female",
-      "score": 0.727,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "681": {
       "text": "ภูมิคุ้มกัน",
@@ -16327,13 +15711,9 @@
     },
     "741": {
       "text": "สำลี",
-      "src": "common_voice_th_28467343.mp3",
-      "start": 2.051,
-      "end": 2.634,
-      "gender": null,
-      "score": 0.79,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "742": {
       "text": "แอลกอฮอล์ล้างแผล",
@@ -16457,13 +15837,9 @@
     },
     "901": {
       "text": "น่ารัก",
-      "src": "common_voice_th_26605920.mp3",
-      "start": 3.615,
-      "end": 4.258,
-      "gender": "female",
-      "score": 0.99,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "962": {
       "text": "ถ่ายภาพ",
@@ -16497,13 +15873,9 @@
     },
     "994": {
       "text": "แนบไฟล์",
-      "src": "common_voice_th_25699187.mp3",
-      "start": 1.213,
-      "end": 2.125,
-      "gender": null,
-      "score": 0.766,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "997": {
       "text": "ไวรัสคอมพิวเตอร์",
@@ -16697,13 +16069,9 @@
     },
     "1139": {
       "text": "เผ็ด",
-      "src": "common_voice_th_26185035.mp3",
-      "start": 2.646,
-      "end": 3.078,
-      "gender": "female",
-      "score": 0.893,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1157": {
       "text": "เช็ด",
@@ -17027,13 +16395,9 @@
     },
     "1295": {
       "text": "โรง",
-      "src": "common_voice_th_25001782.mp3",
-      "start": 2.211,
-      "end": 2.593,
-      "gender": "male",
-      "score": 0.914,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1296": {
       "text": "ทราบ",
@@ -17127,23 +16491,15 @@
     },
     "1321": {
       "text": "แรง",
-      "src": "common_voice_th_26326534.mp3",
-      "start": 1.393,
-      "end": 1.816,
-      "gender": "male",
-      "score": 0.93,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1326": {
       "text": "มุม",
-      "src": "common_voice_th_27242843.mp3",
-      "start": 0.832,
-      "end": 1.032,
-      "gender": "male",
-      "score": 0.973,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1332": {
       "text": "สู่",
@@ -17367,13 +16723,9 @@
     },
     "1424": {
       "text": "เลิก",
-      "src": "common_voice_th_30478071.mp3",
-      "start": 1.84,
-      "end": 2.311,
-      "gender": "female",
-      "score": 0.784,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1426": {
       "text": "พูดถึง",
@@ -17507,23 +16859,15 @@
     },
     "1449": {
       "text": "ไร้",
-      "src": "common_voice_th_26701350.mp3",
-      "start": 2.438,
-      "end": 2.869,
-      "gender": "female",
-      "score": 0.971,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1452": {
       "text": "งาม",
-      "src": "common_voice_th_26205640.mp3",
-      "start": 1.97,
-      "end": 2.201,
-      "gender": "male",
-      "score": 0.987,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1455": {
       "text": "ปล่อย",
@@ -17547,13 +16891,9 @@
     },
     "1457": {
       "text": "เลี้ยง",
-      "src": "common_voice_th_26586105.mp3",
-      "start": 2.994,
-      "end": 3.275,
-      "gender": "female",
-      "score": 0.886,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1460": {
       "text": "ประกอบ",
@@ -17677,13 +17017,9 @@
     },
     "1495": {
       "text": "หมู่",
-      "src": "common_voice_th_27649556.mp3",
-      "start": 2.036,
-      "end": 2.386,
-      "gender": "male",
-      "score": 0.999,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1502": {
       "text": "บริหาร",
@@ -17807,23 +17143,15 @@
     },
     "1534": {
       "text": "เหมาะสม",
-      "src": "common_voice_th_26915696.mp3",
-      "start": 2.084,
-      "end": 2.625,
-      "gender": "male",
-      "score": 0.91,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1536": {
       "text": "นโยบาย",
-      "src": "common_voice_th_31940700.mp3",
-      "start": 0.703,
-      "end": 1.216,
-      "gender": "female",
-      "score": 0.897,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1537": {
       "text": "ช่อง",
@@ -17867,13 +17195,9 @@
     },
     "1543": {
       "text": "ย่อม",
-      "src": "common_voice_th_26061486.mp3",
-      "start": 1.317,
-      "end": 1.609,
-      "gender": "female",
-      "score": 0.973,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1547": {
       "text": "สาร",
@@ -17887,13 +17211,9 @@
     },
     "1549": {
       "text": "ไหล",
-      "src": "common_voice_th_25674632.mp3",
-      "start": 2.632,
-      "end": 3.054,
-      "gender": null,
-      "score": 0.856,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1556": {
       "text": "พิธี",
@@ -17937,13 +17257,9 @@
     },
     "1568": {
       "text": "หมายถึง",
-      "src": "common_voice_th_33865334.mp3",
-      "start": 0.762,
-      "end": 1.153,
-      "gender": "male",
-      "score": 0.884,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1569": {
       "text": "ต่างประเทศ",
@@ -18017,13 +17333,9 @@
     },
     "1591": {
       "text": "ทำหน้าที่",
-      "src": "common_voice_th_31940609.mp3",
-      "start": 2.159,
-      "end": 2.752,
-      "gender": "female",
-      "score": 0.814,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1596": {
       "text": "บรรดา",
@@ -18097,13 +17409,9 @@
     },
     "1625": {
       "text": "รุนแรง",
-      "src": "common_voice_th_27966556.mp3",
-      "start": 1.773,
-      "end": 2.498,
-      "gender": "male",
-      "score": 0.955,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1626": {
       "text": "ขยาย",
@@ -18117,13 +17425,9 @@
     },
     "1630": {
       "text": "โบราณ",
-      "src": "common_voice_th_26296483.mp3",
-      "start": 1.25,
-      "end": 1.854,
-      "gender": "male",
-      "score": 0.976,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1639": {
       "text": "เป็นต้น",
@@ -18257,13 +17561,9 @@
     },
     "1687": {
       "text": "เสา",
-      "src": "common_voice_th_26184541.mp3",
-      "start": 3.132,
-      "end": 3.573,
-      "gender": "female",
-      "score": 0.81,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1700": {
       "text": "แก",
@@ -18317,13 +17617,9 @@
     },
     "1711": {
       "text": "ฝีมือ",
-      "src": "common_voice_th_28751124.mp3",
-      "start": 1.319,
-      "end": 1.671,
-      "gender": "male",
-      "score": 0.949,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1712": {
       "text": "ก้าว",
@@ -18597,13 +17893,9 @@
     },
     "1809": {
       "text": "ที่ผ่านมา",
-      "src": "common_voice_th_26517643.mp3",
-      "start": 2.094,
-      "end": 2.885,
-      "gender": null,
-      "score": 0.942,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1810": {
       "text": "จำกัด",
@@ -18807,13 +18099,9 @@
     },
     "1893": {
       "text": "หน่วย",
-      "src": "common_voice_th_27342042.mp3",
-      "start": 1.166,
-      "end": 1.608,
-      "gender": "male",
-      "score": 0.693,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1896": {
       "text": "รอย",
@@ -19017,13 +18305,9 @@
     },
     "1949": {
       "text": "อาวุธ",
-      "src": "common_voice_th_27342432.mp3",
-      "start": 2.435,
-      "end": 2.865,
-      "gender": "male",
-      "score": 0.792,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1952": {
       "text": "บ้านเมือง",
@@ -19057,23 +18341,15 @@
     },
     "1960": {
       "text": "เหยื่อ",
-      "src": "common_voice_th_28550480.mp3",
-      "start": 3.187,
-      "end": 3.567,
-      "gender": "male",
-      "score": 0.77,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1962": {
       "text": "นิ่ง",
-      "src": "common_voice_th_27059612.mp3",
-      "start": 2.474,
-      "end": 2.916,
-      "gender": "female",
-      "score": 0.997,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1964": {
       "text": "สูญเสีย",
@@ -19167,13 +18443,9 @@
     },
     "1997": {
       "text": "วิชาการ",
-      "src": "common_voice_th_25689318.mp3",
-      "start": 3.491,
-      "end": 4.173,
-      "gender": "male",
-      "score": 0.905,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2005": {
       "text": "ระมัดระวัง",
@@ -19287,13 +18559,9 @@
     },
     "2044": {
       "text": "ชื่นชม",
-      "src": "common_voice_th_26219482.mp3",
-      "start": 3.673,
-      "end": 4.294,
-      "gender": null,
-      "score": 0.963,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2048": {
       "text": "โค",
@@ -19547,13 +18815,9 @@
     },
     "2129": {
       "text": "ทั้งนั้น",
-      "src": "common_voice_th_28495034.mp3",
-      "start": 2.748,
-      "end": 3.349,
-      "gender": "female",
-      "score": 0.928,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2130": {
       "text": "เท่าไร",
@@ -19647,13 +18911,9 @@
     },
     "2187": {
       "text": "รอด",
-      "src": "common_voice_th_27628736.mp3",
-      "start": 3.349,
-      "end": 3.81,
-      "gender": "male",
-      "score": 0.779,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2189": {
       "text": "หน้าตา",
@@ -19747,13 +19007,9 @@
     },
     "2220": {
       "text": "เหล่า",
-      "src": "common_voice_th_28550375.mp3",
-      "start": 1.153,
-      "end": 1.544,
-      "gender": "male",
-      "score": 0.935,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2221": {
       "text": "เผา",
@@ -19877,13 +19133,9 @@
     },
     "2262": {
       "text": "หายใจ",
-      "src": "common_voice_th_27396074.mp3",
-      "start": 1.655,
-      "end": 2.367,
-      "gender": "male",
-      "score": 0.924,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2263": {
       "text": "กังวล",
@@ -19907,13 +19159,9 @@
     },
     "2270": {
       "text": "ย้ำ",
-      "src": "common_voice_th_25641320.mp3",
-      "start": 3.21,
-      "end": 3.652,
-      "gender": "male",
-      "score": 0.767,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2273": {
       "text": "จำหน่าย",
@@ -20057,13 +19305,9 @@
     },
     "2311": {
       "text": "นักการเมือง",
-      "src": "common_voice_th_26153015.mp3",
-      "start": 3.536,
-      "end": 4.527,
-      "gender": null,
-      "score": 0.893,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2322": {
       "text": "กุ",
@@ -20187,13 +19431,9 @@
     },
     "2362": {
       "text": "ประธานาธิบดี",
-      "src": "common_voice_th_26702307.mp3",
-      "start": 1.823,
-      "end": 2.765,
-      "gender": "female",
-      "score": 0.867,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2364": {
       "text": "นับว่า",
@@ -20287,23 +19527,15 @@
     },
     "2392": {
       "text": "โน้ต",
-      "src": "common_voice_th_26103819.mp3",
-      "start": 3.299,
-      "end": 3.75,
-      "gender": "female",
-      "score": 0.772,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2393": {
       "text": "มีเสียง",
-      "src": "common_voice_th_28912726.mp3",
-      "start": 0.763,
-      "end": 1.485,
-      "gender": "female",
-      "score": 0.909,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2401": {
       "text": "ความเป็นจริง",
@@ -20337,13 +19569,9 @@
     },
     "2420": {
       "text": "ประดิษฐ์",
-      "src": "common_voice_th_28439897.mp3",
-      "start": 1.333,
-      "end": 1.935,
-      "gender": "female",
-      "score": 0.918,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2423": {
       "text": "หลุด",
@@ -20367,13 +19595,9 @@
     },
     "2437": {
       "text": "อ่อนแอ",
-      "src": "common_voice_th_25705360.mp3",
-      "start": 2.414,
-      "end": 2.976,
-      "gender": "male",
-      "score": 0.984,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2439": {
       "text": "ครั้งนั้น",
@@ -20407,13 +19631,9 @@
     },
     "2461": {
       "text": "เหมือนเดิม",
-      "src": "common_voice_th_31943944.mp3",
-      "start": 1.063,
-      "end": 1.806,
-      "gender": "male",
-      "score": 0.915,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2467": {
       "text": "เท่าใด",
@@ -20617,13 +19837,9 @@
     },
     "2535": {
       "text": "อด",
-      "src": "common_voice_th_26605934.mp3",
-      "start": 2.265,
-      "end": 2.436,
-      "gender": "female",
-      "score": 0.972,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2538": {
       "text": "เนื้อที่",
@@ -21007,13 +20223,9 @@
     },
     "2691": {
       "text": "เหมา",
-      "src": "common_voice_th_31884228.mp3",
-      "start": 1.614,
-      "end": 1.905,
-      "gender": "male",
-      "score": 0.892,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2695": {
       "text": "มุ่งมั่น",
@@ -21137,13 +20349,9 @@
     },
     "2746": {
       "text": "โชว์",
-      "src": "common_voice_th_27378058.mp3",
-      "start": 0.754,
-      "end": 0.985,
-      "gender": "male",
-      "score": 0.944,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2753": {
       "text": "อาย",
@@ -21227,13 +20435,9 @@
     },
     "2790": {
       "text": "เหรียญ",
-      "src": "common_voice_th_27184204.mp3",
-      "start": 2.51,
-      "end": 2.871,
-      "gender": "male",
-      "score": 0.763,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2791": {
       "text": "ท่าเรือ",
@@ -21527,13 +20731,9 @@
     },
     "2875": {
       "text": "แขวน",
-      "src": "common_voice_th_28737470.mp3",
-      "start": 0.825,
-      "end": 1.066,
-      "gender": "male",
-      "score": 0.783,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2879": {
       "text": "ชีพ",
@@ -21557,13 +20757,9 @@
     },
     "2891": {
       "text": "ซับซ้อน",
-      "src": "common_voice_th_26636513.mp3",
-      "start": 1.314,
-      "end": 2.226,
-      "gender": "female",
-      "score": 0.899,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2897": {
       "text": "วิถีชีวิต",
@@ -21627,13 +20823,9 @@
     },
     "2920": {
       "text": "ชายแดน",
-      "src": "common_voice_th_26399074.mp3",
-      "start": 1.421,
-      "end": 2.176,
-      "gender": "female",
-      "score": 0.988,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2922": {
       "text": "พรรคการเมือง",
@@ -21797,13 +20989,9 @@
     },
     "3005": {
       "text": "ลีลา",
-      "src": "common_voice_th_26409411.mp3",
-      "start": 1.528,
-      "end": 2.07,
-      "gender": "male",
-      "score": 0.881,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3006": {
       "text": "เคลื่อนที่",
@@ -21977,13 +21165,9 @@
     },
     "3071": {
       "text": "น้ำเสียง",
-      "src": "common_voice_th_25935821.mp3",
-      "start": 3.606,
-      "end": 4.137,
-      "gender": "male",
-      "score": 0.782,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3078": {
       "text": "หมวด",
@@ -21997,13 +21181,9 @@
     },
     "3087": {
       "text": "องศา",
-      "src": "common_voice_th_27702761.mp3",
-      "start": 1.564,
-      "end": 2.239,
-      "gender": "male",
-      "score": 0.994,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3088": {
       "text": "นวด",
@@ -22027,13 +21207,9 @@
     },
     "3098": {
       "text": "หวน",
-      "src": "common_voice_th_26561682.mp3",
-      "start": 1.452,
-      "end": 1.863,
-      "gender": "female",
-      "score": 0.907,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3099": {
       "text": "สติปัญญา",
@@ -22277,13 +21453,9 @@
     },
     "3205": {
       "text": "โน้น",
-      "src": "common_voice_th_27395128.mp3",
-      "start": 3.477,
-      "end": 3.827,
-      "gender": "male",
-      "score": 0.92,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3207": {
       "text": "คล่อง",
@@ -22447,13 +21619,9 @@
     },
     "3266": {
       "text": "ดัก",
-      "src": "common_voice_th_27500011.mp3",
-      "start": 1.083,
-      "end": 1.294,
-      "gender": "male",
-      "score": 0.964,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3268": {
       "text": "เคยชิน",
@@ -22867,13 +22035,9 @@
     },
     "3434": {
       "text": "แนบ",
-      "src": "common_voice_th_26701349.mp3",
-      "start": 1.413,
-      "end": 1.664,
-      "gender": "female",
-      "score": 0.818,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3439": {
       "text": "เผื่อ",
@@ -22887,13 +22051,9 @@
     },
     "3443": {
       "text": "เงินทุน",
-      "src": "common_voice_th_26066318.mp3",
-      "start": 3.407,
-      "end": 3.999,
-      "gender": "female",
-      "score": 0.853,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3449": {
       "text": "จับกุม",
@@ -22907,13 +22067,9 @@
     },
     "3450": {
       "text": "เหงา",
-      "src": "common_voice_th_26561688.mp3",
-      "start": 2.396,
-      "end": 2.786,
-      "gender": "female",
-      "score": 0.853,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3454": {
       "text": "วาน",
@@ -22997,13 +22153,9 @@
     },
     "3487": {
       "text": "ทางเข้า",
-      "src": "common_voice_th_25703483.mp3",
-      "start": 2.797,
-      "end": 3.629,
-      "gender": "female",
-      "score": 0.82,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3490": {
       "text": "กดดัน",
@@ -23237,13 +22389,9 @@
     },
     "3592": {
       "text": "ท่อง",
-      "src": "common_voice_th_26103922.mp3",
-      "start": 2.059,
-      "end": 2.38,
-      "gender": "female",
-      "score": 0.835,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3593": {
       "text": "เทอม",
@@ -23627,13 +22775,9 @@
     },
     "3752": {
       "text": "ยาน",
-      "src": "common_voice_th_27134970.mp3",
-      "start": 1.596,
-      "end": 1.927,
-      "gender": "male",
-      "score": 0.903,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3753": {
       "text": "แบบอย่าง",
@@ -23787,13 +22931,9 @@
     },
     "3803": {
       "text": "บำเพ็ญ",
-      "src": "common_voice_th_26094235.mp3",
-      "start": 1.705,
-      "end": 2.266,
-      "gender": "female",
-      "score": 0.78,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3804": {
       "text": "ชื่นชอบ",
@@ -24017,13 +23157,9 @@
     },
     "3896": {
       "text": "ฤดูกาล",
-      "src": "common_voice_th_25909194.mp3",
-      "start": 0.723,
-      "end": 1.375,
-      "gender": "female",
-      "score": 0.839,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3899": {
       "text": "ท่วม",
@@ -24037,13 +23173,9 @@
     },
     "3900": {
       "text": "แถลง",
-      "src": "common_voice_th_26082877.mp3",
-      "start": 0.673,
-      "end": 1.065,
-      "gender": "female",
-      "score": 0.789,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3903": {
       "text": "หน้าอก",
@@ -24057,13 +23189,9 @@
     },
     "3907": {
       "text": "นางสาว",
-      "src": "common_voice_th_25801182.mp3",
-      "start": 3.344,
-      "end": 4.177,
-      "gender": null,
-      "score": 0.907,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3909": {
       "text": "ซีก",
@@ -24077,23 +23205,15 @@
     },
     "3914": {
       "text": "หวัด",
-      "src": "common_voice_th_25928128.mp3",
-      "start": 2.286,
-      "end": 2.606,
-      "gender": "male",
-      "score": 0.77,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3916": {
       "text": "อันดี",
-      "src": "common_voice_th_26340969.mp3",
-      "start": 1.58,
-      "end": 2.093,
-      "gender": "female",
-      "score": 0.941,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3924": {
       "text": "พารา",
@@ -24127,23 +23247,15 @@
     },
     "3936": {
       "text": "คุณย่า",
-      "src": "common_voice_th_26571709.mp3",
-      "start": 1.162,
-      "end": 1.863,
-      "gender": null,
-      "score": 0.852,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3937": {
       "text": "นุ่มนวล",
-      "src": "common_voice_th_26915615.mp3",
-      "start": 2.023,
-      "end": 2.533,
-      "gender": "male",
-      "score": 0.969,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3943": {
       "text": "พาหนะ",
@@ -24247,13 +23359,9 @@
     },
     "3992": {
       "text": "ราตรี",
-      "src": "common_voice_th_27668182.mp3",
-      "start": 1.206,
-      "end": 1.909,
-      "gender": "male",
-      "score": 0.927,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3993": {
       "text": "รับผิด",
@@ -24277,13 +23385,9 @@
     },
     "3998": {
       "text": "หลุดพ้น",
-      "src": "common_voice_th_25898021.mp3",
-      "start": 0.792,
-      "end": 1.223,
-      "gender": "male",
-      "score": 0.755,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "3999": {
       "text": "ถกเถียง",
@@ -24327,13 +23431,9 @@
     },
     "4007": {
       "text": "กลยุทธ์",
-      "src": "common_voice_th_27422963.mp3",
-      "start": 1.139,
-      "end": 1.813,
-      "gender": null,
-      "score": 0.822,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4016": {
       "text": "คว่ำ",
@@ -24347,13 +23447,9 @@
     },
     "4019": {
       "text": "เงย",
-      "src": "common_voice_th_25680468.mp3",
-      "start": 1.393,
-      "end": 1.713,
-      "gender": null,
-      "score": 0.62,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4024": {
       "text": "การบริการ",
@@ -24427,23 +23523,15 @@
     },
     "4049": {
       "text": "โมโห",
-      "src": "common_voice_th_26702835.mp3",
-      "start": 1.288,
-      "end": 1.75,
-      "gender": "female",
-      "score": 0.936,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4057": {
       "text": "เบี้ย",
-      "src": "common_voice_th_28745750.mp3",
-      "start": 1.165,
-      "end": 1.507,
-      "gender": "female",
-      "score": 0.919,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4066": {
       "text": "โรแมนติก",
@@ -24547,13 +23635,9 @@
     },
     "4099": {
       "text": "ทยอย",
-      "src": "common_voice_th_27396568.mp3",
-      "start": 0.973,
-      "end": 1.344,
-      "gender": "male",
-      "score": 0.667,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4102": {
       "text": "คงที่",
@@ -24587,13 +23671,9 @@
     },
     "4109": {
       "text": "หลับตา",
-      "src": "common_voice_th_25988370.mp3",
-      "start": 1.104,
-      "end": 1.786,
-      "gender": "male",
-      "score": 0.828,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4112": {
       "text": "เสี้ยว",
@@ -24717,13 +23797,9 @@
     },
     "4139": {
       "text": "ชง",
-      "src": "common_voice_th_27497446.mp3",
-      "start": 3.245,
-      "end": 3.706,
-      "gender": "male",
-      "score": 0.971,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4141": {
       "text": "ตอนหลัง",
@@ -24947,13 +24023,9 @@
     },
     "4264": {
       "text": "แนะ",
-      "src": "common_voice_th_28428373.mp3",
-      "start": 0.928,
-      "end": 1.201,
-      "gender": "male",
-      "score": 0.97,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4266": {
       "text": "ลืมตา",
@@ -25107,13 +24179,9 @@
     },
     "4345": {
       "text": "เบส",
-      "src": "common_voice_th_25705888.mp3",
-      "start": 1.935,
-      "end": 2.156,
-      "gender": null,
-      "score": 0.834,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4347": {
       "text": "ระบำ",
@@ -25237,13 +24305,9 @@
     },
     "4451": {
       "text": "จิ๋ว",
-      "src": "common_voice_th_27550911.mp3",
-      "start": 3.957,
-      "end": 4.257,
-      "gender": "male",
-      "score": 0.715,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4455": {
       "text": "แอลกอฮอล์",
@@ -25277,13 +24341,9 @@
     },
     "4464": {
       "text": "ร่าเริง",
-      "src": "common_voice_th_25661857.mp3",
-      "start": 1.587,
-      "end": 2.37,
-      "gender": null,
-      "score": 0.89,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4471": {
       "text": "ลำคอ",
@@ -25297,13 +24357,9 @@
     },
     "4473": {
       "text": "นุช",
-      "src": "common_voice_th_27301731.mp3",
-      "start": 1.956,
-      "end": 2.247,
-      "gender": "male",
-      "score": 0.8,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4477": {
       "text": "เสนอแนะ",
@@ -25377,13 +24433,9 @@
     },
     "4522": {
       "text": "ภัทร",
-      "src": "common_voice_th_26291747.mp3",
-      "start": 1.831,
-      "end": 2.293,
-      "gender": "female",
-      "score": 0.675,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4524": {
       "text": "ถ่านหิน",
@@ -25417,13 +24469,9 @@
     },
     "4534": {
       "text": "อีกหน่อย",
-      "src": "common_voice_th_28125945.mp3",
-      "start": 2.125,
-      "end": 2.886,
-      "gender": "female",
-      "score": 0.845,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4541": {
       "text": "อุปการะ",
@@ -25447,13 +24495,9 @@
     },
     "4544": {
       "text": "ขับเคลื่อน",
-      "src": "common_voice_th_26409293.mp3",
-      "start": 1.71,
-      "end": 2.333,
-      "gender": "male",
-      "score": 0.832,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4552": {
       "text": "ทางหลวง",
@@ -25487,13 +24531,9 @@
     },
     "4567": {
       "text": "กระเด็น",
-      "src": "common_voice_th_26167352.mp3",
-      "start": 2.08,
-      "end": 2.642,
-      "gender": "male",
-      "score": 0.968,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4572": {
       "text": "คุณตา",
@@ -25517,13 +24557,9 @@
     },
     "4577": {
       "text": "อ่อนหวาน",
-      "src": "common_voice_th_25670724.mp3",
-      "start": 0.923,
-      "end": 1.705,
-      "gender": null,
-      "score": 0.882,
-      "license": "CC0",
-      "by": null
+      "src": "qwen3-tts:Vivian",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "4596": {
       "text": "ทันใด",

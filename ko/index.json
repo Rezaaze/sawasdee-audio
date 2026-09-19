@@ -77,13 +77,9 @@
     },
     "6": {
       "text": "과정",
-      "src": "zeroth:137_003_2042.wav",
-      "start": 4.119,
-      "end": 4.47,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.924
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "7": {
       "text": "술집",
@@ -207,13 +203,9 @@
     },
     "28": {
       "text": "카메라",
-      "src": "zeroth:118_003_2190.wav",
-      "start": 1.032,
-      "end": 1.443,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.917
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "29": {
       "text": "컵",
@@ -227,13 +219,9 @@
     },
     "30": {
       "text": "활동",
-      "src": "zeroth:104_003_0280.wav",
-      "start": 6.698,
-      "end": 7.139,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.905
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "31": {
       "text": "해변",
@@ -377,13 +365,9 @@
     },
     "52": {
       "text": "경력",
-      "src": "zeroth:192_003_1712.wav",
-      "start": 1.502,
-      "end": 1.863,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.924
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "54": {
       "text": "조언",
@@ -397,13 +381,9 @@
     },
     "55": {
       "text": "맥주",
-      "src": "zeroth:214_003_1073.wav",
-      "start": 7.724,
-      "end": 8.084,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.899
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "60": {
       "text": "들다",
@@ -497,33 +477,21 @@
     },
     "73": {
       "text": "날",
-      "src": "zeroth:137_003_0591.wav",
-      "start": 0.311,
-      "end": 0.491,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.919
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "74": {
       "text": "나이",
-      "src": "zeroth:201_003_2362.wav",
-      "start": 4.746,
-      "end": 5.047,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "76": {
       "text": "중심",
-      "src": "zeroth:187_003_1073.wav",
-      "start": 4.882,
-      "end": 5.252,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.932
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "80": {
       "text": "의자",
@@ -557,23 +525,15 @@
     },
     "86": {
       "text": "공기",
-      "src": "zeroth:214_003_0196.wav",
-      "start": 4.434,
-      "end": 4.775,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.924
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "90": {
       "text": "공항",
-      "src": "zeroth:191_003_1099.wav",
-      "start": 3.442,
-      "end": 3.932,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.91
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "94": {
       "text": "모든",
@@ -587,23 +547,15 @@
     },
     "95": {
       "text": "자전거",
-      "src": "zeroth:214_003_1287.wav",
-      "start": 4.289,
-      "end": 4.86,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.925
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "97": {
       "text": "설명",
-      "src": "zeroth:118_003_0321.wav",
-      "start": 1.113,
-      "end": 1.464,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.93
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "98": {
       "text": "또한",
@@ -637,13 +589,9 @@
     },
     "102": {
       "text": "항상",
-      "src": "zeroth:201_003_0418.wav",
-      "start": 4.495,
-      "end": 5.027,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.928
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "105": {
       "text": "책상",
@@ -677,13 +625,9 @@
     },
     "111": {
       "text": "새",
-      "src": "zeroth:149_003_1682.wav",
-      "start": 2.844,
-      "end": 3.025,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.817
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "112": {
       "text": "초콜릿",
@@ -777,13 +721,9 @@
     },
     "127": {
       "text": "교실",
-      "src": "zeroth:192_003_1787.wav",
-      "start": 1.892,
-      "end": 2.183,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.901
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "128": {
       "text": "차이",
@@ -856,14 +796,10 @@
       "score": 0.858
     },
     "140": {
-      "text": "저녁식사",
-      "src": "zeroth:205_003_2633.wav",
-      "start": 6.03,
-      "end": 6.831,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.927
+      "text": "저녁 식사",
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "141": {
       "text": "아파트",
@@ -887,13 +823,9 @@
     },
     "145": {
       "text": "사과",
-      "src": "zeroth:201_003_2245.wav",
-      "start": 2.856,
-      "end": 3.277,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.926
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "146": {
       "text": "부츠",
@@ -907,13 +839,9 @@
     },
     "147": {
       "text": "옷",
-      "src": "zeroth:104_003_1257.wav",
-      "start": 4.726,
-      "end": 4.936,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "149": {
       "text": "4월",
@@ -937,13 +865,9 @@
     },
     "152": {
       "text": "접시",
-      "src": "fleurs:12210668677626112210.wav",
-      "start": 1.422,
-      "end": 1.962,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.884
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "153": {
       "text": "지역",
@@ -987,13 +911,9 @@
     },
     "160": {
       "text": "의사",
-      "src": "zeroth:191_003_1399.wav",
-      "start": 2.625,
-      "end": 2.896,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.902
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "163": {
       "text": "개",
@@ -1037,13 +957,9 @@
     },
     "168": {
       "text": "예술",
-      "src": "zeroth:207_003_2132.wav",
-      "start": 1.291,
-      "end": 1.652,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "169": {
       "text": "상자",
@@ -1207,13 +1123,9 @@
     },
     "199": {
       "text": "운전사",
-      "src": "fleurs:5878042350915390987.wav",
-      "start": 8.035,
-      "end": 8.506,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "male",
-      "score": 0.853
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "201": {
       "text": "갈색",
@@ -1237,13 +1149,9 @@
     },
     "208": {
       "text": "아기",
-      "src": "zeroth:201_003_0225.wav",
-      "start": 2.002,
-      "end": 2.312,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "209": {
       "text": "건물",
@@ -1257,13 +1165,9 @@
     },
     "210": {
       "text": "요리",
-      "src": "zeroth:187_003_1244.wav",
-      "start": 3.453,
-      "end": 3.804,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.926
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "211": {
       "text": "등",
@@ -1307,13 +1211,9 @@
     },
     "218": {
       "text": "일찍",
-      "src": "zeroth:107_003_2085.wav",
-      "start": 2.644,
-      "end": 3.115,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.866
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "219": {
       "text": "가방",
@@ -1327,13 +1227,9 @@
     },
     "221": {
       "text": "비용",
-      "src": "zeroth:187_003_2390.wav",
-      "start": 1.652,
-      "end": 1.883,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.917
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "222": {
       "text": "동쪽",
@@ -1367,13 +1263,9 @@
     },
     "227": {
       "text": "바나나",
-      "src": "zeroth:201_003_0540.wav",
-      "start": 1.543,
-      "end": 2.055,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "228": {
       "text": "먹다",
@@ -1397,13 +1289,9 @@
     },
     "233": {
       "text": "형태",
-      "src": "zeroth:201_003_0979.wav",
-      "start": 8.328,
-      "end": 8.728,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.886
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "234": {
       "text": "호텔",
@@ -1527,13 +1415,9 @@
     },
     "255": {
       "text": "사랑",
-      "src": "zeroth:147_003_2561.wav",
-      "start": 2.593,
-      "end": 2.934,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.93
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "257": {
       "text": "금요일",
@@ -1557,13 +1441,9 @@
     },
     "260": {
       "text": "이메일",
-      "src": "fleurs:8130681443316205915.wav",
-      "start": 6.49,
-      "end": 6.881,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "male",
-      "score": 0.874
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "261": {
       "text": "친구",
@@ -1647,13 +1527,9 @@
     },
     "274": {
       "text": "아이스크림",
-      "src": "zeroth:127_003_0355.wav",
-      "start": 7.038,
-      "end": 7.569,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.843
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "275": {
       "text": "만들다",
@@ -1687,23 +1563,15 @@
     },
     "278": {
       "text": "생각",
-      "src": "zeroth:105_003_1861.wav",
-      "start": 8.095,
-      "end": 8.466,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.927
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "279": {
       "text": "쇼핑몰",
-      "src": "zeroth:190_003_0063.wav",
-      "start": 1.652,
-      "end": 2.122,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.832
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "280": {
       "text": "심지어",
@@ -1727,13 +1595,9 @@
     },
     "283": {
       "text": "남자",
-      "src": "zeroth:201_003_2149.wav",
-      "start": 2.284,
-      "end": 2.774,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "284": {
       "text": "저녁",
@@ -1767,13 +1631,9 @@
     },
     "290": {
       "text": "지도",
-      "src": "zeroth:147_003_2107.wav",
-      "start": 9.438,
-      "end": 9.728,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "292": {
       "text": "미래",
@@ -1857,13 +1717,9 @@
     },
     "309": {
       "text": "관심",
-      "src": "zeroth:201_003_0070.wav",
-      "start": 6.336,
-      "end": 6.868,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "310": {
       "text": "5월",
@@ -1917,13 +1773,9 @@
     },
     "316": {
       "text": "여자친구",
-      "src": "zeroth:201_003_2600.wav",
-      "start": 11.853,
-      "end": 12.553,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.916
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "320": {
       "text": "주다",
@@ -1947,13 +1799,9 @@
     },
     "322": {
       "text": "식사",
-      "src": "zeroth:190_003_2255.wav",
-      "start": 2.312,
-      "end": 2.642,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.93
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "324": {
       "text": "유리",
@@ -1977,13 +1825,9 @@
     },
     "327": {
       "text": "운동",
-      "src": "zeroth:201_003_2385.wav",
-      "start": 2.779,
-      "end": 3.191,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.866
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "328": {
       "text": "가다",
@@ -2017,13 +1861,9 @@
     },
     "336": {
       "text": "섬",
-      "src": "zeroth:201_003_2158.wav",
-      "start": 4.396,
-      "end": 4.657,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.927
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "337": {
       "text": "만나다",
@@ -2037,33 +1877,21 @@
     },
     "339": {
       "text": "할아버지",
-      "src": "zeroth:168_003_2307.wav",
-      "start": 3.714,
-      "end": 4.235,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.873
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "340": {
       "text": "그것",
-      "src": "zeroth:191_003_1480.wav",
-      "start": 5.67,
-      "end": 6.08,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.917
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "341": {
       "text": "회의",
-      "src": "zeroth:147_003_2970.wav",
-      "start": 2.381,
-      "end": 2.731,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.815
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "342": {
       "text": "눈",
@@ -2087,13 +1915,9 @@
     },
     "345": {
       "text": "회원",
-      "src": "zeroth:201_003_0552.wav",
-      "start": 1.651,
-      "end": 2.081,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.889
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "346": {
       "text": "얼굴",
@@ -2107,23 +1931,15 @@
     },
     "348": {
       "text": "재킷",
-      "src": "zeroth:104_003_1257.wav",
-      "start": 3.665,
-      "end": 4.005,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.822
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "349": {
       "text": "메뉴",
-      "src": "zeroth:191_003_2834.wav",
-      "start": 8.22,
-      "end": 8.5,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.899
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "350": {
       "text": "사실",
@@ -2167,13 +1983,9 @@
     },
     "357": {
       "text": "미터",
-      "src": "zeroth:201_003_0224.wav",
-      "start": 10.632,
-      "end": 10.953,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.899
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "360": {
       "text": "직업",
@@ -2187,13 +1999,9 @@
     },
     "361": {
       "text": "자정",
-      "src": "zeroth:146_003_0531.wav",
-      "start": 1.271,
-      "end": 1.731,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.923
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "362": {
       "text": "가족",
@@ -2217,13 +2025,9 @@
     },
     "365": {
       "text": "마일",
-      "src": "fleurs:14181202250842277178.wav",
-      "start": 5.493,
-      "end": 5.923,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "368": {
       "text": "주스",
@@ -2297,13 +2101,9 @@
     },
     "377": {
       "text": "분",
-      "src": "zeroth:147_003_2342.wav",
-      "start": 2.543,
-      "end": 2.743,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.932
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "379": {
       "text": "체육관",
@@ -2327,33 +2127,21 @@
     },
     "382": {
       "text": "농부",
-      "src": "fleurs:14567272394091753631.wav",
-      "start": 2.876,
-      "end": 3.236,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.93
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "383": {
       "text": "머리카락",
-      "src": "zeroth:188_003_2977.wav",
-      "start": 1.152,
-      "end": 1.794,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.923
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "385": {
       "text": "실수",
-      "src": "zeroth:201_003_0555.wav",
-      "start": 1.601,
-      "end": 1.992,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "387": {
       "text": "열쇠",
@@ -2367,13 +2155,9 @@
     },
     "388": {
       "text": "모델",
-      "src": "zeroth:191_003_0234.wav",
-      "start": 2.683,
-      "end": 2.973,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.857
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "390": {
       "text": "손",
@@ -2417,13 +2201,9 @@
     },
     "396": {
       "text": "엄마",
-      "src": "zeroth:187_003_0375.wav",
-      "start": 1.785,
-      "end": 2.146,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.831
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "399": {
       "text": "알다",
@@ -2497,23 +2277,15 @@
     },
     "407": {
       "text": "언어",
-      "src": "zeroth:201_003_0985.wav",
-      "start": 5.7,
-      "end": 6.031,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.926
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "408": {
       "text": "돈",
-      "src": "zeroth:132_003_2464.wav",
-      "start": 1.582,
-      "end": 1.793,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "409": {
       "text": "감정",
@@ -2537,13 +2309,9 @@
     },
     "413": {
       "text": "축제",
-      "src": "zeroth:201_003_1498.wav",
-      "start": 3.425,
-      "end": 3.805,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.932
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "414": {
       "text": "가지다",
@@ -2747,13 +2515,9 @@
     },
     "454": {
       "text": "편지",
-      "src": "zeroth:201_003_0943.wav",
-      "start": 1.061,
-      "end": 1.461,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.926
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "455": {
       "text": "박물관",
@@ -2767,13 +2531,9 @@
     },
     "458": {
       "text": "도서관",
-      "src": "zeroth:125_003_1479.wav",
-      "start": 3.234,
-      "end": 3.724,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.918
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "459": {
       "text": "음악",
@@ -2787,13 +2547,9 @@
     },
     "460": {
       "text": "물고기",
-      "src": "zeroth:190_003_1965.wav",
-      "start": 1.96,
-      "end": 2.472,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "464": {
       "text": "다섯",
@@ -2837,13 +2593,9 @@
     },
     "471": {
       "text": "바닥",
-      "src": "zeroth:188_003_1963.wav",
-      "start": 6.836,
-      "end": 7.187,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "474": {
       "text": "꽃",
@@ -2997,13 +2749,9 @@
     },
     "499": {
       "text": "병원",
-      "src": "zeroth:187_003_0071.wav",
-      "start": 5.227,
-      "end": 5.537,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.868
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "501": {
       "text": "뉴스",
@@ -3047,13 +2795,9 @@
     },
     "505": {
       "text": "신문",
-      "src": "zeroth:187_003_1543.wav",
-      "start": 4.35,
-      "end": 4.681,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.842
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "506": {
       "text": "사람",
@@ -3187,13 +2931,9 @@
     },
     "528": {
       "text": "스포츠",
-      "src": "zeroth:150_003_2243.wav",
-      "start": 2.491,
-      "end": 2.952,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.849
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "530": {
       "text": "피아노",
@@ -3207,13 +2947,9 @@
     },
     "532": {
       "text": "봄",
-      "src": "zeroth:144_003_0139.wav",
-      "start": 1.392,
-      "end": 1.602,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "533": {
       "text": "아흔",
@@ -3227,13 +2963,9 @@
     },
     "535": {
       "text": "소금",
-      "src": "fleurs:15710821380417009017.wav",
-      "start": 5.539,
-      "end": 6.009,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.932
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "536": {
       "text": "서다",
@@ -3247,13 +2979,9 @@
     },
     "538": {
       "text": "조각",
-      "src": "fleurs:2721890213344394539.wav",
-      "start": 7.468,
-      "end": 7.888,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "540": {
       "text": "별",
@@ -3277,13 +3005,9 @@
     },
     "542": {
       "text": "돼지",
-      "src": "zeroth:192_003_1088.wav",
-      "start": 4.566,
-      "end": 4.866,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.7
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "547": {
       "text": "토요일",
@@ -3317,13 +3041,9 @@
     },
     "550": {
       "text": "장소",
-      "src": "zeroth:201_003_2460.wav",
-      "start": 4.207,
-      "end": 4.578,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.93
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "552": {
       "text": "역",
@@ -3367,13 +3087,9 @@
     },
     "557": {
       "text": "아니다",
-      "src": "zeroth:112_003_2940.wav",
-      "start": 8.083,
-      "end": 8.514,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.962
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "558": {
       "text": "비행기",
@@ -3447,13 +3163,9 @@
     },
     "567": {
       "text": "가게",
-      "src": "zeroth:201_003_1057.wav",
-      "start": 2.496,
-      "end": 2.887,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.934
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "568": {
       "text": "11월",
@@ -3507,33 +3219,21 @@
     },
     "574": {
       "text": "거리",
-      "src": "zeroth:187_003_0821.wav",
-      "start": 2.585,
-      "end": 2.865,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "575": {
       "text": "숫자",
-      "src": "fleurs:8432506213804023371.wav",
-      "start": 5.03,
-      "end": 5.341,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.838
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "576": {
       "text": "점",
-      "src": "zeroth:104_003_2982.wav",
-      "start": 5.181,
-      "end": 5.352,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "577": {
       "text": "부분",
@@ -3577,23 +3277,15 @@
     },
     "583": {
       "text": "물건",
-      "src": "zeroth:192_003_0871.wav",
-      "start": 1.485,
-      "end": 1.806,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.932
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "584": {
       "text": "경찰관",
-      "src": "zeroth:192_003_1189.wav",
-      "start": 3.916,
-      "end": 4.427,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.917
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "587": {
       "text": "바다",
@@ -3617,13 +3309,9 @@
     },
     "590": {
       "text": "스타일",
-      "src": "zeroth:190_003_2640.wav",
-      "start": 5.066,
-      "end": 5.446,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.892
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "591": {
       "text": "시",
@@ -3737,13 +3425,9 @@
     },
     "608": {
       "text": "우편",
-      "src": "zeroth:214_003_0118.wav",
-      "start": 4.254,
-      "end": 4.724,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.88
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "609": {
       "text": "일흔",
@@ -3767,13 +3451,9 @@
     },
     "611": {
       "text": "자주",
-      "src": "zeroth:147_003_2095.wav",
-      "start": 3.192,
-      "end": 3.603,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "612": {
       "text": "감자",
@@ -3867,13 +3547,9 @@
     },
     "631": {
       "text": "선물",
-      "src": "zeroth:201_003_2254.wav",
-      "start": 2.496,
-      "end": 2.927,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.899
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "633": {
       "text": "수영",
@@ -3897,23 +3573,15 @@
     },
     "636": {
       "text": "쇼핑",
-      "src": "zeroth:191_003_1696.wav",
-      "start": 6.274,
-      "end": 6.695,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.903
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "637": {
       "text": "테이블",
-      "src": "zeroth:205_003_2633.wav",
-      "start": 5.248,
-      "end": 5.719,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.897
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "639": {
       "text": "가격",
@@ -4017,13 +3685,9 @@
     },
     "658": {
       "text": "반대",
-      "src": "zeroth:147_003_2712.wav",
-      "start": 5.223,
-      "end": 5.574,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.897
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "659": {
       "text": "프로젝트",
@@ -4087,23 +3751,15 @@
     },
     "669": {
       "text": "팀",
-      "src": "zeroth:187_003_2106.wav",
-      "start": 1.022,
-      "end": 1.212,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.909
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "670": {
       "text": "주문",
-      "src": "zeroth:104_003_2120.wav",
-      "start": 10.853,
-      "end": 11.183,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "673": {
       "text": "십대",
@@ -4147,13 +3803,9 @@
     },
     "681": {
       "text": "빨리",
-      "src": "zeroth:201_003_0359.wav",
-      "start": 7.431,
-      "end": 7.872,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "682": {
       "text": "여섯",
@@ -4297,13 +3949,9 @@
     },
     "703": {
       "text": "그림",
-      "src": "zeroth:216_003_2124.wav",
-      "start": 4.879,
-      "end": 5.31,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.949
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "704": {
       "text": "독자",
@@ -4347,13 +3995,9 @@
     },
     "716": {
       "text": "진짜",
-      "src": "zeroth:201_003_0739.wav",
-      "start": 2.743,
-      "end": 3.184,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.872
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "717": {
       "text": "뱀",
@@ -4477,13 +4121,9 @@
     },
     "743": {
       "text": "보고서",
-      "src": "zeroth:191_003_1973.wav",
-      "start": 1.735,
-      "end": 2.146,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.914
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "744": {
       "text": "때때로",
@@ -4507,13 +4147,9 @@
     },
     "747": {
       "text": "레스토랑",
-      "src": "fleurs:2652095543137591743.wav",
-      "start": 4.548,
-      "end": 5.129,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "male",
-      "score": 0.88
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "748": {
       "text": "아들",
@@ -4587,13 +4223,9 @@
     },
     "756": {
       "text": "곧",
-      "src": "zeroth:191_003_1875.wav",
-      "start": 1.684,
-      "end": 2.015,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.87
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "758": {
       "text": "연필",
@@ -4737,13 +4369,9 @@
     },
     "782": {
       "text": "상사",
-      "src": "fleurs:18376548138617611823.wav",
-      "start": 5.458,
-      "end": 5.859,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.916
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "783": {
       "text": "목요일",
@@ -4827,13 +4455,9 @@
     },
     "798": {
       "text": "제목",
-      "src": "zeroth:201_003_0375.wav",
-      "start": 1.603,
-      "end": 1.993,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.894
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "799": {
       "text": "언제",
@@ -4867,33 +4491,21 @@
     },
     "808": {
       "text": "함께",
-      "src": "zeroth:105_003_1057.wav",
-      "start": 1.351,
-      "end": 1.791,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.934
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "809": {
       "text": "흰색",
-      "src": "zeroth:125_003_2294.wav",
-      "start": 3.148,
-      "end": 3.548,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.89
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "810": {
       "text": "발목",
-      "src": "zeroth:195_003_1506.wav",
-      "start": 4.343,
-      "end": 4.743,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "811": {
       "text": "솔",
@@ -4937,13 +4549,9 @@
     },
     "819": {
       "text": "내일",
-      "src": "zeroth:201_003_2560.wav",
-      "start": 3.989,
-      "end": 4.31,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.897
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "820": {
       "text": "아내",
@@ -5047,13 +4655,9 @@
     },
     "836": {
       "text": "와인",
-      "src": "zeroth:188_003_0673.wav",
-      "start": 2.542,
-      "end": 2.833,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "837": {
       "text": "나타나다",
@@ -5167,13 +4771,9 @@
     },
     "855": {
       "text": "여행",
-      "src": "zeroth:147_003_0097.wav",
-      "start": 3.683,
-      "end": 3.993,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.917
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "858": {
       "text": "카펫",
@@ -5187,13 +4787,9 @@
     },
     "859": {
       "text": "나무",
-      "src": "zeroth:187_003_0615.wav",
-      "start": 3.065,
-      "end": 3.396,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "860": {
       "text": "단어",
@@ -5207,13 +4803,9 @@
     },
     "861": {
       "text": "논쟁",
-      "src": "zeroth:208_003_2920.wav",
-      "start": 2.534,
-      "end": 2.954,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.893
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "862": {
       "text": "만화",
@@ -5307,13 +4899,9 @@
     },
     "877": {
       "text": "원인",
-      "src": "zeroth:191_003_1578.wav",
-      "start": 5.599,
-      "end": 5.98,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "878": {
       "text": "티셔츠",
@@ -5357,13 +4945,9 @@
     },
     "884": {
       "text": "조수",
-      "src": "zeroth:207_003_0224.wav",
-      "start": 2.061,
-      "end": 2.442,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "887": {
       "text": "글쓰기",
@@ -5407,13 +4991,9 @@
     },
     "893": {
       "text": "세기",
-      "src": "zeroth:204_003_2409.wav",
-      "start": 1.314,
-      "end": 1.645,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.925
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "895": {
       "text": "마당",
@@ -5447,13 +5027,9 @@
     },
     "900": {
       "text": "주의",
-      "src": "zeroth:187_003_0138.wav",
-      "start": 6.414,
-      "end": 6.674,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.822
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "901": {
       "text": "확실히",
@@ -5517,13 +5093,9 @@
     },
     "909": {
       "text": "성격",
-      "src": "zeroth:190_003_2417.wav",
-      "start": 4.284,
-      "end": 4.615,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.91
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "910": {
       "text": "유형",
@@ -5547,13 +5119,9 @@
     },
     "913": {
       "text": "자선",
-      "src": "fleurs:6876701340351257438.wav",
-      "start": 3.453,
-      "end": 3.804,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.929
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "915": {
       "text": "어제",
@@ -5567,13 +5135,9 @@
     },
     "917": {
       "text": "채팅",
-      "src": "zeroth:152_003_2094.wav",
-      "start": 1.161,
-      "end": 1.621,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.884
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "919": {
       "text": "너",
@@ -5607,13 +5171,9 @@
     },
     "927": {
       "text": "상",
-      "src": "zeroth:118_003_0311.wav",
-      "start": 1.844,
-      "end": 2.044,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.928
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "928": {
       "text": "화학",
@@ -5627,13 +5187,9 @@
     },
     "929": {
       "text": "대학교",
-      "src": "zeroth:137_003_1611.wav",
-      "start": 1.671,
-      "end": 2.142,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.914
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "932": {
       "text": "칩",
@@ -5657,13 +5213,9 @@
     },
     "934": {
       "text": "위로",
-      "src": "zeroth:201_003_0912.wav",
-      "start": 4.572,
-      "end": 4.843,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "935": {
       "text": "배경",
@@ -5707,23 +5259,15 @@
     },
     "942": {
       "text": "원",
-      "src": "zeroth:119_003_0620.wav",
-      "start": 5.457,
-      "end": 5.738,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.761
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "943": {
       "text": "능력",
-      "src": "zeroth:121_003_1525.wav",
-      "start": 6.162,
-      "end": 6.483,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.891
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "944": {
       "text": "사용하다",
@@ -5787,23 +5331,15 @@
     },
     "957": {
       "text": "소고기",
-      "src": "zeroth:192_003_0745.wav",
-      "start": 2.956,
-      "end": 3.417,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "960": {
       "text": "채소",
-      "src": "fleurs:14251798198905126118.wav",
-      "start": 5.171,
-      "end": 5.512,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.803
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "961": {
       "text": "기후",
@@ -5857,13 +5393,9 @@
     },
     "976": {
       "text": "벨트",
-      "src": "zeroth:214_003_0325.wav",
-      "start": 4.249,
-      "end": 4.72,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.909
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "977": {
       "text": "의류",
@@ -5887,33 +5419,21 @@
     },
     "979": {
       "text": "혜택",
-      "src": "zeroth:121_003_2863.wav",
-      "start": 5.357,
-      "end": 5.648,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.838
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "980": {
       "text": "구름",
-      "src": "zeroth:187_003_1077.wav",
-      "start": 2.104,
-      "end": 2.375,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "982": {
       "text": "이점",
-      "src": "zeroth:154_003_0636.wav",
-      "start": 2.172,
-      "end": 2.532,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.917
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "984": {
       "text": "모험",
@@ -5957,13 +5477,9 @@
     },
     "990": {
       "text": "광고",
-      "src": "zeroth:188_003_0729.wav",
-      "start": 8.128,
-      "end": 8.468,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.911
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "991": {
       "text": "벽",
@@ -5987,13 +5503,9 @@
     },
     "996": {
       "text": "생물학",
-      "src": "fleurs:13141145352278869496.wav",
-      "start": 2.293,
-      "end": 2.773,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.844
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1000": {
       "text": "탄생",
@@ -6007,13 +5519,9 @@
     },
     "1001": {
       "text": "기둥",
-      "src": "fleurs:5629436192268742048.wav",
-      "start": 2.296,
-      "end": 2.637,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.929
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1003": {
       "text": "조금",
@@ -6037,13 +5545,9 @@
     },
     "1010": {
       "text": "물",
-      "src": "zeroth:191_003_0581.wav",
-      "start": 5.426,
-      "end": 5.656,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.926
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1011": {
       "text": "블록",
@@ -6067,13 +5571,9 @@
     },
     "1014": {
       "text": "항공사",
-      "src": "zeroth:188_003_1030.wav",
-      "start": 2.823,
-      "end": 3.323,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.925
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1015": {
       "text": "피",
@@ -6107,13 +5607,9 @@
     },
     "1024": {
       "text": "날씨",
-      "src": "zeroth:190_003_0324.wav",
-      "start": 6.232,
-      "end": 6.573,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.804
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1026": {
       "text": "경쟁",
@@ -6167,13 +5663,9 @@
     },
     "1035": {
       "text": "조건",
-      "src": "zeroth:132_003_1587.wav",
-      "start": 3.632,
-      "end": 3.973,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.907
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1036": {
       "text": "드라마",
@@ -6217,33 +5709,21 @@
     },
     "1045": {
       "text": "구멍",
-      "src": "zeroth:188_003_2493.wav",
-      "start": 5.235,
-      "end": 5.565,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.925
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1047": {
       "text": "휴일",
-      "src": "zeroth:201_003_0273.wav",
-      "start": 4.17,
-      "end": 4.622,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.877
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1049": {
       "text": "운전",
-      "src": "zeroth:191_003_2916.wav",
-      "start": 4.757,
-      "end": 5.037,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1054": {
       "text": "약물",
@@ -6337,13 +5817,9 @@
     },
     "1076": {
       "text": "효과",
-      "src": "zeroth:121_003_2904.wav",
-      "start": 5.495,
-      "end": 5.796,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.868
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1077": {
       "text": "질병",
@@ -6387,33 +5863,21 @@
     },
     "1091": {
       "text": "전기",
-      "src": "zeroth:214_003_0437.wav",
-      "start": 1.201,
-      "end": 1.591,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.918
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1096": {
       "text": "숲",
-      "src": "zeroth:114_003_1487.wav",
-      "start": 1.883,
-      "end": 2.103,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1099": {
       "text": "엘리베이터",
-      "src": "zeroth:214_003_2329.wav",
-      "start": 5.868,
-      "end": 6.709,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.885
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1100": {
       "text": "포크",
@@ -6427,13 +5891,9 @@
     },
     "1106": {
       "text": "신용",
-      "src": "zeroth:192_003_1501.wav",
-      "start": 0.981,
-      "end": 1.302,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.921
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1107": {
       "text": "직원",
@@ -6507,13 +5967,9 @@
     },
     "1121": {
       "text": "군중",
-      "src": "zeroth:187_003_1498.wav",
-      "start": 3.703,
-      "end": 4.063,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1122": {
       "text": "에너지",
@@ -6537,23 +5993,15 @@
     },
     "1126": {
       "text": "엔진",
-      "src": "zeroth:190_003_0464.wav",
-      "start": 7.729,
-      "end": 7.999,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.934
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1127": {
       "text": "곤충",
-      "src": "zeroth:207_003_1907.wav",
-      "start": 3.315,
-      "end": 3.775,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1129": {
       "text": "기술자",
@@ -6577,13 +6025,9 @@
     },
     "1131": {
       "text": "안쪽",
-      "src": "fleurs:13594180165282317509.wav",
-      "start": 5.892,
-      "end": 6.222,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.909
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1134": {
       "text": "더욱",
@@ -6657,13 +6101,9 @@
     },
     "1144": {
       "text": "장비",
-      "src": "zeroth:135_003_0302.wav",
-      "start": 1.274,
-      "end": 1.665,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1145": {
       "text": "간격",
@@ -6717,13 +6157,9 @@
     },
     "1157": {
       "text": "소개",
-      "src": "zeroth:201_003_1522.wav",
-      "start": 13.762,
-      "end": 14.073,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.88
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1162": {
       "text": "죽음",
@@ -6737,13 +6173,9 @@
     },
     "1166": {
       "text": "결정",
-      "src": "zeroth:132_003_0737.wav",
-      "start": 2.953,
-      "end": 3.323,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.922
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1167": {
       "text": "증거",
@@ -6827,13 +6259,9 @@
     },
     "1185": {
       "text": "부서",
-      "src": "zeroth:187_003_0047.wav",
-      "start": 9.609,
-      "end": 9.889,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1187": {
       "text": "정부",
@@ -6907,23 +6335,15 @@
     },
     "1199": {
       "text": "식료품",
-      "src": "zeroth:114_003_1839.wav",
-      "start": 2.273,
-      "end": 3.164,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.844
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1200": {
       "text": "농담",
-      "src": "fleurs:369328234568048938.wav",
-      "start": 8.704,
-      "end": 9.104,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.912
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1202": {
       "text": "전문가",
@@ -6997,23 +6417,15 @@
     },
     "1217": {
       "text": "장치",
-      "src": "zeroth:201_003_1172.wav",
-      "start": 1.113,
-      "end": 1.544,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.922
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1220": {
       "text": "킬로미터",
-      "src": "zeroth:104_003_0604.wav",
-      "start": 6.404,
-      "end": 6.985,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.845
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1221": {
       "text": "일기",
@@ -7037,23 +6449,15 @@
     },
     "1224": {
       "text": "왕",
-      "src": "zeroth:121_003_2362.wav",
-      "start": 6.049,
-      "end": 6.259,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1226": {
       "text": "요인",
-      "src": "zeroth:201_003_2419.wav",
-      "start": 4.562,
-      "end": 4.913,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1227": {
       "text": "절반",
@@ -7087,13 +6491,9 @@
     },
     "1230": {
       "text": "공장",
-      "src": "zeroth:187_003_0646.wav",
-      "start": 4.008,
-      "end": 4.369,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1231": {
       "text": "홀",
@@ -7127,33 +6527,21 @@
     },
     "1240": {
       "text": "지식",
-      "src": "zeroth:214_003_0628.wav",
-      "start": 4.479,
-      "end": 4.86,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1241": {
       "text": "감독",
-      "src": "zeroth:187_003_1456.wav",
-      "start": 4.073,
-      "end": 4.504,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.934
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1242": {
       "text": "팬",
-      "src": "zeroth:151_003_1160.wav",
-      "start": 8.948,
-      "end": 9.149,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.896
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1246": {
       "text": "심장",
@@ -7177,23 +6565,15 @@
     },
     "1251": {
       "text": "호수",
-      "src": "zeroth:201_003_1481.wav",
-      "start": 4.454,
-      "end": 4.835,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1252": {
       "text": "재난",
-      "src": "zeroth:192_003_1406.wav",
-      "start": 2.638,
-      "end": 2.919,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.901
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1253": {
       "text": "패션",
@@ -7227,13 +6607,9 @@
     },
     "1258": {
       "text": "발견",
-      "src": "zeroth:126_003_0295.wav",
-      "start": 9.015,
-      "end": 9.416,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.923
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1259": {
       "text": "두려움",
@@ -7247,13 +6623,9 @@
     },
     "1261": {
       "text": "노트북",
-      "src": "fleurs:11713284404236235041.wav",
-      "start": 3.73,
-      "end": 4.241,
-      "license": "CC-BY-4.0",
-      "by": "FLEURS (Google Research)",
-      "gender": "female",
-      "score": 0.869
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1262": {
       "text": "토론",
@@ -7297,13 +6669,9 @@
     },
     "1276": {
       "text": "웃음",
-      "src": "zeroth:192_003_2016.wav",
-      "start": 0.965,
-      "end": 1.227,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.907
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1277": {
       "text": "문서",
@@ -7367,13 +6735,9 @@
     },
     "1290": {
       "text": "지도자",
-      "src": "zeroth:187_003_0566.wav",
-      "start": 2.417,
-      "end": 2.819,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1292": {
       "text": "대통령",
@@ -7397,33 +6761,21 @@
     },
     "1297": {
       "text": "역할",
-      "src": "zeroth:121_003_2336.wav",
-      "start": 3.225,
-      "end": 3.585,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.888
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1301": {
       "text": "지붕",
-      "src": "zeroth:192_003_0609.wav",
-      "start": 4.062,
-      "end": 4.453,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.934
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1302": {
       "text": "강의",
-      "src": "zeroth:208_003_1712.wav",
-      "start": 6.43,
-      "end": 6.69,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.836
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1304": {
       "text": "프린터",
@@ -7447,23 +6799,15 @@
     },
     "1309": {
       "text": "경로",
-      "src": "zeroth:136_003_0993.wav",
-      "start": 4.72,
-      "end": 5.101,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.883
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1317": {
       "text": "수준",
-      "src": "zeroth:132_003_0014.wav",
-      "start": 4.651,
-      "end": 4.932,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.912
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1321": {
       "text": "견과",
@@ -7497,13 +6841,9 @@
     },
     "1328": {
       "text": "빛",
-      "src": "zeroth:207_003_0950.wav",
-      "start": 2.952,
-      "end": 3.182,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.932
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1330": {
       "text": "프로필",
@@ -7587,13 +6927,9 @@
     },
     "1353": {
       "text": "조직",
-      "src": "zeroth:201_003_0964.wav",
-      "start": 8.157,
-      "end": 8.708,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1365": {
       "text": "목적",
@@ -7637,13 +6973,9 @@
     },
     "1373": {
       "text": "점수",
-      "src": "zeroth:201_003_1281.wav",
-      "start": 6.467,
-      "end": 6.827,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.921
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1375": {
       "text": "해외",
@@ -7657,13 +6989,9 @@
     },
     "1377": {
       "text": "화면",
-      "src": "zeroth:118_003_2190.wav",
-      "start": 1.814,
-      "end": 2.155,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.893
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1380": {
       "text": "여왕",
@@ -7687,23 +7015,15 @@
     },
     "1388": {
       "text": "계절",
-      "src": "zeroth:150_003_1509.wav",
-      "start": 4.527,
-      "end": 4.817,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.847
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1389": {
       "text": "남성",
-      "src": "zeroth:121_003_0094.wav",
-      "start": 5.256,
-      "end": 5.637,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.923
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1390": {
       "text": "고통",
@@ -7767,13 +7087,9 @@
     },
     "1397": {
       "text": "관리자",
-      "src": "zeroth:188_003_2824.wav",
-      "start": 9.046,
-      "end": 9.487,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.925
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1398": {
       "text": "궁전",
@@ -7817,13 +7133,9 @@
     },
     "1403": {
       "text": "비율",
-      "src": "zeroth:201_003_0073.wav",
-      "start": 3.335,
-      "end": 3.665,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.806
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1404": {
       "text": "비서",
@@ -7907,13 +7219,9 @@
     },
     "1421": {
       "text": "환자",
-      "src": "zeroth:191_003_2834.wav",
-      "start": 1.912,
-      "end": 2.223,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1422": {
       "text": "받다",
@@ -7937,13 +7245,9 @@
     },
     "1429": {
       "text": "서비스",
-      "src": "zeroth:112_003_2156.wav",
-      "start": 6.428,
-      "end": 6.929,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.918
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1431": {
       "text": "평화",
@@ -8167,23 +7471,15 @@
     },
     "1482": {
       "text": "원숭이",
-      "src": "zeroth:136_003_0632.wav",
-      "start": 10.946,
-      "end": 11.447,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.928
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1483": {
       "text": "행성",
-      "src": "zeroth:114_003_1970.wav",
-      "start": 3.626,
-      "end": 4.047,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.917
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1489": {
       "text": "대부분",
@@ -8267,13 +7563,9 @@
     },
     "1505": {
       "text": "요청",
-      "src": "zeroth:201_003_1867.wav",
-      "start": 2.551,
-      "end": 3.002,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.913
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1506": {
       "text": "피부",
@@ -8417,13 +7709,9 @@
     },
     "1528": {
       "text": "휴식",
-      "src": "zeroth:192_003_0173.wav",
-      "start": 2.007,
-      "end": 2.308,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.93
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1529": {
       "text": "미소",
@@ -8437,33 +7725,21 @@
     },
     "1530": {
       "text": "목",
-      "src": "zeroth:191_003_0865.wav",
-      "start": 3.533,
-      "end": 3.773,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1531": {
       "text": "소유",
-      "src": "zeroth:214_003_2898.wav",
-      "start": 3.623,
-      "end": 3.924,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.872
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1532": {
       "text": "검토",
-      "src": "zeroth:201_003_2119.wav",
-      "start": 9.247,
-      "end": 9.667,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1533": {
       "text": "연기",
@@ -8477,13 +7753,9 @@
     },
     "1534": {
       "text": "가능성",
-      "src": "zeroth:147_003_2509.wav",
-      "start": 5.326,
-      "end": 5.927,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.909
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1535": {
       "text": "흡연",
@@ -8627,13 +7899,9 @@
     },
     "1569": {
       "text": "믿음",
-      "src": "zeroth:191_003_2999.wav",
-      "start": 5.349,
-      "end": 5.709,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.928
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1571": {
       "text": "꼭대기",
@@ -8657,13 +7925,9 @@
     },
     "1578": {
       "text": "원천",
-      "src": "zeroth:118_003_0905.wav",
-      "start": 1.852,
-      "end": 2.313,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.912
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1579": {
       "text": "관광",
@@ -8677,23 +7941,15 @@
     },
     "1587": {
       "text": "접근",
-      "src": "zeroth:201_003_1580.wav",
-      "start": 8.03,
-      "end": 8.451,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.929
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1588": {
       "text": "연설",
-      "src": "zeroth:191_003_0450.wav",
-      "start": 5.978,
-      "end": 6.398,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.905
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1590": {
       "text": "계정",
@@ -8707,23 +7963,15 @@
     },
     "1591": {
       "text": "속도",
-      "src": "zeroth:201_003_2050.wav",
-      "start": 10.841,
-      "end": 11.242,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1592": {
       "text": "장난감",
-      "src": "zeroth:180_003_1525.wav",
-      "start": 3.308,
-      "end": 3.799,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.92
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1593": {
       "text": "폭탄",
@@ -8787,13 +8035,9 @@
     },
     "1605": {
       "text": "추가",
-      "src": "zeroth:191_003_1561.wav",
-      "start": 2.646,
-      "end": 3.026,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1606": {
       "text": "무대",
@@ -8817,13 +8061,9 @@
     },
     "1608": {
       "text": "계단",
-      "src": "zeroth:188_003_0594.wav",
-      "start": 2.522,
-      "end": 2.882,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.842
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1609": {
       "text": "훈련",
@@ -8947,13 +8187,9 @@
     },
     "1644": {
       "text": "폭풍",
-      "src": "zeroth:187_003_2324.wav",
-      "start": 1.274,
-      "end": 1.685,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.905
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1646": {
       "text": "캠페인",
@@ -8977,13 +8213,9 @@
     },
     "1650": {
       "text": "후보자",
-      "src": "zeroth:201_003_0254.wav",
-      "start": 5.249,
-      "end": 5.72,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1651": {
       "text": "앨범",
@@ -9017,13 +8249,9 @@
     },
     "1658": {
       "text": "선장",
-      "src": "zeroth:187_003_2959.wav",
-      "start": 3.097,
-      "end": 3.488,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.926
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1660": {
       "text": "전략",
@@ -9077,13 +8305,9 @@
     },
     "1672": {
       "text": "분석",
-      "src": "zeroth:191_003_2108.wav",
-      "start": 6.685,
-      "end": 7.076,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.931
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1673": {
       "text": "지하철",
@@ -9107,13 +8331,9 @@
     },
     "1679": {
       "text": "발표",
-      "src": "zeroth:104_003_1313.wav",
-      "start": 2.938,
-      "end": 3.319,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1681": {
       "text": "계곡",
@@ -9187,23 +8407,15 @@
     },
     "1692": {
       "text": "견해",
-      "src": "zeroth:204_003_0644.wav",
-      "start": 6.76,
-      "end": 7.13,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.873
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1694": {
       "text": "제안",
-      "src": "zeroth:201_003_1832.wav",
-      "start": 2.755,
-      "end": 3.116,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1699": {
       "text": "정장",
@@ -9297,13 +8509,9 @@
     },
     "1716": {
       "text": "세탁",
-      "src": "zeroth:187_003_0013.wav",
-      "start": 1.222,
-      "end": 1.523,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1718": {
       "text": "도착",
@@ -9327,13 +8535,9 @@
     },
     "1722": {
       "text": "과제",
-      "src": "zeroth:201_003_0287.wav",
-      "start": 2.084,
-      "end": 2.575,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1723": {
       "text": "조사",
@@ -9387,13 +8591,9 @@
     },
     "1732": {
       "text": "결혼식",
-      "src": "zeroth:107_003_0823.wav",
-      "start": 3.485,
-      "end": 3.985,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.821
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1733": {
       "text": "조항",
@@ -9457,13 +8657,9 @@
     },
     "1743": {
       "text": "매력",
-      "src": "zeroth:188_003_0845.wav",
-      "start": 1.291,
-      "end": 1.662,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.92
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1745": {
       "text": "바퀴",
@@ -9497,13 +8693,9 @@
     },
     "1751": {
       "text": "맛",
-      "src": "zeroth:188_003_0673.wav",
-      "start": 4.824,
-      "end": 5.055,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1752": {
       "text": "전체",
@@ -9527,23 +8719,15 @@
     },
     "1763": {
       "text": "바람",
-      "src": "zeroth:121_003_0193.wav",
-      "start": 0.842,
-      "end": 1.183,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1766": {
       "text": "용어",
-      "src": "zeroth:188_003_2607.wav",
-      "start": 8.285,
-      "end": 8.586,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.919
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1768": {
       "text": "동전",
@@ -9567,13 +8751,9 @@
     },
     "1772": {
       "text": "균형",
-      "src": "zeroth:165_003_0095.wav",
-      "start": 1.182,
-      "end": 1.572,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.857
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1778": {
       "text": "금지",
@@ -9587,13 +8767,9 @@
     },
     "1781": {
       "text": "도둑",
-      "src": "zeroth:192_003_0490.wav",
-      "start": 1.093,
-      "end": 1.384,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1785": {
       "text": "기초",
@@ -9627,13 +8803,9 @@
     },
     "1805": {
       "text": "공포",
-      "src": "zeroth:160_003_0597.wav",
-      "start": 1.615,
-      "end": 2.026,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.908
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1806": {
       "text": "불만",
@@ -9647,13 +8819,9 @@
     },
     "1808": {
       "text": "주인",
-      "src": "zeroth:191_003_1595.wav",
-      "start": 1.507,
-      "end": 1.788,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1812": {
       "text": "의심",
@@ -9707,13 +8875,9 @@
     },
     "1835": {
       "text": "먼지",
-      "src": "zeroth:207_003_1663.wav",
-      "start": 0.852,
-      "end": 1.133,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.932
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1839": {
       "text": "의무",
@@ -9747,33 +8911,21 @@
     },
     "1843": {
       "text": "지진",
-      "src": "zeroth:201_003_2256.wav",
-      "start": 7.154,
-      "end": 7.545,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1844": {
       "text": "홍수",
-      "src": "zeroth:207_003_2324.wav",
-      "start": 1.875,
-      "end": 2.226,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.922
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1845": {
       "text": "영향",
-      "src": "zeroth:201_003_0201.wav",
-      "start": 4.629,
-      "end": 5.0,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.924
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1852": {
       "text": "흐름",
@@ -9787,13 +8939,9 @@
     },
     "1853": {
       "text": "중요성",
-      "src": "zeroth:201_003_0802.wav",
-      "start": 5.635,
-      "end": 6.356,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.895
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1854": {
       "text": "소비자",
@@ -9827,13 +8975,9 @@
     },
     "1858": {
       "text": "접촉",
-      "src": "zeroth:104_003_1145.wav",
-      "start": 5.066,
-      "end": 5.426,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.908
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1862": {
       "text": "용기",
@@ -9857,33 +9001,21 @@
     },
     "1864": {
       "text": "개선",
-      "src": "zeroth:137_003_0008.wav",
-      "start": 7.885,
-      "end": 8.325,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.869
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1865": {
       "text": "내용",
-      "src": "zeroth:121_003_0357.wav",
-      "start": 2.071,
-      "end": 2.381,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.909
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1871": {
       "text": "영원히",
-      "src": "zeroth:214_003_1919.wav",
-      "start": 5.658,
-      "end": 6.298,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.894
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1873": {
       "text": "대조",
@@ -9897,43 +9029,27 @@
     },
     "1875": {
       "text": "틀",
-      "src": "zeroth:169_003_2299.wav",
-      "start": 1.151,
-      "end": 1.341,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.92
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1885": {
       "text": "노력",
-      "src": "zeroth:191_003_0924.wav",
-      "start": 8.426,
-      "end": 8.827,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.911
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1889": {
       "text": "선거",
-      "src": "zeroth:187_003_0458.wav",
-      "start": 4.314,
-      "end": 4.585,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.934
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1892": {
       "text": "의상",
-      "src": "zeroth:212_003_2346.wav",
-      "start": 4.174,
-      "end": 4.685,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.885
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1893": {
       "text": "요소",
@@ -9987,23 +9103,15 @@
     },
     "1909": {
       "text": "연료",
-      "src": "zeroth:205_003_1890.wav",
-      "start": 2.324,
-      "end": 2.714,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.929
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1910": {
       "text": "지능",
-      "src": "zeroth:201_003_1210.wav",
-      "start": 1.002,
-      "end": 1.322,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.929
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1911": {
       "text": "고용",
@@ -10107,13 +9215,9 @@
     },
     "1938": {
       "text": "입구",
-      "src": "zeroth:201_003_2017.wav",
-      "start": 7.872,
-      "end": 8.163,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.894
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1941": {
       "text": "현재",
@@ -10177,13 +9281,9 @@
     },
     "1959": {
       "text": "탈출",
-      "src": "zeroth:191_003_2491.wav",
-      "start": 3.219,
-      "end": 3.67,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.911
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1965": {
       "text": "결국",
@@ -10217,13 +9317,9 @@
     },
     "1972": {
       "text": "라벨",
-      "src": "zeroth:152_003_2814.wav",
-      "start": 8.564,
-      "end": 8.894,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.832
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1974": {
       "text": "교환",
@@ -10237,23 +9333,15 @@
     },
     "1977": {
       "text": "정의",
-      "src": "zeroth:201_003_0870.wav",
-      "start": 4.118,
-      "end": 4.439,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.862
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1978": {
       "text": "흥분",
-      "src": "zeroth:212_003_2228.wav",
-      "start": 2.775,
-      "end": 3.136,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.9
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1979": {
       "text": "성장",
@@ -10267,23 +9355,15 @@
     },
     "1980": {
       "text": "부족",
-      "src": "zeroth:187_003_0666.wav",
-      "start": 2.485,
-      "end": 2.776,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1982": {
       "text": "전시회",
-      "src": "zeroth:201_003_1754.wav",
-      "start": 2.643,
-      "end": 3.164,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.819
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1983": {
       "text": "경비원",
@@ -10307,13 +9387,9 @@
     },
     "1986": {
       "text": "출구",
-      "src": "zeroth:212_003_1866.wav",
-      "start": 3.684,
-      "end": 4.025,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.925
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1991": {
       "text": "층",
@@ -10327,13 +9403,9 @@
     },
     "1992": {
       "text": "목적지",
-      "src": "zeroth:192_003_1905.wav",
-      "start": 1.416,
-      "end": 1.848,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.923
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "1996": {
       "text": "행복",
@@ -10347,13 +9419,9 @@
     },
     "2001": {
       "text": "잎",
-      "src": "zeroth:188_003_0609.wav",
-      "start": 6.81,
-      "end": 6.97,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2002": {
       "text": "발전",
@@ -10427,23 +9495,15 @@
     },
     "2015": {
       "text": "수출",
-      "src": "zeroth:201_003_1258.wav",
-      "start": 2.754,
-      "end": 3.135,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.92
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2020": {
       "text": "흙",
-      "src": "zeroth:114_003_1310.wav",
-      "start": 1.822,
-      "end": 2.112,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.811
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2023": {
       "text": "상당히",
@@ -10497,13 +9557,9 @@
     },
     "2041": {
       "text": "생활",
-      "src": "zeroth:147_003_2696.wav",
-      "start": 3.276,
-      "end": 3.647,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.88
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2043": {
       "text": "제대로",
@@ -10587,13 +9643,9 @@
     },
     "2071": {
       "text": "지불",
-      "src": "zeroth:197_003_2196.wav",
-      "start": 3.363,
-      "end": 3.673,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2072": {
       "text": "안전",
@@ -10607,13 +9659,9 @@
     },
     "2075": {
       "text": "자격",
-      "src": "zeroth:114_003_2461.wav",
-      "start": 3.331,
-      "end": 3.692,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2077": {
       "text": "주로",
@@ -10647,13 +9695,9 @@
     },
     "2087": {
       "text": "마케팅",
-      "src": "zeroth:160_003_1711.wav",
-      "start": 7.997,
-      "end": 8.518,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.844
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2089": {
       "text": "인용",
@@ -10687,13 +9731,9 @@
     },
     "2097": {
       "text": "인종",
-      "src": "zeroth:187_003_2001.wav",
-      "start": 1.912,
-      "end": 2.193,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.927
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2098": {
       "text": "세트",
@@ -10737,13 +9777,9 @@
     },
     "2108": {
       "text": "범위",
-      "src": "zeroth:118_003_0584.wav",
-      "start": 7.079,
-      "end": 7.369,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.848
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2111": {
       "text": "혼란",
@@ -10787,13 +9823,9 @@
     },
     "2128": {
       "text": "추천",
-      "src": "zeroth:187_003_2573.wav",
-      "start": 1.283,
-      "end": 1.644,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.924
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2129": {
       "text": "교대",
@@ -10867,13 +9899,9 @@
     },
     "2150": {
       "text": "신호",
-      "src": "zeroth:214_003_0581.wav",
-      "start": 13.063,
-      "end": 13.373,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.849
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2151": {
       "text": "미스터리",
@@ -10987,23 +10015,15 @@
     },
     "2204": {
       "text": "기도",
-      "src": "zeroth:126_003_0166.wav",
-      "start": 4.563,
-      "end": 4.854,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.936
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2206": {
       "text": "예측",
-      "src": "zeroth:187_003_1402.wav",
-      "start": 4.98,
-      "end": 5.361,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.887
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2213": {
       "text": "예약",
@@ -11017,23 +10037,15 @@
     },
     "2214": {
       "text": "지출",
-      "src": "zeroth:135_003_1839.wav",
-      "start": 0.771,
-      "end": 1.221,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2217": {
       "text": "자원",
-      "src": "zeroth:187_003_2684.wav",
-      "start": 2.132,
-      "end": 2.523,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.915
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2220": {
       "text": "압력",
@@ -11087,33 +10099,21 @@
     },
     "2235": {
       "text": "사제",
-      "src": "zeroth:194_003_2975.wav",
-      "start": 1.722,
-      "end": 2.032,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.928
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2240": {
       "text": "경기장",
-      "src": "zeroth:196_003_2333.wav",
-      "start": 4.748,
-      "end": 5.319,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.921
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2244": {
       "text": "수술",
-      "src": "zeroth:187_003_1319.wav",
-      "start": 3.387,
-      "end": 3.668,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.935
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2245": {
       "text": "공주",
@@ -11137,13 +10137,9 @@
     },
     "2248": {
       "text": "교장",
-      "src": "zeroth:104_003_1416.wav",
-      "start": 8.794,
-      "end": 9.124,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.905
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2252": {
       "text": "로봇",
@@ -11207,53 +10203,33 @@
     },
     "2272": {
       "text": "이익",
-      "src": "zeroth:130_003_2741.wav",
-      "start": 3.753,
-      "end": 4.034,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.867
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2282": {
       "text": "스튜디오",
-      "src": "zeroth:190_003_1261.wav",
-      "start": 2.58,
-      "end": 3.122,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.849
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2283": {
       "text": "달리",
-      "src": "zeroth:191_003_1870.wav",
-      "start": 1.964,
-      "end": 2.365,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2290": {
       "text": "물질",
-      "src": "zeroth:187_003_0452.wav",
-      "start": 3.582,
-      "end": 3.952,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.934
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2298": {
       "text": "항공기",
-      "src": "zeroth:191_003_0951.wav",
-      "start": 2.073,
-      "end": 2.584,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.925
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2301": {
       "text": "의장",
@@ -11317,13 +10293,9 @@
     },
     "2323": {
       "text": "버전",
-      "src": "zeroth:105_003_1440.wav",
-      "start": 5.193,
-      "end": 5.683,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.907
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2325": {
       "text": "시민",
@@ -11347,13 +10319,9 @@
     },
     "2327": {
       "text": "희생자",
-      "src": "zeroth:203_003_1952.wav",
-      "start": 7.357,
-      "end": 7.928,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.915
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2331": {
       "text": "분명히",
@@ -11397,13 +10365,9 @@
     },
     "2346": {
       "text": "결합",
-      "src": "zeroth:199_003_2953.wav",
-      "start": 3.212,
-      "end": 3.613,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.819
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2347": {
       "text": "재능",
@@ -11447,33 +10411,21 @@
     },
     "2357": {
       "text": "위원회",
-      "src": "zeroth:201_003_0217.wav",
-      "start": 2.391,
-      "end": 2.971,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.928
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2358": {
       "text": "세금",
-      "src": "zeroth:135_003_2875.wav",
-      "start": 3.201,
-      "end": 3.532,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.933
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2360": {
       "text": "무기",
-      "src": "zeroth:201_003_0201.wav",
-      "start": 1.243,
-      "end": 1.563,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2361": {
       "text": "헌신",
@@ -11527,23 +10479,15 @@
     },
     "2385": {
       "text": "이론",
-      "src": "zeroth:201_003_2024.wav",
-      "start": 2.476,
-      "end": 2.857,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.93
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2388": {
       "text": "관심사",
-      "src": "zeroth:121_003_1225.wav",
-      "start": 1.691,
-      "end": 2.252,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.937
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2389": {
       "text": "그러므로",
@@ -11567,13 +10511,9 @@
     },
     "2393": {
       "text": "협회",
-      "src": "zeroth:187_003_1543.wav",
-      "start": 4.681,
-      "end": 5.092,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.736
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2397": {
       "text": "자신감",
@@ -11597,13 +10537,9 @@
     },
     "2400": {
       "text": "갈등",
-      "src": "zeroth:191_003_0764.wav",
-      "start": 4.222,
-      "end": 4.643,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.923
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2401": {
       "text": "날개",
@@ -11687,13 +10623,9 @@
     },
     "2432": {
       "text": "존재",
-      "src": "zeroth:201_003_2001.wav",
-      "start": 2.974,
-      "end": 3.344,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.896
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "2436": {
       "text": "청년",
@@ -11737,13 +10669,9 @@
     },
     "5733": {
       "text": "한번",
-      "src": "zeroth:192_003_2065.wav",
-      "start": 0.991,
-      "end": 1.292,
-      "license": "CC-BY-4.0",
-      "by": "Zeroth-Korean (Atlas Guide)",
-      "gender": null,
-      "score": 0.918
+      "src": "qwen3-tts:Sohee",
+      "license": "Apache-2.0",
+      "by": "Qwen3-TTS (synthetic, built-in voice, no cloning)"
     },
     "9717": {
       "text": "는",
