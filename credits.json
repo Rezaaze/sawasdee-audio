@@ -12,6 +12,12 @@
     "license": "CC BY-SA / CC BY / PD (per clip)"
    },
    {
+    "name": "Qwen3-TTS (Alibaba Qwen team) -- voice clone",
+    "license": "Apache-2.0",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "note": "synthetisch, Stimme geklont aus einer Mozilla-Common-Voice-Aufnahme (CC0, common_voice_de_19311014.mp3) via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz, kein eingebautes de-Preset verfuegbar"
+   },
+   {
     "name": "English Wiktionary via kaikki.org (German lemmas, IPA, gender, plural, glosses)",
     "url": "https://kaikki.org/dictionary/German/",
     "license": "CC-BY-SA-4.0"
@@ -59,6 +65,7 @@
    "Own work",
    "Pajz",
    "Pill",
+   "Qwen3-TTS (synthetic, voice clone from CC0 Common Voice reference)",
    "Reinsberg",
    "S.~commonswiki",
    "SabineWanner",
@@ -81,6 +88,12 @@
     "name": "Wiktionary / Wikimedia Commons",
     "url": "https://commons.wikimedia.org",
     "license": "CC BY-SA / CC BY / PD (per clip)"
+   },
+   {
+    "name": "Qwen3-TTS (Alibaba Qwen team)",
+    "license": "Apache-2.0",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt"
    },
    {
     "name": "NGSL project word lists – NGSL 1.2, NGSL-Spoken, NAWL, SFI frequency list (Browne, Culligan & Phillips)",
@@ -117,6 +130,7 @@
    "Neskaya",
    "Ocelots33",
    "Persent101",
+   "Qwen3-TTS (synthetic, built-in voice, no cloning)",
    "Rappo",
    "Spacecat2",
    "Steve Shives",
@@ -142,6 +156,12 @@
     "license": "CC0"
    },
    {
+    "name": "Qwen3-TTS (Alibaba Qwen team)",
+    "license": "Apache-2.0",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt"
+   },
+   {
     "name": "JLPT vocabulary lists by Jonathan Waller (tanos.co.uk)",
     "url": "https://www.tanos.co.uk/jlpt/",
     "license": "CC-BY-4.0"
@@ -162,7 +182,9 @@
     "license": "CC-BY-SA-3.0"
    }
   ],
-  "speakers": []
+  "speakers": [
+   "Qwen3-TTS (synthetic, built-in voice, no cloning)"
+  ]
  },
  "ko": {
   "sources": [
@@ -180,6 +202,12 @@
     "name": "Zeroth-Korean",
     "url": "https://www.openslr.org/40/",
     "license": "CC-BY-4.0"
+   },
+   {
+    "name": "Qwen3-TTS (Alibaba Qwen team)",
+    "license": "Apache-2.0",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt"
    },
    {
     "name": "NIKL 한국어 학습용 어휘 목록 / TOPIK 어휘 목록 (word list)",
@@ -205,6 +233,7 @@
   "speakers": [
    "FLEURS (Google Research)",
    "HappyMidnight",
+   "Qwen3-TTS (synthetic, built-in voice, no cloning)",
    "Zeroth-Korean (Atlas Guide)"
   ]
  },
@@ -234,6 +263,12 @@
     "license": "CC-BY-4.0"
    },
    {
+    "name": "VieNeu-TTS v3 Turbo (Pham Nguyen Ngoc Bao)",
+    "license": "Apache-2.0",
+    "url": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+    "note": "synthetisch, Preset-Stimme 'Mai Anh' (kein Voice-Cloning), lokal via VieNeu-TTS-SDK erzeugt"
+   },
+   {
     "name": "English Wiktionary via kaikki.org (Vietnamese head words, glosses, classifiers)",
     "url": "https://kaikki.org/dictionary/Vietnamese/",
     "license": "CC-BY-SA-3.0"
@@ -250,7 +285,8 @@
    }
   ],
   "speakers": [
-   "FLEURS (Google Research)"
+   "FLEURS (Google Research)",
+   "VieNeu-TTS (synthetic, preset voice, no cloning)"
   ]
  },
  "zh": {
