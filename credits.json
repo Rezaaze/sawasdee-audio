@@ -12,10 +12,10 @@
     "license": "CC BY-SA / CC BY / PD (per clip)"
    },
    {
-    "name": "Qwen3-TTS (Alibaba Qwen team) -- voice clone",
+    "name": "Qwen3-TTS (Alibaba Qwen team), Zero-Shot-Cloning",
     "license": "Apache-2.0",
-    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-    "note": "synthetisch, Stimme geklont aus einer Mozilla-Common-Voice-Aufnahme (CC0, common_voice_de_19311014.mp3) via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz, kein eingebautes de-Preset verfuegbar"
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+    "note": "synthetisch, Voice-Cloning mit einer festen, rechtssauberen Common-Voice-Referenz (17301818.m4a, CC0) -- kein deutsches Preset im Sprecher-Roster"
    },
    {
     "name": "English Wiktionary via kaikki.org (German lemmas, IPA, gender, plural, glosses)",
@@ -66,6 +66,7 @@
    "Pajz",
    "Pill",
    "Qwen3-TTS (synthetic, voice clone from CC0 Common Voice reference)",
+   "Qwen3-TTS (synthetic, voice-cloned from CC0 reference)",
    "Reinsberg",
    "S.~commonswiki",
    "SabineWanner",
@@ -240,19 +241,20 @@
  "th": {
   "sources": [
    {
+    "name": "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, th-TH-Neural2-C)",
+    "url": "https://cloud.google.com/text-to-speech",
+    "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
+   },
+   {
     "name": "Mozilla Common Voice",
     "url": "https://commonvoice.mozilla.org",
     "license": "CC0"
-   },
-   {
-    "name": "Qwen3-TTS (Alibaba Qwen team)",
-    "license": "Apache-2.0",
-    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt -- fuer Thai kein natives Preset, Hoertest 15.09. positiv"
    }
   ],
   "speakers": [
-   "Qwen3-TTS (synthetic, built-in voice, no cloning)"
+   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, synthetic)",
+   "Google Cloud Text-to-Speech (th-TH-Neural2-C, synthetic)"
   ]
  },
  "vi": {
@@ -292,15 +294,10 @@
  "zh": {
   "sources": [
    {
-    "name": "AISHELL-3",
-    "url": "https://www.openslr.org/93/",
-    "license": "Apache-2.0"
-   },
-   {
-    "name": "Qwen3-TTS (Alibaba Qwen team)",
-    "license": "Apache-2.0",
-    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt"
+    "name": "Google Cloud Text-to-Speech (cmn-CN-Wavenet-A, cmn-CN-Chirp3-HD-Aoede)",
+    "url": "https://cloud.google.com/text-to-speech",
+    "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
     "name": "CC-CEDICT (pinyin, English glosses)",
@@ -324,8 +321,8 @@
    }
   ],
   "speakers": [
-   "AISHELL-3 (Beijing Shell Shell Technology)",
-   "Qwen3-TTS (synthetic, built-in voice, no cloning)"
+   "Google Cloud Text-to-Speech (cmn-CN-Chirp3-HD-Aoede, synthetic)",
+   "Google Cloud Text-to-Speech (cmn-CN-Wavenet-A, synthetic)"
   ]
  }
 }
