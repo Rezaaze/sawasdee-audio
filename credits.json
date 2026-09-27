@@ -185,25 +185,10 @@
  "ko": {
   "sources": [
    {
-    "name": "FLEURS (Google)",
-    "url": "https://huggingface.co/datasets/google/fleurs",
-    "license": "CC-BY-4.0"
-   },
-   {
-    "name": "Wiktionary / Wikimedia Commons",
-    "url": "https://commons.wikimedia.org",
-    "license": "CC BY-SA / CC BY / PD (per clip)"
-   },
-   {
-    "name": "Zeroth-Korean",
-    "url": "https://www.openslr.org/40/",
-    "license": "CC-BY-4.0"
-   },
-   {
-    "name": "Qwen3-TTS (Alibaba Qwen team)",
-    "license": "Apache-2.0",
-    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt"
+    "name": "Google Cloud Text-to-Speech (ko-KR-Wavenet-A)",
+    "url": "https://cloud.google.com/text-to-speech",
+    "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
     "name": "NIKL 한국어 학습용 어휘 목록 / TOPIK 어휘 목록 (word list)",
@@ -227,10 +212,7 @@
    }
   ],
   "speakers": [
-   "FLEURS (Google Research)",
-   "HappyMidnight",
-   "Qwen3-TTS (synthetic, built-in voice, no cloning)",
-   "Zeroth-Korean (Atlas Guide)"
+   "Google Cloud Text-to-Speech (ko-KR-Wavenet-A, synthetic)"
   ]
  },
  "th": {
@@ -255,15 +237,10 @@
  "vi": {
   "sources": [
    {
-    "name": "FLEURS (Google)",
-    "url": "https://huggingface.co/datasets/google/fleurs",
-    "license": "CC-BY-4.0"
-   },
-   {
-    "name": "VieNeu-TTS v3 Turbo (Pham Nguyen Ngoc Bao)",
-    "license": "Apache-2.0",
-    "url": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
-    "note": "synthetisch, Preset-Stimme 'Mai Anh' (kein Voice-Cloning), lokal via VieNeu-TTS-SDK erzeugt"
+    "name": "Google Cloud Text-to-Speech (vi-VN-Neural2-A)",
+    "url": "https://cloud.google.com/text-to-speech",
+    "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
     "name": "English Wiktionary via kaikki.org (Vietnamese head words, glosses, classifiers)",
@@ -282,8 +259,7 @@
    }
   ],
   "speakers": [
-   "FLEURS (Google Research)",
-   "VieNeu-TTS (synthetic, preset voice, no cloning)"
+   "Google Cloud Text-to-Speech (vi-VN-Neural2-A, synthetic)"
   ]
  },
  "zh": {
