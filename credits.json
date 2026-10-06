@@ -12,10 +12,10 @@
     "license": "CC BY-SA / CC BY / PD (per clip)"
    },
    {
-    "name": "Qwen3-TTS (Alibaba Qwen team), Zero-Shot-Cloning",
-    "license": "Apache-2.0",
-    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-    "note": "synthetisch, Voice-Cloning mit einer festen, rechtssauberen Common-Voice-Referenz (17301818.m4a, CC0) -- kein deutsches Preset im Sprecher-Roster"
+    "name": "Google Cloud Text-to-Speech (de-DE-Chirp3-HD-Kore, de-DE-Neural2-G)",
+    "url": "https://cloud.google.com/text-to-speech",
+    "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
     "name": "English Wiktionary via kaikki.org (German lemmas, IPA, gender, plural, glosses)",
@@ -48,6 +48,8 @@
    "Gbeckmann",
    "GerardM",
    "Gestumblindi",
+   "Google Cloud Text-to-Speech (de-DE-Chirp3-HD-Kore, synthetic)",
+   "Google Cloud Text-to-Speech (de-DE-Neural2-G, synthetic)",
    "Hans-Joachim Fröde; alias Acf; native speaker",
    "Hedwig von Ebbel",
    "Holunder Gabriel",
@@ -65,8 +67,6 @@
    "Own work",
    "Pajz",
    "Pill",
-   "Qwen3-TTS (synthetic, voice clone from CC0 Common Voice reference)",
-   "Qwen3-TTS (synthetic, voice-cloned from CC0 reference)",
    "Reinsberg",
    "S.~commonswiki",
    "SabineWanner",
@@ -91,10 +91,10 @@
     "license": "CC BY-SA / CC BY / PD (per clip)"
    },
    {
-    "name": "Qwen3-TTS (Alibaba Qwen team)",
-    "license": "Apache-2.0",
-    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-    "note": "synthetisch, eingebaute Stimme (kein Voice-Cloning), via lokale Qwen3-TTS-MLX-WebUI-Enhanced-Instanz erzeugt"
+    "name": "Google Cloud Text-to-Speech (en-US-Chirp3-HD-Kore, en-US-Neural2-F)",
+    "url": "https://cloud.google.com/text-to-speech",
+    "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
     "name": "NGSL project word lists – NGSL 1.2, NGSL-Spoken, NAWL, SFI frequency list (Browne, Culligan & Phillips)",
@@ -123,6 +123,8 @@
    "EncycloPetey",
    "G. Allen Morris III",
    "Gbeebani",
+   "Google Cloud Text-to-Speech (en-US-Chirp3-HD-Kore, synthetic)",
+   "Google Cloud Text-to-Speech (en-US-Neural2-F, synthetic)",
    "I, EncycloPetey",
    "Jelkner",
    "K schadd",
@@ -131,7 +133,6 @@
    "Neskaya",
    "Ocelots33",
    "Persent101",
-   "Qwen3-TTS (synthetic, built-in voice, no cloning)",
    "Rappo",
    "Spacecat2",
    "Steve Shives",
@@ -152,9 +153,9 @@
  "ja": {
   "sources": [
    {
-    "name": "Google Cloud Text-to-Speech (ja-JP-Wavenet-B)",
-    "url": "https://cloud.google.com/text-to-speech",
-    "license": "Google-Cloud-TTS",
+    "name": "ElevenLabs (eleven_v4:Kyoko)",
+    "url": "https://elevenlabs.io",
+    "license": "ElevenLabs-Paid-Plan",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
@@ -179,7 +180,7 @@
    }
   ],
   "speakers": [
-   "Google Cloud Text-to-Speech (ja-JP-Wavenet-B, synthetic)"
+   "ElevenLabs (eleven_v4, voice \"Kyoko\", synthetic)"
   ]
  },
  "ko": {
@@ -224,14 +225,20 @@
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
+    "name": "ElevenLabs (eleven_v4:Siriporn)",
+    "url": "https://elevenlabs.io",
+    "license": "ElevenLabs-Paid-Plan",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
+   },
+   {
     "name": "Mozilla Common Voice",
     "url": "https://commonvoice.mozilla.org",
     "license": "CC0"
    }
   ],
   "speakers": [
-   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, synthetic)",
-   "Google Cloud Text-to-Speech (th-TH-Neural2-C, synthetic)"
+   "ElevenLabs (eleven_v4, voice \"Siriporn\", synthetic)",
+   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, synthetic)"
   ]
  },
  "vi": {
