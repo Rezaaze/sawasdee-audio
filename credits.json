@@ -12,7 +12,7 @@
     "license": "CC BY-SA / CC BY / PD (per clip)"
    },
    {
-    "name": "Google Cloud Text-to-Speech (de-DE-Chirp3-HD-Kore, de-DE-Neural2-G)",
+    "name": "Google Cloud Text-to-Speech (de-DE-Neural2-G, de-DE-Chirp3-HD-Kore)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
@@ -219,7 +219,7 @@
  "th": {
   "sources": [
    {
-    "name": "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, th-TH-Neural2-C)",
+    "name": "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
