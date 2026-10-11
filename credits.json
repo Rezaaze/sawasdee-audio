@@ -12,9 +12,15 @@
     "license": "CC BY-SA / CC BY / PD (per clip)"
    },
    {
-    "name": "Google Cloud Text-to-Speech (de-DE-Neural2-G, de-DE-Chirp3-HD-Kore)",
+    "name": "Google Cloud Text-to-Speech (de-DE-Chirp3-HD-Kore, de-DE-Neural2-G)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
+   },
+   {
+    "name": "ElevenLabs (eleven_v4:Ben, eleven_v4:Lea)",
+    "url": "https://elevenlabs.io",
+    "license": "ElevenLabs-Paid-Plan",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
@@ -44,6 +50,8 @@
    "Diako1971",
    "Dinock90",
    "Edward Montgomery Harrington",
+   "ElevenLabs (eleven_v4, voice \"Ben\", synthetic)",
+   "ElevenLabs (eleven_v4, voice \"Lea\", synthetic)",
    "Fojhtirf",
    "Gbeckmann",
    "GerardM",
@@ -91,7 +99,7 @@
     "license": "CC BY-SA / CC BY / PD (per clip)"
    },
    {
-    "name": "Google Cloud Text-to-Speech (en-US-Chirp3-HD-Kore, en-US-Neural2-F)",
+    "name": "Google Cloud Text-to-Speech (en-US-Chirp3-HD-Kore, en-US-Chirp3-HD-Puck, en-US-Neural2-F)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
@@ -124,6 +132,7 @@
    "G. Allen Morris III",
    "Gbeebani",
    "Google Cloud Text-to-Speech (en-US-Chirp3-HD-Kore, synthetic)",
+   "Google Cloud Text-to-Speech (en-US-Chirp3-HD-Puck, synthetic)",
    "Google Cloud Text-to-Speech (en-US-Neural2-F, synthetic)",
    "I, EncycloPetey",
    "Jelkner",
@@ -153,9 +162,15 @@
  "ja": {
   "sources": [
    {
-    "name": "ElevenLabs (eleven_v4:Kyoko)",
+    "name": "ElevenLabs (eleven_v4:Kyoko, eleven_v4:Otani)",
     "url": "https://elevenlabs.io",
     "license": "ElevenLabs-Paid-Plan",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
+   },
+   {
+    "name": "Google Cloud Text-to-Speech (ja-JP-Wavenet-B)",
+    "url": "https://cloud.google.com/text-to-speech",
+    "license": "Google-Cloud-TTS",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
@@ -180,7 +195,9 @@
    }
   ],
   "speakers": [
-   "ElevenLabs (eleven_v4, voice \"Kyoko\", synthetic)"
+   "ElevenLabs (eleven_v4, voice \"Kyoko\", synthetic)",
+   "ElevenLabs (eleven_v4, voice \"Otani\", synthetic)",
+   "Google Cloud Text-to-Speech (ja-JP-Wavenet-B, synthetic)"
   ]
  },
  "ko": {
@@ -189,6 +206,12 @@
     "name": "Google Cloud Text-to-Speech (ko-KR-Wavenet-A)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
+   },
+   {
+    "name": "ElevenLabs (eleven_v4:Anna Kim, eleven_v4:Chris)",
+    "url": "https://elevenlabs.io",
+    "license": "ElevenLabs-Paid-Plan",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
@@ -213,19 +236,21 @@
    }
   ],
   "speakers": [
+   "ElevenLabs (eleven_v4, voice \"Anna Kim\", synthetic)",
+   "ElevenLabs (eleven_v4, voice \"Chris\", synthetic)",
    "Google Cloud Text-to-Speech (ko-KR-Wavenet-A, synthetic)"
   ]
  },
  "th": {
   "sources": [
    {
-    "name": "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore)",
+    "name": "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, th-TH-Chirp3-HD-Orus)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
-    "name": "ElevenLabs (eleven_v4:Siriporn)",
+    "name": "ElevenLabs (eleven_v4:Siriporn, eleven_v4:Somchai)",
     "url": "https://elevenlabs.io",
     "license": "ElevenLabs-Paid-Plan",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
@@ -238,15 +263,23 @@
   ],
   "speakers": [
    "ElevenLabs (eleven_v4, voice \"Siriporn\", synthetic)",
-   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, synthetic)"
+   "ElevenLabs (eleven_v4, voice \"Somchai\", synthetic)",
+   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, synthetic)",
+   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Orus, synthetic)"
   ]
  },
  "vi": {
   "sources": [
    {
-    "name": "Google Cloud Text-to-Speech (vi-VN-Neural2-A)",
+    "name": "Google Cloud Text-to-Speech (vi-VN-Chirp3-HD-Puck, vi-VN-Neural2-A)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
+   },
+   {
+    "name": "ElevenLabs (eleven_v4:Hạnh, eleven_v4:Tung Dang)",
+    "url": "https://elevenlabs.io",
+    "license": "ElevenLabs-Paid-Plan",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
@@ -266,15 +299,24 @@
    }
   ],
   "speakers": [
+   "ElevenLabs (eleven_v4, voice \"Hạnh\", synthetic)",
+   "ElevenLabs (eleven_v4, voice \"Tung Dang\", synthetic)",
+   "Google Cloud Text-to-Speech (vi-VN-Chirp3-HD-Puck, synthetic)",
    "Google Cloud Text-to-Speech (vi-VN-Neural2-A, synthetic)"
   ]
  },
  "zh": {
   "sources": [
    {
-    "name": "Google Cloud Text-to-Speech (cmn-CN-Wavenet-A, cmn-CN-Chirp3-HD-Aoede)",
+    "name": "Google Cloud Text-to-Speech (cmn-CN-Chirp3-HD-Puck, cmn-CN-Wavenet-A)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
+    "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
+   },
+   {
+    "name": "ElevenLabs (eleven_v4:James Gao, eleven_v4:Stella Gu)",
+    "url": "https://elevenlabs.io",
+    "license": "ElevenLabs-Paid-Plan",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
    },
    {
@@ -299,7 +341,9 @@
    }
   ],
   "speakers": [
-   "Google Cloud Text-to-Speech (cmn-CN-Chirp3-HD-Aoede, synthetic)",
+   "ElevenLabs (eleven_v4, voice \"James Gao\", synthetic)",
+   "ElevenLabs (eleven_v4, voice \"Stella Gu\", synthetic)",
+   "Google Cloud Text-to-Speech (cmn-CN-Chirp3-HD-Puck, synthetic)",
    "Google Cloud Text-to-Speech (cmn-CN-Wavenet-A, synthetic)"
   ]
  }
