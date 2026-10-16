@@ -244,7 +244,7 @@
  "th": {
   "sources": [
    {
-    "name": "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Aoede, th-TH-Chirp3-HD-Autonoe, th-TH-Chirp3-HD-Kore, th-TH-Chirp3-HD-Orus, th-TH-Neural2-C)",
+    "name": "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Aoede, th-TH-Chirp3-HD-Autonoe, th-TH-Chirp3-HD-Charon, th-TH-Chirp3-HD-Despina, th-TH-Chirp3-HD-Kore, th-TH-Chirp3-HD-Sulafat, th-TH-Neural2-C)",
     "url": "https://cloud.google.com/text-to-speech",
     "license": "Google-Cloud-TTS",
     "note": "synthetisch, einmalig in der Build-Pipeline erzeugt; die App ruft keine Cloud-API auf"
@@ -266,8 +266,11 @@
    "ElevenLabs (eleven_v4, voice \"Somchai\", synthetic)",
    "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Aoede, synthetic)",
    "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Autonoe, synthetic)",
+   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Charon, synthetic)",
+   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Despina, synthetic)",
    "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Kore, synthetic)",
    "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Orus, synthetic)",
+   "Google Cloud Text-to-Speech (th-TH-Chirp3-HD-Sulafat, synthetic)",
    "Google Cloud Text-to-Speech (th-TH-Neural2-C, synthetic)"
   ]
  },
